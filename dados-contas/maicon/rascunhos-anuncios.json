@@ -1,0 +1,137 @@
+[
+  {
+    "id": "6e212bdead9a",
+    "criado": "2026-10-27T21:25:37.385Z",
+    "status": "rascunho",
+    "dados": {
+      "origem": "https://www.mercadolivre.com.br/parafusadeira-furadeira-de-impacto-a-bateria-21v-38-bivolt-1400-rpm-com-acessorios-e-maleta-tb-21pzw-the-black-tools/p/MLB60012839?pdp_filters=item_id%3AMLB4248865607#polycard_client=mshops-appearance-api&component=tabbed_carousel&wid=MLB4248865607&title=Mais+vendidos+com+pre%C3%A7os+de+atacado&tracking_id=a5ec5cac907397088724a9cbb4c3df41&sid=storefronts&global_position=4",
+      "titulo": "Parafusadeira Furadeira De Impacto A Bateria 21V 3/8” Bivolt",
+      "family_name": "Parafusadeira Furadeira De Impacto A",
+      "categoria": "MLB189007",
+      "categoria_nome": "Ferramentas > Ferramentas Elétricas > Perfuração > Furadeiras > De Mão",
+      "preco": "105.6",
+      "preco_compra": 60,
+      "quantidade": "1",
+      "condicao": "new",
+      "tipo": "gold_pro",
+      "descricao": "FURADEIRA PARAFUSADEIRA DE IMPACTO SEM FIO A BATERIA 21V 3/8 10MM COM MALETA E ACESSÓRIOS TB-21PZW - The Black Tools\n\nDESCRIÇÃO:\nA Furadeira Parafusadeira de Impacto TB-21PZW da The Black Tools é uma ferramenta potente e versátil, ideal para atender às demandas de perfuração e parafusamento em diversos materiais. Seu design ergonômico e compacto garante conforto em usos prolongados e permite o manuseio em locais de difícil acesso. Desenvolvida para oferecer alta performance e durabilidade, é perfeita para profissionais e entusiastas do DIY.\n\nAPLICAÇÕES:\n- Uso em construção civil, marcenaria, bricolagem e tarefas domésticas.\n- Perfuração e parafusamento em madeira, metal e plástico;\n\nCONTEÚDO DA EMBALAGEM:\n- 04 Brocas helicoidais M2, M3, M4, M5, M6;\n- 01 Broca de impacto multifuncional M8;\n- 01 Ponteira PH2+ST6 de 65mm;\n- 01 Conector flexível de 30mm;\n- 01 Parafusadeira TB21PZW;\n- 01 Ponteira PH2 de 100mm;\n- 01 Manual do usuário;\n- 01 Carregador Bivolt;\n- 02 Adaptadores;\n- 09 Soquetes;\n- 01 Bateria;\n- 10 Bits.\n\nFICHA TÉCNICA:  \n- Diâmetro do mandril: 3/8” 10mm (aperto rápido);\n- Rotação sem carga: 0-400/0-1400 RPM;\n- Velocidade variável e reversível;\n- Opção de torque: 18 + 3;\n- Torque máximo: 35 N.m;\n- Empunhadura soft grip;\n- Função impacto: sim;\n- Bateria: 1500mAh;\n- Tensão: bivolt.\n\nVANTAGENS:\n- Indicador de carga para controle eficiente durante o trabalho;\n- Design ergonômico para maior conforto no uso prolongado;\n- Compacta e fácil de manusear em espaços reduzidos;\n- Durabilidade e confiabilidade para uso profissional;\n- Alta precisão com torque máximo de 35 N.m.\n\nMarca: The Black Tools\nModelo: TB-21PZW",
+      "fotos": [
+        "https://http2.mlstatic.com/D_NQ_NP_660718-MLA99503122958_112025-F.jpg",
+        "https://http2.mlstatic.com/D_NQ_NP_929040-MLA94464525386_102025-F.jpg",
+        "https://http2.mlstatic.com/D_NQ_NP_748752-MLA94894917829_102025-F.jpg",
+        "https://http2.mlstatic.com/D_NQ_NP_992896-MLA94464525396_102025-F.jpg",
+        "https://http2.mlstatic.com/D_NQ_NP_611585-MLA94464001930_102025-F.jpg",
+        "https://http2.mlstatic.com/D_NQ_NP_639887-MLA94894474151_102025-F.jpg",
+        "https://http2.mlstatic.com/D_NQ_NP_924398-MLA94463971920_102025-F.jpg",
+        "https://http2.mlstatic.com/D_NQ_NP_852400-MLA94894552385_102025-F.jpg",
+        "https://http2.mlstatic.com/D_NQ_NP_734501-MLA94894917879_102025-F.jpg",
+        "https://http2.mlstatic.com/D_NQ_NP_725065-MLA94894917885_102025-F.jpg"
+      ],
+      "atributos": [
+        {
+          "id": "BRAND",
+          "nome": "Marca",
+          "valor": "The Black Tools",
+          "value_id": "13593567"
+        },
+        {
+          "id": "MODEL",
+          "nome": "Modelo",
+          "valor": "TB-21PZW",
+          "value_id": "47028474"
+        },
+        {
+          "id": "POWER_SUPPLY_TYPE",
+          "nome": "Tipo de alimentação",
+          "valor": "Bateria",
+          "value_id": "4491927"
+        },
+        {
+          "id": "COLOR",
+          "nome": "Cor",
+          "valor": "Amarelo",
+          "value_id": "52007"
+        },
+        {
+          "id": "VOLTAGE",
+          "nome": "Voltagem",
+          "valor": "127/220V",
+          "value_id": "39205163"
+        },
+        {
+          "id": "FREQUENCY",
+          "nome": "Frequência",
+          "valor": "60 Hz",
+          "value_id": "996087"
+        },
+        {
+          "id": "PRODUCT_TYPE",
+          "nome": "Tipo de produto",
+          "valor": "Parafusadeira",
+          "value_id": "16525487"
+        },
+        {
+          "id": "IS_WIRELESS",
+          "nome": "É sem fio",
+          "valor": "Sim",
+          "value_id": "242085"
+        },
+        {
+          "id": "MANDREL_SIZE",
+          "nome": "Tamanho do mandril",
+          "valor": "10 mm",
+          "value_id": "2512207"
+        },
+        {
+          "id": "MIN_ROTATION_SPEED",
+          "nome": "Velocidade mínima de rotação",
+          "valor": "0 rpm",
+          "value_id": "7736464"
+        },
+        {
+          "id": "MAX_ROTATION_SPEED",
+          "nome": "Velocidade máxima de rotação",
+          "valor": "1400 rpm",
+          "value_id": "8031856"
+        },
+        {
+          "id": "ACCESSORIES_INCLUDED",
+          "nome": "Acessórios incluídos",
+          "valor": "Adaptadores, Bateria, Broca de impacto multifuncional M8, Brocas helicoidais M2, Carregador bivolt, Conector flexivel de 30 mm, M3, M4, Manual do usuário, Parafusadeira TB21PZW, Ponteira PH2 ST6 de 65 mm, Ponteira PH2 de 100 mm, m5, m6",
+          "value_id": ""
+        },
+        {
+          "id": "INCLUDES_ACCESSORIES",
+          "nome": "Inclui acessórios",
+          "valor": "Sim",
+          "value_id": "242085"
+        },
+        {
+          "id": "PACKAGE_DATA_SOURCE",
+          "nome": "Origem do dado do pacote de fábrica",
+          "valor": "CERTIFIED_MEASUREMENT",
+          "value_id": "52228230"
+        },
+        {
+          "id": "POWER",
+          "nome": "Potência",
+          "valor": "1000 W",
+          "value_id": "104525"
+        },
+        {
+          "id": "MAIN_COLOR",
+          "nome": "Cor principal",
+          "valor": "Amarelo",
+          "value_id": "2450296"
+        }
+      ],
+      "sku": "",
+      "garantia_tipo": "Garantia de fábrica",
+      "garantia_tempo": "7 dias",
+      "frete_gratis": true,
+      "video_id": ""
+    },
+    "titulo": "Parafusadeira Furadeira De Impacto A Bateria 21V 3/8” Bivolt",
+    "atualizado": "2026-10-27T21:25:37.385Z"
+  }
+]

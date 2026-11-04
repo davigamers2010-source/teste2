@@ -1,0 +1,61 @@
+{
+  "mercadolivre": {
+    "cred": {
+      "client_id": "8609822375657682",
+      "client_secret": "enc:v1:fHi87juMpZ38pUZBXeMtDIGPn6ZhV4K5FjIwpyX1QT4h8qIeUcNFlJewBxgrnDqlBdCb+OA1IvX77EjE",
+      "redirect_uri": "https://blah-accuracy-mile-anderson.trycloudflare.com/oauth/mercadolivre"
+    },
+    "tok": {
+      "access": "enc:v1:gr5iYQMx2FAXK829Mi3935kCll7W+lstnXWpdz8NF0pMYOi4ApVP6KEnV/yFrNLSHqPonOdqESK4e1xhYN19VEopp7CxFVZVKUHMDTO6td3y+fuTrn8AVgBxW84X0GlDBAOgCV6wIw==",
+      "refresh": "enc:v1:6uQyB4b3aCb2Te+JAxb4n78DBqyac+LApusBcQ1UbJIcK6HWF7nAtfCeUA7g6fBPwW2gPCF87SHWuJ26c76DeByX",
+      "exp": 1793749057684,
+      "uid": 2673296321
+    },
+    "conta": "BDFAEGHBC29447"
+  },
+  "wix": {
+    "cred": {
+      "api_key": "enc:v1:LHvkrIHWPTS0RlY+F/dKGXJNo4aLZwLqRoaRLsC4F7UFYBoVg7ycHhPAJU+rv/vsYlpE4QwWRepvxWcErWYFMzm3vCZls99qldygcbab1R51xmAb2Shgtwc4NG1/2rZnEXvq5GUEYXWCF1EDjeLpebAgftyy8N3idcov9jahJ7WauuMXju/MIb0tGP0wAkpRpnJsVbUSPqdi21HXnRH0bbokMq9GGciw41Zl+iV+6T+MrYzf9t2XLqbfTUp3PrGw0lpTiRg6tbDQ/EioO2Gh9taAdN8yYelpJs9cbHZnGbwMiPLr0c8objmtPafxGaBjTFe7pLoEw3uGEvht9WN2p+f59BoUl19vQ19JH7N4ps94/DF/RdxOKDokOqVjWP6j/7usRVFe65oZcisH+Wfer1AbAKMStsV8Khj1XZ8mDxpG8A3aRInkCHx25uiev7tQ1nZw/VSNHl1ecUz0IKDZWPKIEVRLo3OYNchp4lzEwYZqTfoP0Gzed4PNw0BP4T6iaJuraNorgnNbb4LYe1DnGTp6U570ymntlY9vJgon0x9KgPcxYd+lF5rpGcwh14jSBO2s5oHB1RLmp7OYlvvoG99HwKyTRYhBxE0+HRFwlfLFR0bz7mB8Sqj9rNwjGagrxa8dHJfjb3671RrPgg7ybk+dNuVbmhTL4k2Tr1olOHg05AAQvFXl7wLYjxyOijAehAZW4D0oWfD+m6z5cQ/gVjmSKzL4Ln1mVbaYWovxR+vcWKXx+7q9J3rr08PiA7RTVnlB9GZMEKhO+rsrwJmKV6nrAyREb2n3+MRR05QzAqLqdb02eH+YUJ0y2q5WAL6cpO4u9oi3CTuCZ0SFqnCxcaLozAT9SIj5A4fkp9YhUIjBwmbLgk4jI+oO1S7lhTjDUGL0pGiDh9HbYxAgXNvOlyoS88GIyEUgAQL87+l4VjjqQYcF3Dss4rEIoyNWXbGEsCckDSOFFdCF7mD+83GjTnIN0Xh694GNV8vnTIs=",
+      "site_id": "4f59926f-6100-48fe-86dd-7594f45584d1"
+    },
+    "conta": "Closet atacado e varejo",
+    "tok": {
+      "access": "enc:v1:Bxr2m+lhjLZbIy+WNW4YwKHLGd35qOPf3N8qneqqD9V/0zk2Tw==",
+      "exp": 2093217087655,
+      "uid": "4f59926f-6100-48fe-86dd-7594f45584d1"
+    }
+  },
+  "amazon": {
+    "cred": {
+      "client_id": "amzn1.application-oa2-client.432430ec1e8a41ce80cdd5181f59ebe7",
+      "client_secret": "enc:v1:B6wGvhYwLqAb6Z7skuDoMxmH7XmRX7s5bc3DhL+6v9YW/Ggd6xUu8FljmErYtcmSRR7qSxAFAAhrTvmSdJPLyU5vOti526UYCkIZkRI3izXymMkRjDyWat667FaBI7Dh08XJoFNUvbXVzAqd",
+      "refresh_token": "enc:v1:dPI3jFvvsuTnlkr6Czlq6EskooQTlCP7Xf+1wMXUrZQx5ndin/+ZGfhUvxI5XKFUT9J8vkKBkQUgwBR+oGq6gnYiug87yL4a2juj795RJw5qmpvAm9JiarAW7ZDiatiqzlkojjCzsLnKFCCiMfT0RPH6C5JjVq+4XOvNH3gRG/FVNp8FIsAp5R+xqpaokByasbyhNlK8z7MpJyJWPrfoYsCMtmT3sQFcZCyB0mP0efgqzcfIDiQ+Olgmpggr8xNaXOYb7NthmrHgV9Keo/Wc6UPk/WZSJjmenGSuFsv0EvWHYQhA78eKiNK1ZlhJjo0s4zZFrV6v6nuOAkgUpMP/9Ovm7YC3jt/6ddxeTSp7cOWsUdaosWP5eQlz8OPJCrrUIhlvnR5MoZYruvI3bx8EKmYcSaPWuk04NA8CpdGdI6bXSVzpk5508n4nPHxpKnVkk1dXzyvOMJ4oAuw4LDMrhWinm/6W8LhY"
+    }
+  },
+  "tiktok": {
+    "cred": {
+      "app_key": "awwlmm51tx6ba8hp",
+      "app_secret": "enc:v1:hAcyyZ7zIli0jt3F+FjaW01cFIW2imPGDPRabjH6FePMy7mS0CuHTjgqI1YF/Mg3OpGnpumklw5fxkcP"
+    }
+  },
+  "bling": {
+    "cred": {
+      "client_id": "98cd3a5fbcbb940af579adfac66007e920afa8d2",
+      "client_secret": "enc:v1:Vztk95zbOqpEG5iZ1eIfthLdLaeShIdwjcL3Joh/qLBLrdxPtRCnhaUkcsqzjJB0X6HZzgqylwYrqriCg6nfTNCsatZO6GBtCtZPra2ULGDGpNj++SP7NA=="
+    },
+    "tok": {
+      "access": "enc:v1:S3Jj2yJSey/ARn6aDmaERjyxwoiEPNWxaCs/jC2YrTFBDQ6LxaRAVp56YMTSwjHtqN+ghJEU3ernVB7SeeTpMDTPyAk=",
+      "refresh": "enc:v1:thd6iS/PtQmfm7x3UsrfwLIc5dmTVd9QuiuhmYCDw2kLGpByNhKZkhc0YfMb0KHySTae+XONMmGu++S2x08+uFcOwYM=",
+      "exp": 1793238156982
+    },
+    "conta": "MS CONFECÇÃO"
+  },
+  "shopee": {
+    "cred": {
+      "partner_id": "1251569",
+      "partner_key": "enc:v1:E1JKnfbsooKB0mRtOuoW/VAjSRH7n6xo7P+OSNhR+jFaFtIi6la3AIW/fRJ7UeqGPHttswjKIxKHWC2opu07GHOAuHwuis25pPAQvcbcVarK+n7kcO4GGbvd2fc=",
+      "shop_id": "23999411162",
+      "redirect_uri": "https://blah-accuracy-mile-anderson.trycloudflare.com/oauth/shopee"
+    }
+  }
+}

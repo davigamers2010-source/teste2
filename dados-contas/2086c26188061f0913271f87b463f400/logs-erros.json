@@ -1,0 +1,14 @@
+[
+  {
+    "hora": "2026-11-03T17:38:04.364Z",
+    "codigo": 304,
+    "msg": "Não consegui listar as impressoras do Windows",
+    "rota": "GET /api/impressoras",
+    "tec": {
+      "rota": "GET /api/impressoras",
+      "hora": "2026-11-03T17:38:04.364Z",
+      "servidor": "contas-30",
+      "node": "v24.22.1"
+    }
+  }
+]

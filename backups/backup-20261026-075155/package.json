@@ -1,0 +1,10 @@
+{
+  "name": "central-de-agentes",
+  "version": "20.0.0",
+  "private": true,
+  "description": "Central de Agentes - Automacao IA MS importadora",
+  "dependencies": {
+    "@whiskeysockets/baileys": "latest",
+    "qrcode": "^1.5.4"
+  }
+}

@@ -1,0 +1,1917 @@
+{
+ "config": {
+  "ligado": true,
+  "modo": "sugerir",
+  "autoTipos": [],
+  "limiar": 0.9,
+  "intervaloMin": 5,
+  "maxAgentes": 12,
+  "maxPorHora": 10,
+  "iaPorCiclo": 5
+ },
+ "agentes": {
+  "ate": {
+   "id": "ate",
+   "nome": "Ana · Atendimento",
+   "pai": null,
+   "geracao": 0,
+   "temas": [
+    "pergunta",
+    "reclamacao"
+   ],
+   "nicho": "",
+   "ativo": true,
+   "criado": 1792972261709,
+   "comp": {}
+  },
+  "mkt": {
+   "id": "mkt",
+   "nome": "Marina · Marketing",
+   "pai": null,
+   "geracao": 0,
+   "temas": [
+    "promocao"
+   ],
+   "nicho": "",
+   "ativo": true,
+   "criado": 1792972261709,
+   "comp": {}
+  },
+  "sup": {
+   "id": "sup",
+   "nome": "Sofia · Suporte",
+   "pai": null,
+   "geracao": 0,
+   "temas": [
+    "reputacao",
+    "conexao"
+   ],
+   "nicho": "",
+   "ativo": true,
+   "criado": 1792972261709,
+   "comp": {}
+  }
+ },
+ "licoes": [],
+ "decisoes": [
+  {
+   "id": "dmvohei69f347",
+   "hora": 1792972280962,
+   "item": "r5597953522",
+   "tipo": "reclamacao",
+   "agente": "ate",
+   "titulo": "Reclamação 5597953522 aberta (pedido 2000018994641856, dispute, motivo PDD9939)",
+   "pergunta": "",
+   "assunto": "PDD9939",
+   "texto": "Prezado moderador, estamos cientes da disputa do pedido 2000018994641856. Conforme nosso registro, o item foi despachado em [data de envio] e entregue em [data de entrega], conforme comprovante de entrega [código]. Caso haja divergência, solicitamos detalhes adicionais para que possamos corrigir rapidamente. Estamos à disposição para sanar quaisquer dúvidas e colaborar para a resolução satisfatória.",
+   "licoes": [],
+   "ref": {
+    "cid": "5597953522",
+    "etapa": "dispute"
+   },
+   "status": "resolvida",
+   "confianca": 0.4,
+   "fim": 1793040949311
+  },
+  {
+   "id": "dmvohfu4o2bea",
+   "hora": 1792972343112,
+   "item": "r5599315051",
+   "tipo": "reclamacao",
+   "agente": "ate",
+   "titulo": "Reclamação 5599315051 aberta (pedido 2000019027281492, dispute, motivo PDD9939)",
+   "pergunta": "",
+   "assunto": "PDD9939",
+   "texto": "Prezados, o vendedor já enviou o produto e acredita que a transportadora o entregou conforme previsto. Se houver divergência, solicito que verifiquem o rastreamento para identificar o status da entrega. Estamos à disposição para esclarecer qualquer dúvida e resolver essa situação de maneira rápida e amigável. Agradecemos a atenção e colaboração.",
+   "licoes": [],
+   "ref": {
+    "cid": "5599315051",
+    "etapa": "dispute"
+   },
+   "status": "resolvida",
+   "confianca": 0.5,
+   "fim": 1793040949311
+  },
+  {
+   "id": "dmvohh3u2b725",
+   "hora": 1792972402346,
+   "item": "rep-claims-abertas",
+   "tipo": "reputacao",
+   "agente": "sup",
+   "titulo": "8 reclamação(ões) aberta(s) afetando a reputação",
+   "pergunta": "",
+   "assunto": "",
+   "texto": "",
+   "licoes": [],
+   "ref": {},
+   "status": "resolvida",
+   "confianca": 0.99,
+   "fim": 1792975664524
+  },
+  {
+   "id": "dmvohh3u20405",
+   "hora": 1792972402346,
+   "item": "c-amazon",
+   "tipo": "conexao",
+   "agente": "sup",
+   "titulo": "Amazon (SP-API): credenciais salvas, sem conexão ativa",
+   "pergunta": "",
+   "assunto": "",
+   "texto": "",
+   "licoes": [],
+   "ref": {},
+   "status": "resolvida",
+   "confianca": 0.99,
+   "fim": 1792975669572
+  },
+  {
+   "id": "dmvohh3u2e909",
+   "hora": 1792972402346,
+   "item": "c-wix",
+   "tipo": "conexao",
+   "agente": "sup",
+   "titulo": "Wix (loja e site): credenciais salvas, sem conexão ativa",
+   "pergunta": "",
+   "assunto": "",
+   "texto": "",
+   "licoes": [],
+   "ref": {},
+   "status": "resolvida",
+   "confianca": 0.99,
+   "fim": 1792975670424
+  },
+  {
+   "id": "dmvohnq3a73f9",
+   "hora": 1792972711126,
+   "item": "r5599290436",
+   "tipo": "reclamacao",
+   "agente": "ate",
+   "titulo": "Reclamação 5599290436 aberta (pedido 2000018964668812, dispute, motivo PDD9943)",
+   "pergunta": "",
+   "assunto": "PDD9943",
+   "texto": "Prezados, agradeço a atenção.  \nEm relação à reclamação 5599290436, estou à disposição para esclarecer qualquer dúvida e colaborar na solução do caso.  \n[Nenhum novo dado]  \nEstou comprometido em encontrar a melhor solução para ambas as partes.  \nSolicitamos que o processo seja concluído com base nas informações disponíveis.",
+   "licoes": [],
+   "ref": {
+    "cid": "5599290436",
+    "etapa": "dispute"
+   },
+   "status": "resolvida",
+   "confianca": 0.4,
+   "fim": 1793040949311
+  },
+  {
+   "id": "dmvohut5mf1b3",
+   "hora": 1792973041691,
+   "item": "r5599536974",
+   "tipo": "reclamacao",
+   "agente": "ate",
+   "titulo": "Reclamação 5599536974 aberta (pedido 2000019062005482, claim, motivo PDD9939)",
+   "pergunta": "",
+   "assunto": "PDD9939",
+   "texto": "Olá, desculpe o transtorno.  \n[Estou verificando com a transportadora o protocolo do envio e informarei em até 48 h].  \nSe preferir, posso gerar o estorno neste momento.  \nAgradeço pela compreensão e me coloco à disposição para resolver a situação.",
+   "licoes": [],
+   "ref": {
+    "cid": "5599536974",
+    "etapa": "claim"
+   },
+   "status": "resolvida",
+   "confianca": 0.4,
+   "fim": 1793040949311
+  },
+  {
+   "id": "dmvohw8w1f92b",
+   "hora": 1792973108737,
+   "item": "r5599205269",
+   "tipo": "reclamacao",
+   "agente": "ate",
+   "titulo": "Reclamação 5599205269 aberta (pedido 2000018988551304, claim, motivo PDD9939)",
+   "pergunta": "",
+   "assunto": "PDD9939",
+   "texto": "Prezado(a) comprador, recebemos seu pedido de reclamação (5599205269) referente ao pedido 2000018988551304. Lamentamos o ocorrido e estamos verificando com a transportadora sobre o status do envio. Até a solução, oferecemos a reenvio do produto ou o estorno completo. Por favor, informe-nos se prefere uma das opções. Estamos à disposição para resolver o mais breve possível.",
+   "licoes": [],
+   "ref": {
+    "cid": "5599205269",
+    "etapa": "claim"
+   },
+   "status": "resolvida",
+   "confianca": 0.5,
+   "fim": 1793040949311
+  },
+  {
+   "id": "dmvohxg0u331c",
+   "hora": 1792973164638,
+   "item": "r5536251908",
+   "tipo": "reclamacao",
+   "agente": "ate",
+   "titulo": "Reclamação 5536251908 aberta (pedido 2000016936548862, dispute, motivo PDD9944)",
+   "pergunta": "",
+   "assunto": "PDD9944",
+   "texto": "Prezado(a) Mediador(a), verifiquei o pedido 2000016936548862 e [o produto foi entregue em data X]. Caso haja divergência, disponibilizamos devolução ou reembolso imediato. As informações de rastreamento são [número]. Agradeço a colaboração e coloco-me à disposição para resolver a questão.",
+   "licoes": [],
+   "ref": {
+    "cid": "5536251908",
+    "etapa": "dispute"
+   },
+   "status": "resolvida",
+   "confianca": 0.4,
+   "fim": 1793040949311
+  },
+  {
+   "id": "dmvoi4fy5ad24",
+   "hora": 1792973491133,
+   "item": "r5599283289",
+   "tipo": "reclamacao",
+   "agente": "ate",
+   "titulo": "Reclamação 5599283289 aberta (pedido 2000018964670608, dispute, motivo PDD9963)",
+   "pergunta": "",
+   "assunto": "PDD9963",
+   "texto": "Prezado(a) mediador(a), em relação à reclamação 5599283289 pelo pedido 2000018964670608, quero esclarecer que [informação relevante], e estou disposto a [oferecer solução]. Peço orientação sobre os próximos passos e agradeço a atenção. Fico no aguardo para resolvermos a situação de forma satisfatória.",
+   "licoes": [],
+   "ref": {
+    "cid": "5599283289",
+    "etapa": "dispute"
+   },
+   "status": "resolvida",
+   "confianca": 0.4,
+   "fim": 1793022077684
+  },
+  {
+   "id": "dmvoibjn5864b",
+   "hora": 1792973822513,
+   "item": "r5600080216",
+   "tipo": "reclamacao",
+   "agente": "ate",
+   "titulo": "Reclamação 5600080216 aberta (pedido 2000019031354800, dispute, motivo PDD9942)",
+   "pergunta": "",
+   "assunto": "PDD9942",
+   "texto": "Prezado Mediador,  \nSou o vendedor responsável pelo pedido 2000019031354800 e confirmo que [informação importante sobre o pagamento/entrega]. Pretendo colaborar para solucionar o motivo PDD9942, respondendo a eventuais dúvidas ou entregando documentos adicionais. Sugiro [solução, por exemplo: “atualizar o status do pagamento no sistema”] para regularizar a situação. Agradeço a atenção e fico à disposição para resolver o caso o mais breve possível. Por favor solicitar fotos que justifique que o produto não é o mesmo do anúncio.",
+   "licoes": [],
+   "ref": {
+    "cid": "5600080216",
+    "etapa": "dispute"
+   },
+   "status": "resolvida",
+   "confianca": 0.4,
+   "fim": 1793040949311
+  },
+  {
+   "id": "dmvp2lxtqff90",
+   "hora": 1793007899775,
+   "item": "pP-MLB17911004-MLB7862472052",
+   "tipo": "promocao",
+   "agente": "mkt",
+   "titulo": "Promoção “Black Friday 2026” (DEAL): aderir com o anúncio MLB7862472052 por R$ 59,07",
+   "pergunta": "",
+   "assunto": "DEAL",
+   "texto": "Aderir à promoção P-MLB17911004 com o anúncio MLB7862472052 por R$ 59,07.",
+   "licoes": [],
+   "ref": {
+    "item": "MLB7862472052",
+    "promo": "P-MLB17911004",
+    "ptipo": "DEAL",
+    "preco": 59.07
+   },
+   "status": "resolvida",
+   "confianca": 0.5,
+   "fim": 1793040949311
+  },
+  {
+   "id": "dmvp2lxtsf83a",
+   "hora": 1793007899776,
+   "item": "pP-MLB17911004-MLB7862471186",
+   "tipo": "promocao",
+   "agente": "mkt",
+   "titulo": "Promoção “Black Friday 2026” (DEAL): aderir com o anúncio MLB7862471186 por R$ 59,07",
+   "pergunta": "",
+   "assunto": "DEAL",
+   "texto": "Aderir à promoção P-MLB17911004 com o anúncio MLB7862471186 por R$ 59,07.",
+   "licoes": [],
+   "ref": {
+    "item": "MLB7862471186",
+    "promo": "P-MLB17911004",
+    "ptipo": "DEAL",
+    "preco": 59.07
+   },
+   "status": "resolvida",
+   "confianca": 0.5,
+   "fim": 1793040949311
+  },
+  {
+   "id": "dmvp2lxts4a84",
+   "hora": 1793007899776,
+   "item": "pP-MLB17911004-MLB7862461794",
+   "tipo": "promocao",
+   "agente": "mkt",
+   "titulo": "Promoção “Black Friday 2026” (DEAL): aderir com o anúncio MLB7862461794 por R$ 59,07",
+   "pergunta": "",
+   "assunto": "DEAL",
+   "texto": "Aderir à promoção P-MLB17911004 com o anúncio MLB7862461794 por R$ 59,07.",
+   "licoes": [],
+   "ref": {
+    "item": "MLB7862461794",
+    "promo": "P-MLB17911004",
+    "ptipo": "DEAL",
+    "preco": 59.07
+   },
+   "status": "resolvida",
+   "confianca": 0.5,
+   "fim": 1793040949311
+  },
+  {
+   "id": "dmvp2lxts7d1c",
+   "hora": 1793007899776,
+   "item": "pP-MLB17911004-MLB7862384598",
+   "tipo": "promocao",
+   "agente": "mkt",
+   "titulo": "Promoção “Black Friday 2026” (DEAL): aderir com o anúncio MLB7862384598 por R$ 80,82",
+   "pergunta": "",
+   "assunto": "DEAL",
+   "texto": "Aderir à promoção P-MLB17911004 com o anúncio MLB7862384598 por R$ 80,82.",
+   "licoes": [],
+   "ref": {
+    "item": "MLB7862384598",
+    "promo": "P-MLB17911004",
+    "ptipo": "DEAL",
+    "preco": 80.82
+   },
+   "status": "resolvida",
+   "confianca": 0.5,
+   "fim": 1793040949311
+  },
+  {
+   "id": "dmvp2lxts3082",
+   "hora": 1793007899776,
+   "item": "pP-MLB17911004-MLB7862059414",
+   "tipo": "promocao",
+   "agente": "mkt",
+   "titulo": "Promoção “Black Friday 2026” (DEAL): aderir com o anúncio MLB7862059414 por R$ 21,66",
+   "pergunta": "",
+   "assunto": "DEAL",
+   "texto": "Aderir à promoção P-MLB17911004 com o anúncio MLB7862059414 por R$ 21,66.",
+   "licoes": [],
+   "ref": {
+    "item": "MLB7862059414",
+    "promo": "P-MLB17911004",
+    "ptipo": "DEAL",
+    "preco": 21.66
+   },
+   "status": "resolvida",
+   "confianca": 0.5,
+   "fim": 1793040949311
+  },
+  {
+   "id": "dmvp2lxtt19fd",
+   "hora": 1793007899777,
+   "item": "pP-MLB17911004-MLB7862054592",
+   "tipo": "promocao",
+   "agente": "mkt",
+   "titulo": "Promoção “Black Friday 2026” (DEAL): aderir com o anúncio MLB7862054592 por R$ 104,31",
+   "pergunta": "",
+   "assunto": "DEAL",
+   "texto": "Aderir à promoção P-MLB17911004 com o anúncio MLB7862054592 por R$ 104,31.",
+   "licoes": [],
+   "ref": {
+    "item": "MLB7862054592",
+    "promo": "P-MLB17911004",
+    "ptipo": "DEAL",
+    "preco": 104.31
+   },
+   "status": "resolvida",
+   "confianca": 0.5,
+   "fim": 1793040949311
+  },
+  {
+   "id": "dmvp2lxtt034e",
+   "hora": 1793007899777,
+   "item": "pP-MLB17911004-MLB7847314658",
+   "tipo": "promocao",
+   "agente": "mkt",
+   "titulo": "Promoção “Black Friday 2026” (DEAL): aderir com o anúncio MLB7847314658 por R$ 34,80",
+   "pergunta": "",
+   "assunto": "DEAL",
+   "texto": "Aderir à promoção P-MLB17911004 com o anúncio MLB7847314658 por R$ 34,80.",
+   "licoes": [],
+   "ref": {
+    "item": "MLB7847314658",
+    "promo": "P-MLB17911004",
+    "ptipo": "DEAL",
+    "preco": 34.8
+   },
+   "status": "resolvida",
+   "confianca": 0.5,
+   "fim": 1793040949311
+  },
+  {
+   "id": "dmvp2lxttbc89",
+   "hora": 1793007899777,
+   "item": "pP-MLB17911004-MLB7847209098",
+   "tipo": "promocao",
+   "agente": "mkt",
+   "titulo": "Promoção “Black Friday 2026” (DEAL): aderir com o anúncio MLB7847209098 por R$ 34,80",
+   "pergunta": "",
+   "assunto": "DEAL",
+   "texto": "Aderir à promoção P-MLB17911004 com o anúncio MLB7847209098 por R$ 34,80.",
+   "licoes": [],
+   "ref": {
+    "item": "MLB7847209098",
+    "promo": "P-MLB17911004",
+    "ptipo": "DEAL",
+    "preco": 34.8
+   },
+   "status": "resolvida",
+   "confianca": 0.5,
+   "fim": 1793040949311
+  },
+  {
+   "id": "dmvp2lxtt5b30",
+   "hora": 1793007899777,
+   "item": "pP-MLB17911004-MLB7847026712",
+   "tipo": "promocao",
+   "agente": "mkt",
+   "titulo": "Promoção “Black Friday 2026” (DEAL): aderir com o anúncio MLB7847026712 por R$ 66,89",
+   "pergunta": "",
+   "assunto": "DEAL",
+   "texto": "Aderir à promoção P-MLB17911004 com o anúncio MLB7847026712 por R$ 66,89.",
+   "licoes": [],
+   "ref": {
+    "item": "MLB7847026712",
+    "promo": "P-MLB17911004",
+    "ptipo": "DEAL",
+    "preco": 66.89
+   },
+   "status": "resolvida",
+   "confianca": 0.5,
+   "fim": 1793040949311
+  },
+  {
+   "id": "dmvp2lxtt892e",
+   "hora": 1793007899777,
+   "item": "pP-MLB17911004-MLB7846955826",
+   "tipo": "promocao",
+   "agente": "mkt",
+   "titulo": "Promoção “Black Friday 2026” (DEAL): aderir com o anúncio MLB7846955826 por R$ 66,89",
+   "pergunta": "",
+   "assunto": "DEAL",
+   "texto": "Aderir à promoção P-MLB17911004 com o anúncio MLB7846955826 por R$ 66,89.",
+   "licoes": [],
+   "ref": {
+    "item": "MLB7846955826",
+    "promo": "P-MLB17911004",
+    "ptipo": "DEAL",
+    "preco": 66.89
+   },
+   "status": "resolvida",
+   "confianca": 0.5,
+   "fim": 1793040949311
+  },
+  {
+   "id": "dmvp2lxttb6ae",
+   "hora": 1793007899777,
+   "item": "pP-MLB17911004-MLB7844503674",
+   "tipo": "promocao",
+   "agente": "mkt",
+   "titulo": "Promoção “Black Friday 2026” (DEAL): aderir com o anúncio MLB7844503674 por R$ 33,93",
+   "pergunta": "",
+   "assunto": "DEAL",
+   "texto": "Aderir à promoção P-MLB17911004 com o anúncio MLB7844503674 por R$ 33,93.",
+   "licoes": [],
+   "ref": {
+    "item": "MLB7844503674",
+    "promo": "P-MLB17911004",
+    "ptipo": "DEAL",
+    "preco": 33.93
+   },
+   "status": "resolvida",
+   "confianca": 0.5,
+   "fim": 1793040949311
+  },
+  {
+   "id": "dmvp2lxtu334f",
+   "hora": 1793007899778,
+   "item": "pP-MLB17911004-MLB7844503666",
+   "tipo": "promocao",
+   "agente": "mkt",
+   "titulo": "Promoção “Black Friday 2026” (DEAL): aderir com o anúncio MLB7844503666 por R$ 33,93",
+   "pergunta": "",
+   "assunto": "DEAL",
+   "texto": "Aderir à promoção P-MLB17911004 com o anúncio MLB7844503666 por R$ 33,93.",
+   "licoes": [],
+   "ref": {
+    "item": "MLB7844503666",
+    "promo": "P-MLB17911004",
+    "ptipo": "DEAL",
+    "preco": 33.93
+   },
+   "status": "resolvida",
+   "confianca": 0.5,
+   "fim": 1793040949311
+  },
+  {
+   "id": "dmvp2lxtudd1f",
+   "hora": 1793007899778,
+   "item": "pP-MLB17911004-MLB7844492392",
+   "tipo": "promocao",
+   "agente": "mkt",
+   "titulo": "Promoção “Black Friday 2026” (DEAL): aderir com o anúncio MLB7844492392 por R$ 33,93",
+   "pergunta": "",
+   "assunto": "DEAL",
+   "texto": "Aderir à promoção P-MLB17911004 com o anúncio MLB7844492392 por R$ 33,93.",
+   "licoes": [],
+   "ref": {
+    "item": "MLB7844492392",
+    "promo": "P-MLB17911004",
+    "ptipo": "DEAL",
+    "preco": 33.93
+   },
+   "status": "resolvida",
+   "confianca": 0.5,
+   "fim": 1793040949311
+  },
+  {
+   "id": "dmvp2lxtu5485",
+   "hora": 1793007899778,
+   "item": "pP-MLB17911004-MLB7844492376",
+   "tipo": "promocao",
+   "agente": "mkt",
+   "titulo": "Promoção “Black Friday 2026” (DEAL): aderir com o anúncio MLB7844492376 por R$ 33,93",
+   "pergunta": "",
+   "assunto": "DEAL",
+   "texto": "Aderir à promoção P-MLB17911004 com o anúncio MLB7844492376 por R$ 33,93.",
+   "licoes": [],
+   "ref": {
+    "item": "MLB7844492376",
+    "promo": "P-MLB17911004",
+    "ptipo": "DEAL",
+    "preco": 33.93
+   },
+   "status": "resolvida",
+   "confianca": 0.5,
+   "fim": 1793040949311
+  },
+  {
+   "id": "dmvp2lxtu6265",
+   "hora": 1793007899778,
+   "item": "pP-MLB17911004-MLB7833598050",
+   "tipo": "promocao",
+   "agente": "mkt",
+   "titulo": "Promoção “Black Friday 2026” (DEAL): aderir com o anúncio MLB7833598050 por R$ 49,19",
+   "pergunta": "",
+   "assunto": "DEAL",
+   "texto": "Aderir à promoção P-MLB17911004 com o anúncio MLB7833598050 por R$ 49,19.",
+   "licoes": [],
+   "ref": {
+    "item": "MLB7833598050",
+    "promo": "P-MLB17911004",
+    "ptipo": "DEAL",
+    "preco": 49.19
+   },
+   "status": "resolvida",
+   "confianca": 0.5,
+   "fim": 1793040949311
+  },
+  {
+   "id": "dmvp2lxtuee9c",
+   "hora": 1793007899778,
+   "item": "pP-MLB17911004-MLB7833588564",
+   "tipo": "promocao",
+   "agente": "mkt",
+   "titulo": "Promoção “Black Friday 2026” (DEAL): aderir com o anúncio MLB7833588564 por R$ 52,10",
+   "pergunta": "",
+   "assunto": "DEAL",
+   "texto": "Aderir à promoção P-MLB17911004 com o anúncio MLB7833588564 por R$ 52,10.",
+   "licoes": [],
+   "ref": {
+    "item": "MLB7833588564",
+    "promo": "P-MLB17911004",
+    "ptipo": "DEAL",
+    "preco": 52.1
+   },
+   "status": "resolvida",
+   "confianca": 0.5,
+   "fim": 1793040949311
+  },
+  {
+   "id": "dmvp2lxtua758",
+   "hora": 1793007899778,
+   "item": "pP-MLB17911004-MLB7831780310",
+   "tipo": "promocao",
+   "agente": "mkt",
+   "titulo": "Promoção “Black Friday 2026” (DEAL): aderir com o anúncio MLB7831780310 por R$ 49,19",
+   "pergunta": "",
+   "assunto": "DEAL",
+   "texto": "Aderir à promoção P-MLB17911004 com o anúncio MLB7831780310 por R$ 49,19.",
+   "licoes": [],
+   "ref": {
+    "item": "MLB7831780310",
+    "promo": "P-MLB17911004",
+    "ptipo": "DEAL",
+    "preco": 49.19
+   },
+   "status": "resolvida",
+   "confianca": 0.5,
+   "fim": 1793040949311
+  },
+  {
+   "id": "dmvp2lxtu1e57",
+   "hora": 1793007899778,
+   "item": "pP-MLB17911004-MLB7829035438",
+   "tipo": "promocao",
+   "agente": "mkt",
+   "titulo": "Promoção “Black Friday 2026” (DEAL): aderir com o anúncio MLB7829035438 por R$ 163,48",
+   "pergunta": "",
+   "assunto": "DEAL",
+   "texto": "Aderir à promoção P-MLB17911004 com o anúncio MLB7829035438 por R$ 163,48.",
+   "licoes": [],
+   "ref": {
+    "item": "MLB7829035438",
+    "promo": "P-MLB17911004",
+    "ptipo": "DEAL",
+    "preco": 163.48
+   },
+   "status": "resolvida",
+   "confianca": 0.5,
+   "fim": 1793040949311
+  },
+  {
+   "id": "dmvp2lxtu402c",
+   "hora": 1793007899778,
+   "item": "pP-MLB17911004-MLB7828506392",
+   "tipo": "promocao",
+   "agente": "mkt",
+   "titulo": "Promoção “Black Friday 2026” (DEAL): aderir com o anúncio MLB7828506392 por R$ 33,93",
+   "pergunta": "",
+   "assunto": "DEAL",
+   "texto": "Aderir à promoção P-MLB17911004 com o anúncio MLB7828506392 por R$ 33,93.",
+   "licoes": [],
+   "ref": {
+    "item": "MLB7828506392",
+    "promo": "P-MLB17911004",
+    "ptipo": "DEAL",
+    "preco": 33.93
+   },
+   "status": "resolvida",
+   "confianca": 0.5,
+   "fim": 1793040949311
+  },
+  {
+   "id": "dmvp2lxtufc1d",
+   "hora": 1793007899778,
+   "item": "pP-MLB17911004-MLB7828506388",
+   "tipo": "promocao",
+   "agente": "mkt",
+   "titulo": "Promoção “Black Friday 2026” (DEAL): aderir com o anúncio MLB7828506388 por R$ 33,93",
+   "pergunta": "",
+   "assunto": "DEAL",
+   "texto": "Aderir à promoção P-MLB17911004 com o anúncio MLB7828506388 por R$ 33,93.",
+   "licoes": [],
+   "ref": {
+    "item": "MLB7828506388",
+    "promo": "P-MLB17911004",
+    "ptipo": "DEAL",
+    "preco": 33.93
+   },
+   "status": "resolvida",
+   "confianca": 0.5,
+   "fim": 1793040949311
+  },
+  {
+   "id": "dmvpfim719ddd",
+   "hora": 1793029579741,
+   "item": "r5600758538",
+   "tipo": "reclamacao",
+   "agente": "ate",
+   "titulo": "Reclamação 5600758538 aberta (pedido 2000019036553616, claim, motivo PDD9939)",
+   "pergunta": "",
+   "assunto": "PDD9939",
+   "texto": "Olá, pedimos desculpas pelo atraso no seu pedido.  \nEstamos em contato com o transportador para verificar a nova data de entrega.  \nLogo receberá atualizações sobre o status do envio.  \nCaso prefira, podemos providenciar um reembolso imediato.  \nRestamos à disposição para qualquer esclarecimento.",
+   "licoes": [],
+   "ref": {
+    "cid": "5600758538",
+    "etapa": "claim"
+   },
+   "status": "resolvida",
+   "confianca": 0.5,
+   "fim": 1793040949311
+  },
+  {
+   "id": "dmvpij1q0b465",
+   "hora": 1793034638712,
+   "item": "r5600814550",
+   "tipo": "reclamacao",
+   "agente": "ate",
+   "titulo": "Reclamação 5600814550 aberta (pedido 2000018544265630, dispute, motivo PDD9955)",
+   "pergunta": "",
+   "assunto": "PDD9955",
+   "texto": "Prezado(a) Mediador(a),  \nEstou ciente da reclamação nº 5600814550 referente ao pedido 2000018544265630 e me comprometo a ajudar a resolver a situação.  \n[Expliquei que estou verificando o status do pedido e buscando a melhor solução possível].  \nColoco-me à disposição para fornecer qualquer informação adicional que facilitará o desdobramento deste caso.  \nAgradeço a atenção e a oportunidade de esclarecer o ocorrido.",
+   "licoes": [],
+   "ref": {
+    "cid": "5600814550",
+    "etapa": "dispute"
+   },
+   "status": "resolvida",
+   "confianca": 0.4,
+   "fim": 1793037292726
+  },
+  {
+   "id": "dmvplfj5ie493",
+   "hora": 1793039513526,
+   "item": "c-mercadolivre",
+   "tipo": "conexao",
+   "agente": "sup",
+   "titulo": "Mercado Livre: credenciais salvas, sem conexão ativa",
+   "pergunta": "",
+   "assunto": "",
+   "texto": "",
+   "licoes": [],
+   "ref": {},
+   "status": "resolvida",
+   "confianca": 0.99,
+   "fim": 1793040949311
+  },
+  {
+   "id": "dmvpmab0gcb87",
+   "hora": 1793040949312,
+   "item": "q13681020594",
+   "tipo": "pergunta",
+   "agente": "ate",
+   "titulo": "Pergunta em “Caixa De Som Bluetooth Com Suporte Para Bicicleta Moto 20w C”: Tem conexão com Rádio FM ?",
+   "pergunta": "Tem conexão com Rádio FM ?",
+   "assunto": "Caixa De Som Bluetooth Com Suporte Para Bicicleta Moto 20w Cor Preto",
+   "texto": "[Descreva sua pergunta]  \nObrigado.",
+   "licoes": [],
+   "ref": {
+    "qid": "13681020594",
+    "item": "MLB7813052060"
+   },
+   "status": "resolvida",
+   "confianca": 0.4,
+   "fim": 1793129401911
+  },
+  {
+   "id": "dmvpmalydc596",
+   "hora": 1793040963493,
+   "item": "pP-MLB17911004-MLB7869950752",
+   "tipo": "promocao",
+   "agente": "mkt",
+   "titulo": "Promoção “Black Friday 2026” (DEAL): aderir com o anúncio MLB7869950752 por R$ 30,35",
+   "pergunta": "",
+   "assunto": "DEAL",
+   "texto": "Aderir à promoção P-MLB17911004 com o anúncio MLB7869950752 por R$ 30,35.",
+   "licoes": [],
+   "ref": {
+    "item": "MLB7869950752",
+    "promo": "P-MLB17911004",
+    "ptipo": "DEAL",
+    "preco": 30.35
+   },
+   "status": "resolvida",
+   "confianca": 0.5,
+   "fim": 1793043366505
+  },
+  {
+   "id": "dmvpmalydb28e",
+   "hora": 1793040963493,
+   "item": "pP-MLB17911004-MLB7869693312",
+   "tipo": "promocao",
+   "agente": "mkt",
+   "titulo": "Promoção “Black Friday 2026” (DEAL): aderir com o anúncio MLB7869693312 por R$ 139,11",
+   "pergunta": "",
+   "assunto": "DEAL",
+   "texto": "Aderir à promoção P-MLB17911004 com o anúncio MLB7869693312 por R$ 139,11.",
+   "licoes": [],
+   "ref": {
+    "item": "MLB7869693312",
+    "promo": "P-MLB17911004",
+    "ptipo": "DEAL",
+    "preco": 139.11
+   },
+   "status": "resolvida",
+   "confianca": 0.5,
+   "fim": 1793043366505
+  },
+  {
+   "id": "dmvpmalye0777",
+   "hora": 1793040963494,
+   "item": "pP-MLB17911004-MLB7869693310",
+   "tipo": "promocao",
+   "agente": "mkt",
+   "titulo": "Promoção “Black Friday 2026” (DEAL): aderir com o anúncio MLB7869693310 por R$ 139,11",
+   "pergunta": "",
+   "assunto": "DEAL",
+   "texto": "Aderir à promoção P-MLB17911004 com o anúncio MLB7869693310 por R$ 139,11.",
+   "licoes": [],
+   "ref": {
+    "item": "MLB7869693310",
+    "promo": "P-MLB17911004",
+    "ptipo": "DEAL",
+    "preco": 139.11
+   },
+   "status": "resolvida",
+   "confianca": 0.5,
+   "fim": 1793043366505
+  },
+  {
+   "id": "dmvpmalyee584",
+   "hora": 1793040963494,
+   "item": "pP-MLB17911004-MLB7869669358",
+   "tipo": "promocao",
+   "agente": "mkt",
+   "titulo": "Promoção “Black Friday 2026” (DEAL): aderir com o anúncio MLB7869669358 por R$ 139,11",
+   "pergunta": "",
+   "assunto": "DEAL",
+   "texto": "Aderir à promoção P-MLB17911004 com o anúncio MLB7869669358 por R$ 139,11.",
+   "licoes": [],
+   "ref": {
+    "item": "MLB7869669358",
+    "promo": "P-MLB17911004",
+    "ptipo": "DEAL",
+    "preco": 139.11
+   },
+   "status": "resolvida",
+   "confianca": 0.5,
+   "fim": 1793043366505
+  },
+  {
+   "id": "dmvpmalye435a",
+   "hora": 1793040963494,
+   "item": "pP-MLB17911004-MLB7869669354",
+   "tipo": "promocao",
+   "agente": "mkt",
+   "titulo": "Promoção “Black Friday 2026” (DEAL): aderir com o anúncio MLB7869669354 por R$ 139,11",
+   "pergunta": "",
+   "assunto": "DEAL",
+   "texto": "Aderir à promoção P-MLB17911004 com o anúncio MLB7869669354 por R$ 139,11.",
+   "licoes": [],
+   "ref": {
+    "item": "MLB7869669354",
+    "promo": "P-MLB17911004",
+    "ptipo": "DEAL",
+    "preco": 139.11
+   },
+   "status": "resolvida",
+   "confianca": 0.5,
+   "fim": 1793043366505
+  },
+  {
+   "id": "dmvpmalyef1a5",
+   "hora": 1793040963494,
+   "item": "pP-MLB17911004-MLB7869612544",
+   "tipo": "promocao",
+   "agente": "mkt",
+   "titulo": "Promoção “Black Friday 2026” (DEAL): aderir com o anúncio MLB7869612544 por R$ 121,71",
+   "pergunta": "",
+   "assunto": "DEAL",
+   "texto": "Aderir à promoção P-MLB17911004 com o anúncio MLB7869612544 por R$ 121,71.",
+   "licoes": [],
+   "ref": {
+    "item": "MLB7869612544",
+    "promo": "P-MLB17911004",
+    "ptipo": "DEAL",
+    "preco": 121.71
+   },
+   "status": "resolvida",
+   "confianca": 0.5,
+   "fim": 1793043366505
+  },
+  {
+   "id": "dmvpmalye0ea2",
+   "hora": 1793040963494,
+   "item": "pP-MLB17911004-MLB7869550754",
+   "tipo": "promocao",
+   "agente": "mkt",
+   "titulo": "Promoção “Black Friday 2026” (DEAL): aderir com o anúncio MLB7869550754 por R$ 130,39",
+   "pergunta": "",
+   "assunto": "DEAL",
+   "texto": "Aderir à promoção P-MLB17911004 com o anúncio MLB7869550754 por R$ 130,39.",
+   "licoes": [],
+   "ref": {
+    "item": "MLB7869550754",
+    "promo": "P-MLB17911004",
+    "ptipo": "DEAL",
+    "preco": 130.39
+   },
+   "status": "resolvida",
+   "confianca": 0.5,
+   "fim": 1793043366505
+  },
+  {
+   "id": "dmvpmalye83d4",
+   "hora": 1793040963494,
+   "item": "pP-MLB17911004-MLB7869505924",
+   "tipo": "promocao",
+   "agente": "mkt",
+   "titulo": "Promoção “Black Friday 2026” (DEAL): aderir com o anúncio MLB7869505924 por R$ 68,64",
+   "pergunta": "",
+   "assunto": "DEAL",
+   "texto": "Aderir à promoção P-MLB17911004 com o anúncio MLB7869505924 por R$ 68,64.",
+   "licoes": [],
+   "ref": {
+    "item": "MLB7869505924",
+    "promo": "P-MLB17911004",
+    "ptipo": "DEAL",
+    "preco": 68.64
+   },
+   "status": "resolvida",
+   "confianca": 0.5,
+   "fim": 1793043366505
+  },
+  {
+   "id": "dmvpmalye7d81",
+   "hora": 1793040963494,
+   "item": "pP-MLB17911004-MLB7869505920",
+   "tipo": "promocao",
+   "agente": "mkt",
+   "titulo": "Promoção “Black Friday 2026” (DEAL): aderir com o anúncio MLB7869505920 por R$ 68,64",
+   "pergunta": "",
+   "assunto": "DEAL",
+   "texto": "Aderir à promoção P-MLB17911004 com o anúncio MLB7869505920 por R$ 68,64.",
+   "licoes": [],
+   "ref": {
+    "item": "MLB7869505920",
+    "promo": "P-MLB17911004",
+    "ptipo": "DEAL",
+    "preco": 68.64
+   },
+   "status": "resolvida",
+   "confianca": 0.5,
+   "fim": 1793043366505
+  },
+  {
+   "id": "dmvpmalye7ff6",
+   "hora": 1793040963494,
+   "item": "pP-MLB17911004-MLB7869505918",
+   "tipo": "promocao",
+   "agente": "mkt",
+   "titulo": "Promoção “Black Friday 2026” (DEAL): aderir com o anúncio MLB7869505918 por R$ 68,64",
+   "pergunta": "",
+   "assunto": "DEAL",
+   "texto": "Aderir à promoção P-MLB17911004 com o anúncio MLB7869505918 por R$ 68,64.",
+   "licoes": [],
+   "ref": {
+    "item": "MLB7869505918",
+    "promo": "P-MLB17911004",
+    "ptipo": "DEAL",
+    "preco": 68.64
+   },
+   "status": "resolvida",
+   "confianca": 0.5,
+   "fim": 1793043366505
+  },
+  {
+   "id": "dmvpmalye69da",
+   "hora": 1793040963494,
+   "item": "pP-MLB17911004-MLB7869505916",
+   "tipo": "promocao",
+   "agente": "mkt",
+   "titulo": "Promoção “Black Friday 2026” (DEAL): aderir com o anúncio MLB7869505916 por R$ 68,64",
+   "pergunta": "",
+   "assunto": "DEAL",
+   "texto": "Aderir à promoção P-MLB17911004 com o anúncio MLB7869505916 por R$ 68,64.",
+   "licoes": [],
+   "ref": {
+    "item": "MLB7869505916",
+    "promo": "P-MLB17911004",
+    "ptipo": "DEAL",
+    "preco": 68.64
+   },
+   "status": "resolvida",
+   "confianca": 0.5,
+   "fim": 1793043366505
+  },
+  {
+   "id": "dmvpmalye6541",
+   "hora": 1793040963494,
+   "item": "pP-MLB17911004-MLB7861864774",
+   "tipo": "promocao",
+   "agente": "mkt",
+   "titulo": "Promoção “Black Friday 2026” (DEAL): aderir com o anúncio MLB7861864774 por R$ 34,71",
+   "pergunta": "",
+   "assunto": "DEAL",
+   "texto": "Aderir à promoção P-MLB17911004 com o anúncio MLB7861864774 por R$ 34,71.",
+   "licoes": [],
+   "ref": {
+    "item": "MLB7861864774",
+    "promo": "P-MLB17911004",
+    "ptipo": "DEAL",
+    "preco": 34.71
+   },
+   "status": "resolvida",
+   "confianca": 0.5,
+   "fim": 1793043366505
+  },
+  {
+   "id": "dmvpmalyeb1dd",
+   "hora": 1793040963494,
+   "item": "pP-MLB17911004-MLB7861729940",
+   "tipo": "promocao",
+   "agente": "mkt",
+   "titulo": "Promoção “Black Friday 2026” (DEAL): aderir com o anúncio MLB7861729940 por R$ 173,99",
+   "pergunta": "",
+   "assunto": "DEAL",
+   "texto": "Aderir à promoção P-MLB17911004 com o anúncio MLB7861729940 por R$ 173,99.",
+   "licoes": [],
+   "ref": {
+    "item": "MLB7861729940",
+    "promo": "P-MLB17911004",
+    "ptipo": "DEAL",
+    "preco": 173.99
+   },
+   "status": "resolvida",
+   "confianca": 0.5,
+   "fim": 1793043366505
+  },
+  {
+   "id": "dmvpmalyfb122",
+   "hora": 1793040963495,
+   "item": "pP-MLB17911004-MLB7861549400",
+   "tipo": "promocao",
+   "agente": "mkt",
+   "titulo": "Promoção “Black Friday 2026” (DEAL): aderir com o anúncio MLB7861549400 por R$ 32,18",
+   "pergunta": "",
+   "assunto": "DEAL",
+   "texto": "Aderir à promoção P-MLB17911004 com o anúncio MLB7861549400 por R$ 32,18.",
+   "licoes": [],
+   "ref": {
+    "item": "MLB7861549400",
+    "promo": "P-MLB17911004",
+    "ptipo": "DEAL",
+    "preco": 32.18
+   },
+   "status": "resolvida",
+   "confianca": 0.5,
+   "fim": 1793043366505
+  },
+  {
+   "id": "dmvpmalyf06bb",
+   "hora": 1793040963495,
+   "item": "pP-MLB17911004-MLB7861547188",
+   "tipo": "promocao",
+   "agente": "mkt",
+   "titulo": "Promoção “Black Friday 2026” (DEAL): aderir com o anúncio MLB7861547188 por R$ 34,71",
+   "pergunta": "",
+   "assunto": "DEAL",
+   "texto": "Aderir à promoção P-MLB17911004 com o anúncio MLB7861547188 por R$ 34,71.",
+   "licoes": [],
+   "ref": {
+    "item": "MLB7861547188",
+    "promo": "P-MLB17911004",
+    "ptipo": "DEAL",
+    "preco": 34.71
+   },
+   "status": "resolvida",
+   "confianca": 0.5,
+   "fim": 1793043366505
+  },
+  {
+   "id": "dmvpmalyf513e",
+   "hora": 1793040963495,
+   "item": "pP-MLB17911004-MLB7861468212",
+   "tipo": "promocao",
+   "agente": "mkt",
+   "titulo": "Promoção “Black Friday 2026” (DEAL): aderir com o anúncio MLB7861468212 por R$ 145,28",
+   "pergunta": "",
+   "assunto": "DEAL",
+   "texto": "Aderir à promoção P-MLB17911004 com o anúncio MLB7861468212 por R$ 145,28.",
+   "licoes": [],
+   "ref": {
+    "item": "MLB7861468212",
+    "promo": "P-MLB17911004",
+    "ptipo": "DEAL",
+    "preco": 145.28
+   },
+   "status": "resolvida",
+   "confianca": 0.5,
+   "fim": 1793043366505
+  },
+  {
+   "id": "dmvpmalyf36fc",
+   "hora": 1793040963495,
+   "item": "pP-MLB17911004-MLB7855125562",
+   "tipo": "promocao",
+   "agente": "mkt",
+   "titulo": "Promoção “Black Friday 2026” (DEAL): aderir com o anúncio MLB7855125562 por R$ 113,01",
+   "pergunta": "",
+   "assunto": "DEAL",
+   "texto": "Aderir à promoção P-MLB17911004 com o anúncio MLB7855125562 por R$ 113,01.",
+   "licoes": [],
+   "ref": {
+    "item": "MLB7855125562",
+    "promo": "P-MLB17911004",
+    "ptipo": "DEAL",
+    "preco": 113.01
+   },
+   "status": "resolvida",
+   "confianca": 0.5,
+   "fim": 1793043366505
+  },
+  {
+   "id": "dmvpmalyf5ccd",
+   "hora": 1793040963495,
+   "item": "pP-MLB17911004-MLB7855125560",
+   "tipo": "promocao",
+   "agente": "mkt",
+   "titulo": "Promoção “Black Friday 2026” (DEAL): aderir com o anúncio MLB7855125560 por R$ 113,01",
+   "pergunta": "",
+   "assunto": "DEAL",
+   "texto": "Aderir à promoção P-MLB17911004 com o anúncio MLB7855125560 por R$ 113,01.",
+   "licoes": [],
+   "ref": {
+    "item": "MLB7855125560",
+    "promo": "P-MLB17911004",
+    "ptipo": "DEAL",
+    "preco": 113.01
+   },
+   "status": "resolvida",
+   "confianca": 0.5,
+   "fim": 1793043366505
+  },
+  {
+   "id": "dmvpmalyfa8d3",
+   "hora": 1793040963495,
+   "item": "pP-MLB17911004-MLB7855125558",
+   "tipo": "promocao",
+   "agente": "mkt",
+   "titulo": "Promoção “Black Friday 2026” (DEAL): aderir com o anúncio MLB7855125558 por R$ 113,01",
+   "pergunta": "",
+   "assunto": "DEAL",
+   "texto": "Aderir à promoção P-MLB17911004 com o anúncio MLB7855125558 por R$ 113,01.",
+   "licoes": [],
+   "ref": {
+    "item": "MLB7855125558",
+    "promo": "P-MLB17911004",
+    "ptipo": "DEAL",
+    "preco": 113.01
+   },
+   "status": "resolvida",
+   "confianca": 0.5,
+   "fim": 1793043366505
+  },
+  {
+   "id": "dmvpmalyfbf7b",
+   "hora": 1793040963495,
+   "item": "pP-MLB17911004-MLB7855125556",
+   "tipo": "promocao",
+   "agente": "mkt",
+   "titulo": "Promoção “Black Friday 2026” (DEAL): aderir com o anúncio MLB7855125556 por R$ 113,01",
+   "pergunta": "",
+   "assunto": "DEAL",
+   "texto": "Aderir à promoção P-MLB17911004 com o anúncio MLB7855125556 por R$ 113,01.",
+   "licoes": [],
+   "ref": {
+    "item": "MLB7855125556",
+    "promo": "P-MLB17911004",
+    "ptipo": "DEAL",
+    "preco": 113.01
+   },
+   "status": "resolvida",
+   "confianca": 0.5,
+   "fim": 1793043366505
+  },
+  {
+   "id": "dmvpn9nrf8032",
+   "hora": 1793042598795,
+   "item": "q13681186336",
+   "tipo": "pergunta",
+   "agente": "ate",
+   "titulo": "Pergunta em “Caixa De Som Bluetooth Com Suporte Para Bicicleta Moto 20w C”: Olá vende só o suporte?",
+   "pergunta": "Olá vende só o suporte?",
+   "assunto": "Caixa De Som Bluetooth Com Suporte Para Bicicleta Moto 20w Cor Preto",
+   "texto": "Obrigado por entrar em contato. O produto é a Caixa de Som Bluetooth de 20W com suporte para bicicleta e moto, cor preta, descrevendo a função principal e a potência. Se precisar de mais detalhes, por favor, envie o que estiver [colchetes]. Agradeço!",
+   "licoes": [],
+   "ref": {
+    "qid": "13681186336",
+    "item": "MLB7813052060"
+   },
+   "status": "resolvida",
+   "confianca": 0.4,
+   "fim": 1793129401911
+  },
+  {
+   "id": "dmvpns9f0cc84",
+   "hora": 1793043466668,
+   "item": "pP-MLB17911004-MLB7869950752",
+   "tipo": "promocao",
+   "agente": "mkt",
+   "titulo": "Promoção “Black Friday 2026” (DEAL): aderir com o anúncio MLB7869950752 por R$ 30,35",
+   "pergunta": "",
+   "assunto": "DEAL",
+   "texto": "Aderir à promoção P-MLB17911004 com o anúncio MLB7869950752 por R$ 30,35.",
+   "licoes": [],
+   "ref": {
+    "item": "MLB7869950752",
+    "promo": "P-MLB17911004",
+    "ptipo": "DEAL",
+    "preco": 30.35
+   },
+   "status": "aguardando",
+   "confianca": 0.5
+  },
+  {
+   "id": "dmvpns9f0c9ed",
+   "hora": 1793043466668,
+   "item": "pP-MLB17911004-MLB7869693312",
+   "tipo": "promocao",
+   "agente": "mkt",
+   "titulo": "Promoção “Black Friday 2026” (DEAL): aderir com o anúncio MLB7869693312 por R$ 139,11",
+   "pergunta": "",
+   "assunto": "DEAL",
+   "texto": "Aderir à promoção P-MLB17911004 com o anúncio MLB7869693312 por R$ 139,11.",
+   "licoes": [],
+   "ref": {
+    "item": "MLB7869693312",
+    "promo": "P-MLB17911004",
+    "ptipo": "DEAL",
+    "preco": 139.11
+   },
+   "status": "aguardando",
+   "confianca": 0.5
+  },
+  {
+   "id": "dmvpns9f0ddf1",
+   "hora": 1793043466668,
+   "item": "pP-MLB17911004-MLB7869693310",
+   "tipo": "promocao",
+   "agente": "mkt",
+   "titulo": "Promoção “Black Friday 2026” (DEAL): aderir com o anúncio MLB7869693310 por R$ 139,11",
+   "pergunta": "",
+   "assunto": "DEAL",
+   "texto": "Aderir à promoção P-MLB17911004 com o anúncio MLB7869693310 por R$ 139,11.",
+   "licoes": [],
+   "ref": {
+    "item": "MLB7869693310",
+    "promo": "P-MLB17911004",
+    "ptipo": "DEAL",
+    "preco": 139.11
+   },
+   "status": "aguardando",
+   "confianca": 0.5
+  },
+  {
+   "id": "dmvpns9f04702",
+   "hora": 1793043466668,
+   "item": "pP-MLB17911004-MLB7869669358",
+   "tipo": "promocao",
+   "agente": "mkt",
+   "titulo": "Promoção “Black Friday 2026” (DEAL): aderir com o anúncio MLB7869669358 por R$ 139,11",
+   "pergunta": "",
+   "assunto": "DEAL",
+   "texto": "Aderir à promoção P-MLB17911004 com o anúncio MLB7869669358 por R$ 139,11.",
+   "licoes": [],
+   "ref": {
+    "item": "MLB7869669358",
+    "promo": "P-MLB17911004",
+    "ptipo": "DEAL",
+    "preco": 139.11
+   },
+   "status": "aguardando",
+   "confianca": 0.5
+  },
+  {
+   "id": "dmvpns9f0931a",
+   "hora": 1793043466668,
+   "item": "pP-MLB17911004-MLB7869669354",
+   "tipo": "promocao",
+   "agente": "mkt",
+   "titulo": "Promoção “Black Friday 2026” (DEAL): aderir com o anúncio MLB7869669354 por R$ 139,11",
+   "pergunta": "",
+   "assunto": "DEAL",
+   "texto": "Aderir à promoção P-MLB17911004 com o anúncio MLB7869669354 por R$ 139,11.",
+   "licoes": [],
+   "ref": {
+    "item": "MLB7869669354",
+    "promo": "P-MLB17911004",
+    "ptipo": "DEAL",
+    "preco": 139.11
+   },
+   "status": "aguardando",
+   "confianca": 0.5
+  },
+  {
+   "id": "dmvpns9f01bad",
+   "hora": 1793043466668,
+   "item": "pP-MLB17911004-MLB7869612544",
+   "tipo": "promocao",
+   "agente": "mkt",
+   "titulo": "Promoção “Black Friday 2026” (DEAL): aderir com o anúncio MLB7869612544 por R$ 121,71",
+   "pergunta": "",
+   "assunto": "DEAL",
+   "texto": "Aderir à promoção P-MLB17911004 com o anúncio MLB7869612544 por R$ 121,71.",
+   "licoes": [],
+   "ref": {
+    "item": "MLB7869612544",
+    "promo": "P-MLB17911004",
+    "ptipo": "DEAL",
+    "preco": 121.71
+   },
+   "status": "aguardando",
+   "confianca": 0.5
+  },
+  {
+   "id": "dmvpns9f0846e",
+   "hora": 1793043466668,
+   "item": "pP-MLB17911004-MLB7869550754",
+   "tipo": "promocao",
+   "agente": "mkt",
+   "titulo": "Promoção “Black Friday 2026” (DEAL): aderir com o anúncio MLB7869550754 por R$ 130,39",
+   "pergunta": "",
+   "assunto": "DEAL",
+   "texto": "Aderir à promoção P-MLB17911004 com o anúncio MLB7869550754 por R$ 130,39.",
+   "licoes": [],
+   "ref": {
+    "item": "MLB7869550754",
+    "promo": "P-MLB17911004",
+    "ptipo": "DEAL",
+    "preco": 130.39
+   },
+   "status": "aguardando",
+   "confianca": 0.5
+  },
+  {
+   "id": "dmvpns9f1da9a",
+   "hora": 1793043466669,
+   "item": "pP-MLB17911004-MLB7869505924",
+   "tipo": "promocao",
+   "agente": "mkt",
+   "titulo": "Promoção “Black Friday 2026” (DEAL): aderir com o anúncio MLB7869505924 por R$ 68,64",
+   "pergunta": "",
+   "assunto": "DEAL",
+   "texto": "Aderir à promoção P-MLB17911004 com o anúncio MLB7869505924 por R$ 68,64.",
+   "licoes": [],
+   "ref": {
+    "item": "MLB7869505924",
+    "promo": "P-MLB17911004",
+    "ptipo": "DEAL",
+    "preco": 68.64
+   },
+   "status": "resolvida",
+   "confianca": 0.5,
+   "fim": 1793735296064
+  },
+  {
+   "id": "dmvpns9f16ccc",
+   "hora": 1793043466669,
+   "item": "pP-MLB17911004-MLB7869505920",
+   "tipo": "promocao",
+   "agente": "mkt",
+   "titulo": "Promoção “Black Friday 2026” (DEAL): aderir com o anúncio MLB7869505920 por R$ 68,64",
+   "pergunta": "",
+   "assunto": "DEAL",
+   "texto": "Aderir à promoção P-MLB17911004 com o anúncio MLB7869505920 por R$ 68,64.",
+   "licoes": [],
+   "ref": {
+    "item": "MLB7869505920",
+    "promo": "P-MLB17911004",
+    "ptipo": "DEAL",
+    "preco": 68.64
+   },
+   "status": "resolvida",
+   "confianca": 0.5,
+   "fim": 1793735296064
+  },
+  {
+   "id": "dmvpns9f1519e",
+   "hora": 1793043466669,
+   "item": "pP-MLB17911004-MLB7869505918",
+   "tipo": "promocao",
+   "agente": "mkt",
+   "titulo": "Promoção “Black Friday 2026” (DEAL): aderir com o anúncio MLB7869505918 por R$ 68,64",
+   "pergunta": "",
+   "assunto": "DEAL",
+   "texto": "Aderir à promoção P-MLB17911004 com o anúncio MLB7869505918 por R$ 68,64.",
+   "licoes": [],
+   "ref": {
+    "item": "MLB7869505918",
+    "promo": "P-MLB17911004",
+    "ptipo": "DEAL",
+    "preco": 68.64
+   },
+   "status": "aguardando",
+   "confianca": 0.5
+  },
+  {
+   "id": "dmvpns9f1bcd2",
+   "hora": 1793043466669,
+   "item": "pP-MLB17911004-MLB7869505916",
+   "tipo": "promocao",
+   "agente": "mkt",
+   "titulo": "Promoção “Black Friday 2026” (DEAL): aderir com o anúncio MLB7869505916 por R$ 68,64",
+   "pergunta": "",
+   "assunto": "DEAL",
+   "texto": "Aderir à promoção P-MLB17911004 com o anúncio MLB7869505916 por R$ 68,64.",
+   "licoes": [],
+   "ref": {
+    "item": "MLB7869505916",
+    "promo": "P-MLB17911004",
+    "ptipo": "DEAL",
+    "preco": 68.64
+   },
+   "status": "resolvida",
+   "confianca": 0.5,
+   "fim": 1793735296064
+  },
+  {
+   "id": "dmvpns9f15f8a",
+   "hora": 1793043466669,
+   "item": "pP-MLB17911004-MLB7861864774",
+   "tipo": "promocao",
+   "agente": "mkt",
+   "titulo": "Promoção “Black Friday 2026” (DEAL): aderir com o anúncio MLB7861864774 por R$ 34,71",
+   "pergunta": "",
+   "assunto": "DEAL",
+   "texto": "Aderir à promoção P-MLB17911004 com o anúncio MLB7861864774 por R$ 34,71.",
+   "licoes": [],
+   "ref": {
+    "item": "MLB7861864774",
+    "promo": "P-MLB17911004",
+    "ptipo": "DEAL",
+    "preco": 34.71
+   },
+   "status": "aguardando",
+   "confianca": 0.5
+  },
+  {
+   "id": "dmvpns9f1174c",
+   "hora": 1793043466669,
+   "item": "pP-MLB17911004-MLB7861729940",
+   "tipo": "promocao",
+   "agente": "mkt",
+   "titulo": "Promoção “Black Friday 2026” (DEAL): aderir com o anúncio MLB7861729940 por R$ 173,99",
+   "pergunta": "",
+   "assunto": "DEAL",
+   "texto": "Aderir à promoção P-MLB17911004 com o anúncio MLB7861729940 por R$ 173,99.",
+   "licoes": [],
+   "ref": {
+    "item": "MLB7861729940",
+    "promo": "P-MLB17911004",
+    "ptipo": "DEAL",
+    "preco": 173.99
+   },
+   "status": "aguardando",
+   "confianca": 0.5
+  },
+  {
+   "id": "dmvpns9f1909b",
+   "hora": 1793043466669,
+   "item": "pP-MLB17911004-MLB7861549400",
+   "tipo": "promocao",
+   "agente": "mkt",
+   "titulo": "Promoção “Black Friday 2026” (DEAL): aderir com o anúncio MLB7861549400 por R$ 32,18",
+   "pergunta": "",
+   "assunto": "DEAL",
+   "texto": "Aderir à promoção P-MLB17911004 com o anúncio MLB7861549400 por R$ 32,18.",
+   "licoes": [],
+   "ref": {
+    "item": "MLB7861549400",
+    "promo": "P-MLB17911004",
+    "ptipo": "DEAL",
+    "preco": 32.18
+   },
+   "status": "aguardando",
+   "confianca": 0.5
+  },
+  {
+   "id": "dmvpns9f1bd27",
+   "hora": 1793043466669,
+   "item": "pP-MLB17911004-MLB7861547188",
+   "tipo": "promocao",
+   "agente": "mkt",
+   "titulo": "Promoção “Black Friday 2026” (DEAL): aderir com o anúncio MLB7861547188 por R$ 34,71",
+   "pergunta": "",
+   "assunto": "DEAL",
+   "texto": "Aderir à promoção P-MLB17911004 com o anúncio MLB7861547188 por R$ 34,71.",
+   "licoes": [],
+   "ref": {
+    "item": "MLB7861547188",
+    "promo": "P-MLB17911004",
+    "ptipo": "DEAL",
+    "preco": 34.71
+   },
+   "status": "aguardando",
+   "confianca": 0.5
+  },
+  {
+   "id": "dmvpns9f154af",
+   "hora": 1793043466669,
+   "item": "pP-MLB17911004-MLB7861468212",
+   "tipo": "promocao",
+   "agente": "mkt",
+   "titulo": "Promoção “Black Friday 2026” (DEAL): aderir com o anúncio MLB7861468212 por R$ 145,28",
+   "pergunta": "",
+   "assunto": "DEAL",
+   "texto": "Aderir à promoção P-MLB17911004 com o anúncio MLB7861468212 por R$ 145,28.",
+   "licoes": [],
+   "ref": {
+    "item": "MLB7861468212",
+    "promo": "P-MLB17911004",
+    "ptipo": "DEAL",
+    "preco": 145.28
+   },
+   "status": "aguardando",
+   "confianca": 0.5
+  },
+  {
+   "id": "dmvpns9f1d395",
+   "hora": 1793043466669,
+   "item": "pP-MLB17911004-MLB7855125562",
+   "tipo": "promocao",
+   "agente": "mkt",
+   "titulo": "Promoção “Black Friday 2026” (DEAL): aderir com o anúncio MLB7855125562 por R$ 113,01",
+   "pergunta": "",
+   "assunto": "DEAL",
+   "texto": "Aderir à promoção P-MLB17911004 com o anúncio MLB7855125562 por R$ 113,01.",
+   "licoes": [],
+   "ref": {
+    "item": "MLB7855125562",
+    "promo": "P-MLB17911004",
+    "ptipo": "DEAL",
+    "preco": 113.01
+   },
+   "status": "aguardando",
+   "confianca": 0.5
+  },
+  {
+   "id": "dmvpns9f2dc48",
+   "hora": 1793043466670,
+   "item": "pP-MLB17911004-MLB7855125560",
+   "tipo": "promocao",
+   "agente": "mkt",
+   "titulo": "Promoção “Black Friday 2026” (DEAL): aderir com o anúncio MLB7855125560 por R$ 113,01",
+   "pergunta": "",
+   "assunto": "DEAL",
+   "texto": "Aderir à promoção P-MLB17911004 com o anúncio MLB7855125560 por R$ 113,01.",
+   "licoes": [],
+   "ref": {
+    "item": "MLB7855125560",
+    "promo": "P-MLB17911004",
+    "ptipo": "DEAL",
+    "preco": 113.01
+   },
+   "status": "resolvida",
+   "confianca": 0.5,
+   "fim": 1793120550242
+  },
+  {
+   "id": "dmvpns9f2e650",
+   "hora": 1793043466670,
+   "item": "pP-MLB17911004-MLB7855125558",
+   "tipo": "promocao",
+   "agente": "mkt",
+   "titulo": "Promoção “Black Friday 2026” (DEAL): aderir com o anúncio MLB7855125558 por R$ 113,01",
+   "pergunta": "",
+   "assunto": "DEAL",
+   "texto": "Aderir à promoção P-MLB17911004 com o anúncio MLB7855125558 por R$ 113,01.",
+   "licoes": [],
+   "ref": {
+    "item": "MLB7855125558",
+    "promo": "P-MLB17911004",
+    "ptipo": "DEAL",
+    "preco": 113.01
+   },
+   "status": "resolvida",
+   "confianca": 0.5,
+   "fim": 1793120550242
+  },
+  {
+   "id": "dmvpns9f2d1e1",
+   "hora": 1793043466670,
+   "item": "pP-MLB17911004-MLB7855125556",
+   "tipo": "promocao",
+   "agente": "mkt",
+   "titulo": "Promoção “Black Friday 2026” (DEAL): aderir com o anúncio MLB7855125556 por R$ 113,01",
+   "pergunta": "",
+   "assunto": "DEAL",
+   "texto": "Aderir à promoção P-MLB17911004 com o anúncio MLB7855125556 por R$ 113,01.",
+   "licoes": [],
+   "ref": {
+    "item": "MLB7855125556",
+    "promo": "P-MLB17911004",
+    "ptipo": "DEAL",
+    "preco": 113.01
+   },
+   "status": "resolvida",
+   "confianca": 0.5,
+   "fim": 1793120550242
+  },
+  {
+   "id": "dmvqxofhfcc00",
+   "hora": 1793120550243,
+   "item": "pP-MLB17911004-MLB7869786506",
+   "tipo": "promocao",
+   "agente": "mkt",
+   "titulo": "Promoção “Black Friday 2026” (DEAL): aderir com o anúncio MLB7869786506 por R$ 34,71",
+   "pergunta": "",
+   "assunto": "DEAL",
+   "texto": "Aderir à promoção P-MLB17911004 com o anúncio MLB7869786506 por R$ 34,71.",
+   "licoes": [],
+   "ref": {
+    "item": "MLB7869786506",
+    "promo": "P-MLB17911004",
+    "ptipo": "DEAL",
+    "preco": 34.71
+   },
+   "status": "aguardando",
+   "confianca": 0.5
+  },
+  {
+   "id": "dmvqxofhfa0f2",
+   "hora": 1793120550243,
+   "item": "pP-MLB17911004-MLB7869724280",
+   "tipo": "promocao",
+   "agente": "mkt",
+   "titulo": "Promoção “Black Friday 2026” (DEAL): aderir com o anúncio MLB7869724280 por R$ 173,90",
+   "pergunta": "",
+   "assunto": "DEAL",
+   "texto": "Aderir à promoção P-MLB17911004 com o anúncio MLB7869724280 por R$ 173,90.",
+   "licoes": [],
+   "ref": {
+    "item": "MLB7869724280",
+    "promo": "P-MLB17911004",
+    "ptipo": "DEAL",
+    "preco": 173.9
+   },
+   "status": "aguardando",
+   "confianca": 0.5
+  },
+  {
+   "id": "dmvqxofhff87f",
+   "hora": 1793120550243,
+   "item": "pP-MLB17911004-MLB7869724278",
+   "tipo": "promocao",
+   "agente": "mkt",
+   "titulo": "Promoção “Black Friday 2026” (DEAL): aderir com o anúncio MLB7869724278 por R$ 173,90",
+   "pergunta": "",
+   "assunto": "DEAL",
+   "texto": "Aderir à promoção P-MLB17911004 com o anúncio MLB7869724278 por R$ 173,90.",
+   "licoes": [],
+   "ref": {
+    "item": "MLB7869724278",
+    "promo": "P-MLB17911004",
+    "ptipo": "DEAL",
+    "preco": 173.9
+   },
+   "status": "aguardando",
+   "confianca": 0.5
+  },
+  {
+   "id": "dmvr3qfyy5e10",
+   "hora": 1793130721882,
+   "item": "c-tiktok",
+   "tipo": "conexao",
+   "agente": "sup",
+   "titulo": "TikTok Shop: credenciais salvas, sem conexão ativa",
+   "pergunta": "",
+   "assunto": "",
+   "texto": "",
+   "licoes": [],
+   "ref": {},
+   "status": "alerta",
+   "confianca": 0.99
+  },
+  {
+   "id": "dmvsjuhvla2f3",
+   "hora": 1793218251009,
+   "item": "c-shopee",
+   "tipo": "conexao",
+   "agente": "sup",
+   "titulo": "Shopee: credenciais salvas, sem conexão ativa",
+   "pergunta": "",
+   "assunto": "",
+   "texto": "",
+   "licoes": [],
+   "ref": {},
+   "status": "alerta",
+   "confianca": 0.99
+  },
+  {
+   "id": "dmw15d9ha961b",
+   "hora": 1793738127935,
+   "item": "pP-MLB17911004-MLB7855125560",
+   "tipo": "promocao",
+   "agente": "mkt",
+   "titulo": "Promoção “Black Friday 2026” (DEAL): aderir com o anúncio MLB7855125560 por R$ 113,01",
+   "pergunta": "",
+   "assunto": "DEAL",
+   "texto": "Aderir à promoção P-MLB17911004 com o anúncio MLB7855125560 por R$ 113,01.",
+   "licoes": [],
+   "ref": {
+    "item": "MLB7855125560",
+    "promo": "P-MLB17911004",
+    "ptipo": "DEAL",
+    "preco": 113.01
+   },
+   "status": "aguardando",
+   "confianca": 0.5
+  },
+  {
+   "id": "dmw15d9hbcf33",
+   "hora": 1793738127935,
+   "item": "pP-MLB17911004-MLB7855125558",
+   "tipo": "promocao",
+   "agente": "mkt",
+   "titulo": "Promoção “Black Friday 2026” (DEAL): aderir com o anúncio MLB7855125558 por R$ 113,01",
+   "pergunta": "",
+   "assunto": "DEAL",
+   "texto": "Aderir à promoção P-MLB17911004 com o anúncio MLB7855125558 por R$ 113,01.",
+   "licoes": [],
+   "ref": {
+    "item": "MLB7855125558",
+    "promo": "P-MLB17911004",
+    "ptipo": "DEAL",
+    "preco": 113.01
+   },
+   "status": "aguardando",
+   "confianca": 0.5
+  },
+  {
+   "id": "dmw15d9hb3ce0",
+   "hora": 1793738127935,
+   "item": "pP-MLB17911004-MLB7855125556",
+   "tipo": "promocao",
+   "agente": "mkt",
+   "titulo": "Promoção “Black Friday 2026” (DEAL): aderir com o anúncio MLB7855125556 por R$ 113,01",
+   "pergunta": "",
+   "assunto": "DEAL",
+   "texto": "Aderir à promoção P-MLB17911004 com o anúncio MLB7855125556 por R$ 113,01.",
+   "licoes": [],
+   "ref": {
+    "item": "MLB7855125556",
+    "promo": "P-MLB17911004",
+    "ptipo": "DEAL",
+    "preco": 113.01
+   },
+   "status": "aguardando",
+   "confianca": 0.5
+  }
+ ],
+ "eventos": [
+  {
+   "t": 1792972298100,
+   "tipo": "erro",
+   "texto": "Ana · Atendimento não conseguiu o rascunho: O assistente recusou o pedido (402)",
+   "de": "ate"
+  },
+  {
+   "t": 1792972343112,
+   "tipo": "erro",
+   "texto": "Ana · Atendimento não conseguiu o rascunho: O assistente não respondeu a tempo: The operation was aborted due to timeout",
+   "de": "ate"
+  },
+  {
+   "t": 1792972402345,
+   "tipo": "erro",
+   "texto": "Ana · Atendimento não conseguiu o rascunho: O assistente não respondeu a tempo: The operation was aborted due to timeout",
+   "de": "ate"
+  },
+  {
+   "t": 1792972402346,
+   "tipo": "ciclo",
+   "texto": "5 decisão(ões) nova(s)."
+  },
+  {
+   "t": 1792972723876,
+   "tipo": "erro",
+   "texto": "Ana · Atendimento não conseguiu o rascunho: O assistente recusou o pedido (402)",
+   "de": "ate"
+  },
+  {
+   "t": 1792972724348,
+   "tipo": "erro",
+   "texto": "Ana · Atendimento não conseguiu o rascunho: O assistente recusou o pedido (402)",
+   "de": "ate"
+  },
+  {
+   "t": 1792972724631,
+   "tipo": "erro",
+   "texto": "Ana · Atendimento não conseguiu o rascunho: O assistente recusou o pedido (402)",
+   "de": "ate"
+  },
+  {
+   "t": 1792972725048,
+   "tipo": "erro",
+   "texto": "Ana · Atendimento não conseguiu o rascunho: O assistente recusou o pedido (402)",
+   "de": "ate"
+  },
+  {
+   "t": 1792972725048,
+   "tipo": "ciclo",
+   "texto": "1 decisão(ões) nova(s)."
+  },
+  {
+   "t": 1792973108737,
+   "tipo": "erro",
+   "texto": "Ana · Atendimento não conseguiu o rascunho: O assistente não respondeu a tempo: The operation was aborted due to timeout",
+   "de": "ate"
+  },
+  {
+   "t": 1792973164638,
+   "tipo": "erro",
+   "texto": "Ana · Atendimento não conseguiu o rascunho: O assistente não respondeu a tempo: The operation was aborted due to timeout",
+   "de": "ate"
+  },
+  {
+   "t": 1792973179965,
+   "tipo": "ciclo",
+   "texto": "3 decisão(ões) nova(s)."
+  },
+  {
+   "t": 1792973501065,
+   "tipo": "erro",
+   "texto": "Ana · Atendimento não conseguiu o rascunho: O assistente recusou o pedido (402)",
+   "de": "ate"
+  },
+  {
+   "t": 1792973501065,
+   "tipo": "ciclo",
+   "texto": "1 decisão(ões) nova(s)."
+  },
+  {
+   "t": 1792973843083,
+   "tipo": "ciclo",
+   "texto": "1 decisão(ões) nova(s)."
+  },
+  {
+   "t": 1793007899779,
+   "tipo": "ciclo",
+   "texto": "20 decisão(ões) nova(s)."
+  },
+  {
+   "t": 1793029595889,
+   "tipo": "ciclo",
+   "texto": "1 decisão(ões) nova(s)."
+  },
+  {
+   "t": 1793034660784,
+   "tipo": "ciclo",
+   "texto": "1 decisão(ões) nova(s)."
+  },
+  {
+   "t": 1793039513526,
+   "tipo": "ciclo",
+   "texto": "1 decisão(ões) nova(s)."
+  },
+  {
+   "t": 1793040963495,
+   "tipo": "ciclo",
+   "texto": "21 decisão(ões) nova(s)."
+  },
+  {
+   "t": 1793042610616,
+   "tipo": "ciclo",
+   "texto": "1 decisão(ões) nova(s)."
+  },
+  {
+   "t": 1793043466670,
+   "tipo": "ciclo",
+   "texto": "20 decisão(ões) nova(s)."
+  },
+  {
+   "t": 1793120550244,
+   "tipo": "ciclo",
+   "texto": "3 decisão(ões) nova(s)."
+  },
+  {
+   "t": 1793130721882,
+   "tipo": "ciclo",
+   "texto": "1 decisão(ões) nova(s)."
+  },
+  {
+   "t": 1793218251009,
+   "tipo": "ciclo",
+   "texto": "1 decisão(ões) nova(s)."
+  },
+  {
+   "t": 1793738127935,
+   "tipo": "ciclo",
+   "texto": "3 decisão(ões) nova(s)."
+  }
+ ],
+ "itens": {
+  "c-amazon": "dmvohh3u20405",
+  "pP-MLB17911004-MLB7869950752": "dmvpns9f0cc84",
+  "pP-MLB17911004-MLB7869693312": "dmvpns9f0c9ed",
+  "pP-MLB17911004-MLB7869693310": "dmvpns9f0ddf1",
+  "pP-MLB17911004-MLB7869669358": "dmvpns9f04702",
+  "pP-MLB17911004-MLB7869669354": "dmvpns9f0931a",
+  "pP-MLB17911004-MLB7869612544": "dmvpns9f01bad",
+  "pP-MLB17911004-MLB7869550754": "dmvpns9f0846e",
+  "pP-MLB17911004-MLB7869505918": "dmvpns9f1519e",
+  "pP-MLB17911004-MLB7861864774": "dmvpns9f15f8a",
+  "pP-MLB17911004-MLB7861729940": "dmvpns9f1174c",
+  "pP-MLB17911004-MLB7861549400": "dmvpns9f1909b",
+  "pP-MLB17911004-MLB7861547188": "dmvpns9f1bd27",
+  "pP-MLB17911004-MLB7861468212": "dmvpns9f154af",
+  "pP-MLB17911004-MLB7855125562": "dmvpns9f1d395",
+  "pP-MLB17911004-MLB7869786506": "dmvqxofhfcc00",
+  "pP-MLB17911004-MLB7869724280": "dmvqxofhfa0f2",
+  "pP-MLB17911004-MLB7869724278": "dmvqxofhff87f",
+  "c-tiktok": "dmvr3qfyy5e10",
+  "c-shopee": "dmvsjuhvla2f3",
+  "pP-MLB17911004-MLB7855125560": "dmw15d9ha961b",
+  "pP-MLB17911004-MLB7855125558": "dmw15d9hbcf33",
+  "pP-MLB17911004-MLB7855125556": "dmw15d9hb3ce0"
+ },
+ "ultimoCiclo": 1793738786977,
+ "ultimoNascimento": 0,
+ "ciclos": 247,
+ "ultimoErro": ""
+}
