@@ -1,0 +1,61 @@
+{
+  "mercadolivre": {
+    "cred": {
+      "client_id": "8609822375657682",
+      "client_secret": "enc:v1:/9f+N1coAdTp/zwMCCdu8tvlGbDE7mzGVkh68RIulYVydrjJrLjv3LONNtb8uN12ZdPHJIy23BVE9t4i",
+      "redirect_uri": "https://gardening-controllers-coal-rob.trycloudflare.com/oauth/mercadolivre"
+    },
+    "tok": {
+      "access": "enc:v1:KFofsVKRurj9F7Bg8APWu8loeYgDWmsGjdEquKiuI3tVrlllDzsvsG/KVcEJUIcM7U1gqyJlPmmEQvFbY97eFRR5kZfViQQ3Tm8rdySoGJOkrY0lc6bi3NgZUP1LY4N7hYe5fnQ+oA==",
+      "refresh": "enc:v1:NZz+e80s5JZkOJXfuxnX/eyX2fvHFxWa4M0JFn18Ft+vB/TxO8Up4cqbIjdN8NgQYOA+gVpsnDgeYUXhpA9LZhZO",
+      "exp": 1793318056585,
+      "uid": 2673296321
+    },
+    "conta": "BDFAEGHBC29447"
+  },
+  "wix": {
+    "cred": {
+      "api_key": "enc:v1:9gJmf4fBljE+2a1182bQC9a0Zyb1exVa5XjTPFeRs/3pU24F2Se632JNJK+NsW/v+NsPyYIMwbyAoMVeelBiQu4D28BBFaqA5WFJNO/frdvJ3Imv1vnZIxnLs/HnyG1AeBAUJcQkYAY6TTtlZ107g1x0SHnU3nYyW/VBzk724xCCDgEgAAhXUu6k7yoXJXsU9HXutVdBSP+oRNUo+6Eua9UqEC6T2x29R3SrD5AlHCFnj+lg4Wgz9eSuz3oCV4fogr/mrC5dlrm50+jxskeE4nKuHQd6kSAvgf+lm0kipxjw6IyBxQNr5zD1AMvbYZA1rKg5N8Erl62GTGO9uhUCBZU4nZtaOgP8lylWmdjMCf0o74pCQ93xt2hWWi30rUZxNX36abGIxtFvjhbMzVdy5IUVZC3rrBImeC+B5IZCcHKwVbA29QSX7CZfRmItRYy3MlNPuR9BvGBF7NqXwuu2w16GxA6/Rz1eeG0LCUxnQVH1sdVV31HCTkh5YxnSaQ/t9tm+DQ2YUm3nePlW3MRcGyhULpLk7MGc7/GHuYLwBSMPp7A23bdSXbg76ohTsWrcH7AMjGrAJ+DpDssg6VXxsV3/0lJHjmarMfDT67oVpG41Y4wLj55cm+R0HiVI/ruLSQKjwz692L0spEJcrstzT12S5531fKaM/DjSScd6OlDUjjh2WOuTxskGCCGKf5lsIdZpLpYBbslldMMlKDPcQVDCOzqejpQJJUdyZV36tn4kYyQahZT9uvxi1wR+HIxQ6I9QuM6ehVqBq5tRgq3wVKupm3csQR8NwPRDBcoFV/08zbo6J3Yi2DfMbg4/Ka7y+xrKx1Q7+qzbGCyw1otCmeYQzCccj0HfVTEHlCdvJIFMGSWsoSkGzrMnfN/xu77CTQO0Fj9wfEqHylj2Hkj2KGZwM695cRXg2SLXk29qtwRx+Xce2dDWrsPnEK7NT4EQyHe5gasNGAeuBRpQ7DOFXUWoXCEe5Bc77N2bnbI=",
+      "site_id": "4f59926f-6100-48fe-86dd-7594f45584d1"
+    },
+    "conta": "Closet atacado e varejo",
+    "tok": {
+      "access": "enc:v1:f/m750f15HpklX3gMjMC6p5khhpGtVmG9UA87jz4Va7Xm4cxAQ==",
+      "exp": 2093217087655,
+      "uid": "4f59926f-6100-48fe-86dd-7594f45584d1"
+    }
+  },
+  "amazon": {
+    "cred": {
+      "client_id": "amzn1.application-oa2-client.432430ec1e8a41ce80cdd5181f59ebe7",
+      "client_secret": "enc:v1:kqDqMMmTlHDp1bbbTSzmZQs3mzb+AXQyquzvVWuZQtRiqwXuf/Vzjo96FfP0DfXgu+qK7zjaMpQBJBrmYmbGWEuPEuAE9xhHnMt5yyOPH2HEIcyXsBDzGdSOW/e/V48SLv4wqK2FGvpWwP/I",
+      "refresh_token": "enc:v1:bxuIk0jZMWB/ZlQ00qGyDMRZ5E7/1mn2WlP0hkcB1E6eNlwCWsslTh9ZLELb27+fckjUUnUXv4uYC0NC+RZerp1nf2ZQvCGJGnwL2aNOzLx/iSdtR4NGm24GwA5KjfLwadRy2xG6kbOPmsAxP4lXmZ4hIl/v3Z/LcGMHWpWmdyCs49FMJ/kWvykjACr7y9PW2ZvD+wIfnbkwkSPR0Fpwydc79piovW5N2HRcYO5NkuT0H9INEcvXMGTHWXAnXgDbNhhUT0VYCIVrmcfil0hgg2wbISrW5IyIfHfb1oKCVJ5UrsG7+JmUm2aXyZo8mNt6mJbygcNeMWdpL2tkxBB8A2L4+/uYMNj9X+bpggSyQBTUWO7aarbB8T5XqgYlNpDhWM4Nn5wTapZV4u515zvmF8N+TpRFP65XqanX6+gGekvlNnjzntay+ASTXpnRpYI4wrg/QZrVOEPanKIkBbN29brzjTvcsrZT"
+    }
+  },
+  "tiktok": {
+    "cred": {
+      "app_key": "awwlmm51tx6ba8hp",
+      "app_secret": "enc:v1:xGnEWTyhTYHcICXdgi75fu+n9RWBRWTPBLYnEu2iiMN9kD/hQJsNN+xOCdQw46iY5o8SC4y1PvAWWHuu"
+    }
+  },
+  "bling": {
+    "cred": {
+      "client_id": "98cd3a5fbcbb940af579adfac66007e920afa8d2",
+      "client_secret": "enc:v1:28/HOPI//TwUiO+I604/lPhyksA5Za6O6LSLR0EToQTI5yUrJdkzujsl2d5FEexZU8WKGnnNPz60VuMPChq+WChog5NZSWIl/QeR9UKEMLxTIENKHIUZPA=="
+    },
+    "tok": {
+      "access": "enc:v1:EZ65wfCXv8JkHS9MZvOo4GBj4ZlrDrbSWkyy5A8q3bfI20WJTlCtIDE9z1n8fRcpnzhG5SpqaMCxQbeQQ31Xgtsyqpc=",
+      "refresh": "enc:v1:J9JdiYbWD1Y+hiaxELJPyRGE5bshCbvK2AGVRXKIt8vlaweWGcVzi+CTMz7C5D9UY7aZMnNY4+q2oLseIz/ABZCSTlU=",
+      "exp": 1793238156982
+    },
+    "conta": "MS CONFECÇÃO"
+  },
+  "shopee": {
+    "cred": {
+      "partner_id": "1250650",
+      "partner_key": "enc:v1:vNE/BaoWoRM5hu4pnhhB5npY2cKlca0Vim2M0x/1dcVe869X7gn6FeWIx4Z/lW9DYgcOE4R+ORvEddEzqpxVTNk+IooTsXNSIpA2U9P8n0gNKsvF6XvpLUntD44=",
+      "shop_id": "23999411162",
+      "redirect_uri": "https://gardening-controllers-coal-rob.trycloudflare.com/oauth/shopee"
+    }
+  }
+}

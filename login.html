@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="dark">
+<script src="backend-config.js"></script>
+<script src="github-pages-redirect.js"></script>
+<title>Entrar · Automação IA MS importadora</title>
+<style>
+:root{color-scheme:dark;--bg:#0b1220;--card:#121c30;--line:#243452;--ink:#e7eefb;--muted:#9aabc4;--accent:#5eead4;--error:#fca5a5}
+*{box-sizing:border-box}
+body{min-height:100vh;margin:0;padding:24px;display:grid;place-items:center;background:radial-gradient(900px 500px at 20% 0,#17284a 0,transparent 65%),var(--bg);color:var(--ink);font:15px/1.5 "Segoe UI",system-ui,sans-serif}
+main{width:min(100%,440px);padding:30px;background:var(--card);border:1px solid var(--line);border-radius:20px;box-shadow:0 24px 80px #0005}
+.brand{display:flex;align-items:center;gap:12px;margin-bottom:22px}
+.logo{width:42px;height:42px;border-radius:12px;background:linear-gradient(135deg,#5eead4,#818cf8);display:grid;place-items:center;color:#071321;font-weight:800}
+h1{font-size:20px;margin:0}p{color:var(--muted);margin:7px 0 22px}
+h2{font-size:13px;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);margin:0 0 16px}
+label{display:block;margin:14px 0 6px;font-size:13px}
+input{width:100%;padding:12px 13px;border:1px solid var(--line);border-radius:10px;background:#0b1424;color:var(--ink);font:inherit}
+input:focus{outline:2px solid #5eead455;border-color:var(--accent)}
+button{font:inherit;cursor:pointer}
+.primary{width:100%;margin-top:20px;padding:12px;border:0;border-radius:10px;background:var(--accent);color:#08201e;font-weight:700}
+.primary:disabled{opacity:.6;cursor:wait}
+.switch{display:block;width:100%;margin-top:16px;border:0;background:none;color:var(--accent);text-decoration:underline}
+#message{min-height:24px;margin:14px 0 0;color:var(--error);font-size:13px}
+.hint{font-size:12px;margin:18px 0 0}
+[hidden]{display:none!important}
+</style>
+</head>
+<body>
+<main>
+  <div class="brand"><div class="logo" aria-hidden="true">MS</div><div><h1>Automação IA MS importadora</h1><div style="font-size:12px;color:var(--muted)">Acesse seu painel</div></div></div>
+  <section id="loginPanel">
+    <h2>Conectar à conta</h2>
+    <form id="loginForm">
+      <label for="loginUser">Usuário</label><input id="loginUser" name="username" autocomplete="username" value="Maicon" required maxlength="32">
+      <label for="loginPass">Senha</label><input id="loginPass" name="password" type="password" autocomplete="current-password" required maxlength="128">
+      <button class="primary" type="submit">Entrar</button>
+    </form>
+    <button class="switch" id="showRegister" type="button">Criar uma conta nova</button>
+  </section>
+  <section id="registerPanel" hidden>
+    <h2>Criar conta</h2>
+    <form id="registerForm">
+      <label for="registerUser">Usuário</label><input id="registerUser" name="username" autocomplete="username" minlength="3" maxlength="32" required>
+      <label for="registerPass">Senha (mínimo de 10 caracteres)</label><input id="registerPass" name="password" type="password" autocomplete="new-password" minlength="10" maxlength="128" required>
+      <button class="primary" type="submit">Cadastrar e entrar</button>
+    </form>
+    <button class="switch" id="showLogin" type="button">Já tenho uma conta</button>
+  </section>
+  <div id="message" role="status" aria-live="polite"></div>
+  <p class="hint">Cada conta mantém seus próprios dados e conexões. A conta Maicon contém os dados migrados do painel anterior.</p>
+</main>
+<script>
+const $=id=>document.getElementById(id),message=$("message");
+function painel(register){$("loginPanel").hidden=register;$("registerPanel").hidden=!register;message.textContent="";(register?$("registerUser"):$("loginUser")).focus()}
+async function submit(form,route){const button=form.querySelector("button[type=submit]");button.disabled=true;message.textContent="";try{const response=await fetch("/api/auth/"+route,{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify(Object.fromEntries(new FormData(form)))});const result=await response.json();if(!response.ok)throw new Error(result.erro||"Não foi possível concluir a operação.");location.replace("/")}catch(error){message.textContent=error.message||"Falha de conexão com o servidor."}finally{button.disabled=false}}
+$("loginForm").addEventListener("submit",event=>{event.preventDefault();submit(event.currentTarget,"login")});
+$("registerForm").addEventListener("submit",event=>{event.preventDefault();submit(event.currentTarget,"register")});
+$("showRegister").addEventListener("click",()=>painel(true));$("showLogin").addEventListener("click",()=>painel(false));
+</script>
+</body>
+</html>

@@ -1,0 +1,14 @@
+[
+  {
+    "id": "maicon",
+    "username": "Maicon",
+    "salt": "fee1b426a1dc11d1071c432028b52ba4",
+    "hash": "a85f84e4b77624c97ee1bda4421d9003a4e019bf5e622ea793866be79c5d331717c6ede7e6fa9470ad03bd022b5cbae00e644b88bc16ba6fd0171b1ba3633941"
+  },
+  {
+    "id": "2086c26188061f0913271f87b463f400",
+    "username": "teste",
+    "salt": "3ead489434cc2b2fee786e875bc48522",
+    "hash": "45cdb45bd1d86ae925f24cae9888bcc4a2eb12845d65d4db5ba96d186e6342d428f2cc6c4feb33478bd6838b72039bad90653c547779ad4d13aee97b98e8ceca"
+  }
+]

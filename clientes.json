@@ -1,0 +1,7004 @@
+[
+  {
+    "id": "cmvmgvn82870579",
+    "mlId": "2310654530",
+    "criado": "2026-10-24T14:01:08.691Z",
+    "pedidos": [
+      {
+        "id": "2000019147572134",
+        "data": "2026-10-24T06:12:08.000-04:00",
+        "total": 94.21,
+        "cancelado": false
+      }
+    ],
+    "nome": "Iramario Raimundo Alexandre",
+    "apelido": "AI20250306173658",
+    "documento": "05535063827",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "11015110",
+    "endereco": "Rua Vinte e Oito de Setembro, 272, Macuco, Apto 03, 04, 05",
+    "cidade": "Santos",
+    "uf": "SP",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn83473ce6",
+    "mlId": "282746389",
+    "criado": "2026-10-24T14:01:08.691Z",
+    "pedidos": [
+      {
+        "id": "2000019146377758",
+        "data": "2026-10-23T23:52:32.000-04:00",
+        "total": 34,
+        "cancelado": false
+      }
+    ],
+    "nome": "Carla Correa De Jesus",
+    "apelido": "DECA7444550",
+    "documento": "34305131897",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "11020280",
+    "endereco": "Rua Marambaia, 53, Estuário, Referencia: Rua sem saída, no canal 5, entre a Av. Afonso Pena e a avnida do Cais (porto).",
+    "cidade": "Santos",
+    "uf": "SP",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn83f3fa53",
+    "mlId": "3408170547",
+    "criado": "2026-10-24T14:01:08.691Z",
+    "pedidos": [
+      {
+        "id": "2000019144937840",
+        "data": "2026-10-23T21:26:38.000-04:00",
+        "total": 99.17,
+        "cancelado": false
+      }
+    ],
+    "nome": "Cláudio Carneiro dos Santos junior",
+    "apelido": "CL20260517164148",
+    "documento": "11335543422",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "55827012",
+    "endereco": "Avenida Canal, 9, Primavera, Casa",
+    "cidade": "Paudalho",
+    "uf": "PE",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn835f96cd",
+    "mlId": "187249951",
+    "criado": "2026-10-24T14:01:08.691Z",
+    "pedidos": [
+      {
+        "id": "2000019144905310",
+        "data": "2026-10-23T21:21:44.000-04:00",
+        "total": 64.41,
+        "cancelado": false
+      }
+    ],
+    "nome": "Paulo Eduardo Santos Garcia",
+    "apelido": "PAULOEDUARDOSANTOSGARCIA",
+    "documento": "42518458034",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "91910290",
+    "endereco": "Rua Marechal Hermes, 155, Camaquã, Apto 108 Bloco A",
+    "cidade": "Porto Alegre",
+    "uf": "RS",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn839ea007",
+    "mlId": "1027679445",
+    "criado": "2026-10-24T14:01:08.691Z",
+    "pedidos": [
+      {
+        "id": "2000019144468998",
+        "data": "2026-10-23T20:46:39.000-04:00",
+        "total": 129.99,
+        "cancelado": false
+      },
+      {
+        "id": "2000019144454428",
+        "data": "2026-10-23T20:45:27.000-04:00",
+        "total": 99,
+        "cancelado": false
+      }
+    ],
+    "nome": "Deivid Araujo da Silva",
+    "apelido": "ARAUJODEIVID20220706144118",
+    "documento": "42589852878",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "08265381",
+    "endereco": "Rua Sho Yoshioka, 337, Gleba do Pêssego, AP T04 TORRE 1 Referencia: Condomínio Mirai Parque do Carmo 7",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8t4c6bc8",
+    "mlId": "2627972895",
+    "criado": "2026-10-24T14:01:08.717Z",
+    "pedidos": [
+      {
+        "id": "2000019143200694",
+        "data": "2026-10-23T19:17:27.000-04:00",
+        "total": 49.41,
+        "cancelado": false
+      }
+    ],
+    "nome": "Patricia Cardoso Dos Santos",
+    "apelido": "P20250816111525",
+    "documento": "08510565635",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "33236434",
+    "endereco": "Rua Sacadura Cabral, 180, Aeronautas, Casa",
+    "cidade": "Lagoa Santa",
+    "uf": "MG",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8t3f6414",
+    "mlId": "2006431135",
+    "criado": "2026-10-24T14:01:08.717Z",
+    "pedidos": [
+      {
+        "id": "2000019141711466",
+        "data": "2026-10-23T17:35:59.000-04:00",
+        "total": 99.17,
+        "cancelado": false
+      }
+    ],
+    "nome": "João Paulo da Fonseca",
+    "apelido": "JF20240926102124",
+    "documento": "05371357408",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "63210000",
+    "endereco": "Manoel j Medeiros, SN, anauá, Referencia: rua do campo de futebol, casa verde de calçada alta",
+    "cidade": "Mauriti",
+    "uf": "CE",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8tfb075e",
+    "mlId": "629467872",
+    "criado": "2026-10-24T14:01:08.717Z",
+    "pedidos": [
+      {
+        "id": "2000019140990534",
+        "data": "2026-10-23T16:43:12.000-04:00",
+        "total": 34,
+        "cancelado": false
+      }
+    ],
+    "nome": "Ana Cristina Loureiro",
+    "apelido": "ANACRILOUREIRO",
+    "documento": "85895741649",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "36660000",
+    "endereco": "RUA CORONEL OSCAR CORTES, 20, Porto Novo, Próximo ao Correio ao lado da Peixaria Flamar",
+    "cidade": "Além Paraíba",
+    "uf": "MG",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8tf9097d",
+    "mlId": "329970696",
+    "criado": "2026-10-24T14:01:08.717Z",
+    "pedidos": [
+      {
+        "id": "2000019140853178",
+        "data": "2026-10-23T16:35:07.000-04:00",
+        "total": 159.9,
+        "cancelado": false
+      }
+    ],
+    "nome": "Isaías da Costa Taver",
+    "apelido": "ISAIASTAVERA",
+    "documento": "11927031702",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "27275600",
+    "endereco": "Via Almirante Adalberto Nunes, 2832, Vila Mury, Beira Rio Referencia: Tavera Veículos, ao lado da Elci Noivas, em frente a passarela da CSN.",
+    "cidade": "Volta Redonda",
+    "uf": "RJ",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8t6611e1",
+    "mlId": "2702126521",
+    "criado": "2026-10-24T14:01:08.717Z",
+    "pedidos": [
+      {
+        "id": "2000019140468744",
+        "data": "2026-10-23T16:08:33.000-04:00",
+        "total": 99,
+        "cancelado": false
+      }
+    ],
+    "nome": "Luiz Cláudio Gonçalves Pinheiro",
+    "apelido": "GCDHBAEGF65541",
+    "documento": "11398393819",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "38400710",
+    "endereco": "AVENIDA AFONSO PENA, 3029, Brasil",
+    "cidade": "Uberlândia",
+    "uf": "MG",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8t170336",
+    "mlId": "38309666",
+    "criado": "2026-10-24T14:01:08.717Z",
+    "pedidos": [
+      {
+        "id": "2000019138119220",
+        "data": "2026-10-23T13:39:43.000-04:00",
+        "total": 34,
+        "cancelado": false
+      }
+    ],
+    "nome": "Marcos Paulo Viderman Oliveira",
+    "apelido": "MOLIVEIRA5113",
+    "documento": "19861848894",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "03087010",
+    "endereco": "Rua Antônio Macedo, 325, Parque São Jorge, Apartamento 65",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8t4032d7",
+    "mlId": "198126918",
+    "criado": "2026-10-24T14:01:08.717Z",
+    "pedidos": [
+      {
+        "id": "2000019136876216",
+        "data": "2026-10-23T12:24:26.000-04:00",
+        "total": 94.21,
+        "cancelado": false
+      }
+    ],
+    "nome": "Fernando Junior",
+    "apelido": "JFE4373586",
+    "documento": "04245726210",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "68702135",
+    "endereco": "Travessa Coronel Leandro Pinheiro, 61, Tancredo Neves, Oficina Portao Azul Referencia: Oficina Portao Azul - Numero: 61A",
+    "cidade": "Capanema",
+    "uf": "PA",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8t0895a8",
+    "mlId": "204559484",
+    "criado": "2026-10-24T14:01:08.717Z",
+    "pedidos": [
+      {
+        "id": "2000019136302552",
+        "data": "2026-10-23T11:50:15.000-04:00",
+        "total": 19.9,
+        "cancelado": false
+      }
+    ],
+    "nome": "Marcelo Simas",
+    "apelido": "MARCELOCARVALHOSIMASSIMAS",
+    "documento": "04305753782",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "21020190",
+    "endereco": "Rua Conde de Agrolongo, 10, Penha, Loja Alba diesel Referencia: Esquina com AV Brasil.",
+    "cidade": "Rio de Janeiro",
+    "uf": "RJ",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8t150dd5",
+    "mlId": "172140811",
+    "criado": "2026-10-24T14:01:08.717Z",
+    "pedidos": [
+      {
+        "id": "2000019134837390",
+        "data": "2026-10-23T10:21:07.000-04:00",
+        "total": 19.9,
+        "cancelado": false
+      }
+    ],
+    "nome": "MARIANA CERRÓN",
+    "apelido": "MARIANAMUNHOZCERRN",
+    "documento": "36562864852",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "05005001",
+    "endereco": "Rua Turiassu, 519, Perdizes, Conjunto 94",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8t235fcb",
+    "mlId": "1315829399",
+    "criado": "2026-10-24T14:01:08.717Z",
+    "pedidos": [
+      {
+        "id": "2000019133477564",
+        "data": "2026-10-23T08:57:25.000-04:00",
+        "total": 99,
+        "cancelado": false
+      }
+    ],
+    "nome": "Evandro Coutinho correa",
+    "apelido": "COUTINHOEVANDRO20230222140442",
+    "documento": "59467207753",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "28908090",
+    "endereco": "Rua Ministro Gama Filho, 133, Braga, Apto 302 Referencia: Rua do Forum",
+    "cidade": "Cabo Frio",
+    "uf": "RJ",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8te4e93a",
+    "mlId": "157153487",
+    "criado": "2026-10-24T14:01:08.717Z",
+    "pedidos": [
+      {
+        "id": "2000019132819456",
+        "data": "2026-10-23T08:11:13.000-04:00",
+        "total": 34,
+        "cancelado": false
+      }
+    ],
+    "nome": "Marines Soares Siqueira Belem",
+    "apelido": "SIMA3310867",
+    "documento": "00604328613",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "14151352",
+    "endereco": "Rua Manoel Parreira, 905, Jardim São Luiz, Sobrado Referencia: Saída para Cravinhos",
+    "cidade": "Serrana",
+    "uf": "SP",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8t7dd53b",
+    "mlId": "572194049",
+    "criado": "2026-10-24T14:01:08.717Z",
+    "pedidos": [
+      {
+        "id": "2000019132277044",
+        "data": "2026-10-23T07:16:13.000-04:00",
+        "total": 96.03,
+        "cancelado": false
+      }
+    ],
+    "nome": "Jaqueline Kotz Lenhardt",
+    "apelido": "JAQUELINELENHARDT229",
+    "documento": "10713803975",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "89897000",
+    "endereco": "Rua Adolfo Grasel, 737, Centro, Casa",
+    "cidade": "São João do Oeste",
+    "uf": "SC",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8td53f84",
+    "mlId": "742808840",
+    "criado": "2026-10-24T14:01:08.717Z",
+    "pedidos": [
+      {
+        "id": "2000019132079780",
+        "data": "2026-10-23T06:56:13.000-04:00",
+        "total": 55,
+        "cancelado": false
+      }
+    ],
+    "nome": "Flávia Carolina Aguiar",
+    "apelido": "FLAVIACAROLINAAGUIARFLAVIAC",
+    "documento": "37175918860",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "13573162",
+    "endereco": "Rua Leonardo Foschini, 148, Cidade Aracy, casa",
+    "cidade": "São Carlos",
+    "uf": "SP",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8t3b2414",
+    "mlId": "741387185",
+    "criado": "2026-10-24T14:01:08.717Z",
+    "pedidos": [
+      {
+        "id": "2000019131532994",
+        "data": "2026-10-23T04:58:10.000-04:00",
+        "total": 94.21,
+        "cancelado": false
+      }
+    ],
+    "nome": "Rafaela dos Santos Silva",
+    "apelido": "SARA6346804",
+    "documento": "06095871530",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "40315360",
+    "endereco": "Rua Madalena Paraguassu, 32, Pau Miúdo, casa beco Referencia: Portão cinza ao lado da igreja universal.",
+    "cidade": "Salvador",
+    "uf": "BA",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8tb2f65f",
+    "mlId": "202964325",
+    "criado": "2026-10-24T14:01:08.717Z",
+    "pedidos": [
+      {
+        "id": "2000019131430136",
+        "data": "2026-10-23T03:50:04.000-04:00",
+        "total": 49,
+        "cancelado": false
+      }
+    ],
+    "nome": "Thamara Leal",
+    "apelido": "THPIX",
+    "documento": "26836635871",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "13085000",
+    "endereco": "Estrada da Rhodia, 3510, Vila Holandia/Cidade Universitária, Nílton Auto Elétrica e Mecanica e Baterias",
+    "cidade": "Campinas",
+    "uf": "SP",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8t1dfe56",
+    "mlId": "146604173",
+    "criado": "2026-10-24T14:01:08.717Z",
+    "pedidos": [
+      {
+        "id": "2000019129622868",
+        "data": "2026-10-22T22:36:08.000-04:00",
+        "total": 19.9,
+        "cancelado": true
+      }
+    ],
+    "nome": "",
+    "apelido": "JCIKAFIGLIOLLIRUBIN",
+    "documento": "30480684812",
+    "telefone": "",
+    "telefone2": "",
+    "email": "",
+    "cep": "",
+    "endereco": "",
+    "cidade": "",
+    "uf": "",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8tc86e86",
+    "mlId": "229999329",
+    "criado": "2026-10-24T14:01:08.717Z",
+    "pedidos": [
+      {
+        "id": "2000019128949996",
+        "data": "2026-10-22T21:45:20.000-04:00",
+        "total": 99.17,
+        "cancelado": false
+      }
+    ],
+    "nome": "Daniel Anderson",
+    "apelido": "ANDA4782506",
+    "documento": "08055925470",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "59031500",
+    "endereco": "Rua Jaguarari, 1790, Alecrim, Casa Referencia: vizinho ao borrachão",
+    "cidade": "Natal",
+    "uf": "RN",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8tacbbad",
+    "mlId": "171010001",
+    "criado": "2026-10-24T14:01:08.717Z",
+    "pedidos": [
+      {
+        "id": "2000019128916032",
+        "data": "2026-10-22T21:42:21.000-04:00",
+        "total": 226.98,
+        "cancelado": false
+      },
+      {
+        "id": "2000019075457246",
+        "data": "2026-10-20T08:04:43.000-04:00",
+        "total": 113.49,
+        "cancelado": false
+      }
+    ],
+    "nome": "Adriano batista",
+    "apelido": "BAAD3303946",
+    "documento": "28951120880",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "06080125",
+    "endereco": "Avenida Visconde de Nova Granada, 1725, Vila Osasco, Loja Irka",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8t735192",
+    "mlId": "136111830",
+    "criado": "2026-10-24T14:01:08.717Z",
+    "pedidos": [
+      {
+        "id": "2000019128352320",
+        "data": "2026-10-22T21:08:10.000-04:00",
+        "total": 19.9,
+        "cancelado": false
+      }
+    ],
+    "nome": "Marina Funchal Queiroga",
+    "apelido": "MARINAFUNCHAL",
+    "documento": "04685380118",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "70680283",
+    "endereco": "Quadra CCSW 2 Lote 5 Bloco A, 502, Setor Sudoeste, Ed. Geraldo Carneiro Referencia: Bloco A",
+    "cidade": "Brasília",
+    "uf": "DF",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8t6ec21a",
+    "mlId": "491764763",
+    "criado": "2026-10-24T14:01:08.717Z",
+    "pedidos": [
+      {
+        "id": "2000019126649284",
+        "data": "2026-10-22T19:30:28.000-04:00",
+        "total": 99.17,
+        "cancelado": false
+      }
+    ],
+    "nome": "João Brito Araújo",
+    "apelido": "ARAUJOBRITO015",
+    "documento": "27880796304",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "68660000",
+    "endereco": "Rua Capitão Dutra, 310, Centro, Referencia: Gráfica vitória",
+    "cidade": "São Miguel do Guamá",
+    "uf": "PA",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8tea1b57",
+    "mlId": "21240187",
+    "criado": "2026-10-24T14:01:08.717Z",
+    "pedidos": [
+      {
+        "id": "2000019125555238",
+        "data": "2026-10-22T18:24:46.000-04:00",
+        "total": 19.9,
+        "cancelado": false
+      }
+    ],
+    "nome": "Vitor Rossmann Scaldaferro",
+    "apelido": "VITORSCA",
+    "documento": "05768961798",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "29102050",
+    "endereco": "Rua Deolindo Perim, 3, Praia de Itaparica, Apt. 409",
+    "cidade": "Vila Velha",
+    "uf": "ES",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8tb3f288",
+    "mlId": "3580989053",
+    "criado": "2026-10-24T14:01:08.717Z",
+    "pedidos": [
+      {
+        "id": "2000019125079140",
+        "data": "2026-10-22T17:57:27.000-04:00",
+        "total": 99,
+        "cancelado": true
+      }
+    ],
+    "nome": "",
+    "apelido": "CEHDGCBFA60317",
+    "documento": "43549458860",
+    "telefone": "",
+    "telefone2": "",
+    "email": "",
+    "cep": "",
+    "endereco": "",
+    "cidade": "",
+    "uf": "",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8t0a022f",
+    "mlId": "157025020",
+    "criado": "2026-10-24T14:01:08.718Z",
+    "pedidos": [
+      {
+        "id": "2000019123424706",
+        "data": "2026-10-22T16:16:42.000-04:00",
+        "total": 39,
+        "cancelado": false
+      }
+    ],
+    "nome": "Rogério Cândido da Silva",
+    "apelido": "ROCASSP",
+    "documento": "06598688817",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "15015100",
+    "endereco": "Rua Antônio de Godoy, 3825, Centro, Imobiliária",
+    "cidade": "São José do Rio Preto",
+    "uf": "SP",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8u028167",
+    "mlId": "154360980",
+    "criado": "2026-10-24T14:01:08.718Z",
+    "pedidos": [
+      {
+        "id": "2000019122438006",
+        "data": "2026-10-22T15:20:53.000-04:00",
+        "total": 45.98,
+        "cancelado": false
+      }
+    ],
+    "nome": "rua Dorival de Carvalho",
+    "apelido": "ELIANEBENTODASILVABENTODASILVA",
+    "documento": "85105171187",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "75800132",
+    "endereco": "Avenida Dorival de Carvalho, 1294, Vila Santa Maria, auto escola 2000",
+    "cidade": "Jataí",
+    "uf": "GO",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8u9251db",
+    "mlId": "1495003875",
+    "criado": "2026-10-24T14:01:08.718Z",
+    "pedidos": [
+      {
+        "id": "2000019122110512",
+        "data": "2026-10-22T15:00:23.000-04:00",
+        "total": 99.17,
+        "cancelado": false
+      }
+    ],
+    "nome": "Pedro Israel Coutinho",
+    "apelido": "ISRAELPEDRO20230930221136",
+    "documento": "32634483821",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "18702361",
+    "endereco": "Rua Professor João Padilha, 111, Jardim Bom Sucesso II, casa Referencia: pra baixo escola eurucci paulucci perto da linha ferrea",
+    "cidade": "Avaré",
+    "uf": "SP",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8u435c00",
+    "mlId": "477606929",
+    "criado": "2026-10-24T14:01:08.718Z",
+    "pedidos": [
+      {
+        "id": "2000019122085038",
+        "data": "2026-10-22T14:59:45.000-04:00",
+        "total": 19.9,
+        "cancelado": false
+      }
+    ],
+    "nome": "Danielle Canto",
+    "apelido": "DANIREISA1984",
+    "documento": "01687716757",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "22783127",
+    "endereco": "Avenida Salvador Allende, 1001, Barra da Tijuca, Bloco 1 apto 708 Referencia: MP 1",
+    "cidade": "Rio de Janeiro",
+    "uf": "RJ",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8u6b6d40",
+    "mlId": "2235425615",
+    "criado": "2026-10-24T14:01:08.718Z",
+    "pedidos": [
+      {
+        "id": "2000019121392008",
+        "data": "2026-10-22T14:23:34.000-04:00",
+        "total": 113.49,
+        "cancelado": false
+      }
+    ],
+    "nome": "Valdenizio Ferreira da Silva",
+    "apelido": "VALDENIZIOO",
+    "documento": "51838842349",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "61615240",
+    "endereco": "Travessa Joaquim Gaspar de Oliveira, 231, Capuan, Referencia: próximo a loja Natalia móveis",
+    "cidade": "Caucaia",
+    "uf": "CE",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8ud889ad",
+    "mlId": "99683179",
+    "criado": "2026-10-24T14:01:08.718Z",
+    "pedidos": [
+      {
+        "id": "2000019121325166",
+        "data": "2026-10-22T14:17:04.000-04:00",
+        "total": 75.09,
+        "cancelado": false
+      }
+    ],
+    "nome": "Rosimeri pedroso",
+    "apelido": "ROSIMERI_PED",
+    "documento": "01260137058",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "95700026",
+    "endereco": "RUA SÃO PAULO, 211, Centro, SALA 101",
+    "cidade": "Bento Gonçalves",
+    "uf": "RS",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8u93bad1",
+    "mlId": "265045668",
+    "criado": "2026-10-24T14:01:08.718Z",
+    "pedidos": [
+      {
+        "id": "2000019119132266",
+        "data": "2026-10-22T12:17:35.000-04:00",
+        "total": 99.17,
+        "cancelado": false
+      }
+    ],
+    "nome": "Adeildo Lima",
+    "apelido": "ADEILDOSILVALIMA",
+    "documento": "06717170492",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "13059063",
+    "endereco": "Rua Rosa Chaves da Silva, 125, Jardim Florence",
+    "cidade": "Campinas",
+    "uf": "SP",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8ue40776",
+    "mlId": "123269448",
+    "criado": "2026-10-24T14:01:08.718Z",
+    "pedidos": [
+      {
+        "id": "2000019117998112",
+        "data": "2026-10-22T11:15:43.000-04:00",
+        "total": 49,
+        "cancelado": false
+      }
+    ],
+    "nome": "Sonia Maria Silva de Souza",
+    "apelido": "SONIAMARIASILVADESOUZA",
+    "documento": "01827969733",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "24815024",
+    "endereco": "Rua Eulina Vieira Fernandes, 1008, Retiro, Referencia: Rua do sítio do lago",
+    "cidade": "Itaboraí",
+    "uf": "RJ",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8u445e6f",
+    "mlId": "236759900",
+    "criado": "2026-10-24T14:01:08.718Z",
+    "pedidos": [
+      {
+        "id": "2000019117703604",
+        "data": "2026-10-22T10:59:49.000-04:00",
+        "total": 36,
+        "cancelado": false
+      }
+    ],
+    "nome": "Erika Maria Fernandes Rosa Souza",
+    "apelido": "FEER3535876",
+    "documento": "09441351610",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "37810000",
+    "endereco": "Rua Acácio Pereira Dias, 505, Centro, Referencia: Próximo ao mercado Irmãos García",
+    "cidade": "Guaranésia",
+    "uf": "MG",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8uc5182b",
+    "mlId": "78818636",
+    "criado": "2026-10-24T14:01:08.718Z",
+    "pedidos": [
+      {
+        "id": "2000019115057208",
+        "data": "2026-10-22T08:28:38.000-04:00",
+        "total": 78.9,
+        "cancelado": false
+      }
+    ],
+    "nome": "JOÃO FRANCISCO DA SILVA FILHO (SMITH)",
+    "apelido": "SMITHNINJA",
+    "documento": "88749665634",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "39547000",
+    "endereco": "Rua Brasíliano Faustino, 26, Centro, Casa",
+    "cidade": "Montezuma",
+    "uf": "MG",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8uc72403",
+    "mlId": "369689303",
+    "criado": "2026-10-24T14:01:08.718Z",
+    "pedidos": [
+      {
+        "id": "2000019111848408",
+        "data": "2026-10-21T23:23:15.000-04:00",
+        "total": 94.21,
+        "cancelado": false
+      }
+    ],
+    "nome": "Richard F de Sousa",
+    "apelido": "RICHARDFRANKSOUSA",
+    "documento": "49188347000107",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "31950390",
+    "endereco": "Rua Canário, 916, Goiânia, depósito Bismar Referencia: Favor ligar no meu telefone 31 995878060 Richard",
+    "cidade": "Belo Horizonte",
+    "uf": "MG",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8u6cb28c",
+    "mlId": "3578321355",
+    "criado": "2026-10-24T14:01:08.718Z",
+    "pedidos": [
+      {
+        "id": "2000019109382654",
+        "data": "2026-10-21T20:43:46.000-04:00",
+        "total": 39,
+        "cancelado": false
+      }
+    ],
+    "nome": "Yenni Josefina Martinez Acosta",
+    "apelido": "GGFCDAEHB9678",
+    "documento": "70854614206",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "95058440",
+    "endereco": "Rua Vilson Pedro Rech, 717, São Cristóvão, Casa Referencia: Perto de parada de ônibus - Rua Vilson Rech",
+    "cidade": "Caxias do Sul",
+    "uf": "RS",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8uc7b17f",
+    "mlId": "63698327",
+    "criado": "2026-10-24T14:01:08.718Z",
+    "pedidos": [
+      {
+        "id": "2000019108978336",
+        "data": "2026-10-21T20:22:10.000-04:00",
+        "total": 49,
+        "cancelado": false
+      }
+    ],
+    "nome": "Eneida Andrade Cardoso",
+    "apelido": "NO STRESS19",
+    "documento": "05064615566",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "41345184",
+    "endereco": "Caminho 47-Setor 07, 24, Boca da Mata, Boca da Mata Referencia: Caminho com portão. Ligar pra liberar entrada.",
+    "cidade": "Salvador",
+    "uf": "BA",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8u3a0223",
+    "mlId": "66106051",
+    "criado": "2026-10-24T14:01:08.718Z",
+    "pedidos": [
+      {
+        "id": "2000019108400324",
+        "data": "2026-10-21T19:52:02.000-04:00",
+        "total": 64.9,
+        "cancelado": false
+      }
+    ],
+    "nome": "Paulo Fermino",
+    "apelido": "PAULINHOLIMEIRA",
+    "documento": "09601669809",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "13487020",
+    "endereco": "Rua Daniel Batista de Oliveira, 515, Limeira, Loja",
+    "cidade": "Limeira",
+    "uf": "SP",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8uba7feb",
+    "mlId": "396162013",
+    "criado": "2026-10-24T14:01:08.718Z",
+    "pedidos": [
+      {
+        "id": "2000019107306106",
+        "data": "2026-10-21T18:53:32.000-04:00",
+        "total": 96.03,
+        "cancelado": false
+      }
+    ],
+    "nome": "Magda Mendonça Curi",
+    "apelido": "CURIRAPHAEL",
+    "documento": "11397606614",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "30310300",
+    "endereco": "Rua do Uruguai, 856, Sion, Ap 102 Referencia: Tocar na portaria para deixar com o porteiro.",
+    "cidade": "Belo Horizonte",
+    "uf": "MG",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8ufa4dd9",
+    "mlId": "835294986",
+    "criado": "2026-10-24T14:01:08.718Z",
+    "pedidos": [
+      {
+        "id": "2000019106615850",
+        "data": "2026-10-21T18:18:22.000-04:00",
+        "total": 22.35,
+        "cancelado": false
+      }
+    ],
+    "nome": "iris Mendes do Carmo",
+    "apelido": "RISMENDESDOCARMOMULELLOS",
+    "documento": "03703283610",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "35457300",
+    "endereco": "Alameda Cláudio Manoel da Costa, 69, Quinta dos Inconfidentes, Referencia: no alto do cautry",
+    "cidade": "Itabirito",
+    "uf": "MG",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8ucd55c6",
+    "mlId": "172707207",
+    "criado": "2026-10-24T14:01:08.718Z",
+    "pedidos": [
+      {
+        "id": "2000019105062838",
+        "data": "2026-10-21T16:47:28.000-04:00",
+        "total": 96.03,
+        "cancelado": false
+      }
+    ],
+    "nome": "Milton Junior",
+    "apelido": "JUMI1401410",
+    "documento": "40054584833",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "18990448",
+    "endereco": "Rua Pedro Gimenes, 58, Jardim Alvorada",
+    "cidade": "Canitar",
+    "uf": "SP",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8udce502",
+    "mlId": "186097804",
+    "criado": "2026-10-24T14:01:08.718Z",
+    "pedidos": [
+      {
+        "id": "2000019104970540",
+        "data": "2026-10-21T16:42:45.000-04:00",
+        "total": 69.98,
+        "cancelado": false
+      }
+    ],
+    "nome": "Graciele Aparecida Ribeiro da Silva E Souza",
+    "apelido": "RIGR7800675",
+    "documento": "11527144658",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "30180113",
+    "endereco": "Avenida Olegário Maciel, 197, Centro, Sesc",
+    "cidade": "Belo Horizonte",
+    "uf": "MG",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8u90d4d6",
+    "mlId": "569812896",
+    "criado": "2026-10-24T14:01:08.718Z",
+    "pedidos": [
+      {
+        "id": "2000019104415442",
+        "data": "2026-10-21T16:13:13.000-04:00",
+        "total": 99,
+        "cancelado": false
+      }
+    ],
+    "nome": "Daniela Santana Leite",
+    "apelido": "DARI6000194",
+    "documento": "35972830809",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "11850000",
+    "endereco": "Jardim Yolanda Wilson Simonal, 86, Centro, Referencia: Próximo do clube Ypê",
+    "cidade": "Miracatu",
+    "uf": "SP",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8u71de06",
+    "mlId": "169197434",
+    "criado": "2026-10-24T14:01:08.718Z",
+    "pedidos": [
+      {
+        "id": "2000019104194218",
+        "data": "2026-10-21T15:59:26.000-04:00",
+        "total": 37.15,
+        "cancelado": false
+      }
+    ],
+    "nome": "Marcela Bonato",
+    "apelido": "MARCELABONATOLEFFER",
+    "documento": "02980645966",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "81940305",
+    "endereco": "Rua Nicola Pellanda, 6010, Umbará, Referencia: Tocar interfone de frente para a Nicola Pelanda. Portão cinza escuro. Obrigada",
+    "cidade": "Curitiba",
+    "uf": "PR",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8u086967",
+    "mlId": "529391241",
+    "criado": "2026-10-24T14:01:08.718Z",
+    "pedidos": [
+      {
+        "id": "2000019097988760",
+        "data": "2026-10-21T10:40:48.000-04:00",
+        "total": 36,
+        "cancelado": false
+      }
+    ],
+    "nome": "Ana Carolina Mosseline Carvalho",
+    "apelido": "ANAMOSSELINE",
+    "documento": "80867057068",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "90050101",
+    "endereco": "Rua General Lima e Silva, 841, Cidade Baixa, 201 Referencia: Favor tocar no interfone",
+    "cidade": "Porto Alegre",
+    "uf": "RS",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8u509bb2",
+    "mlId": "674972066",
+    "criado": "2026-10-24T14:01:08.718Z",
+    "pedidos": [
+      {
+        "id": "2000019097483416",
+        "data": "2026-10-21T10:14:14.000-04:00",
+        "total": 22.35,
+        "cancelado": false
+      }
+    ],
+    "nome": "Marlene Luca Ribeiro Pauli",
+    "apelido": "PAMA20231219132733",
+    "documento": "01485922950",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "85485005",
+    "endereco": "Avenida São Paulo, 428, Centro, proximo clinecar Referencia: AVISAR QUANDO FOR ENTREGAR POIS ESTOU NO TRABALHO",
+    "cidade": "Três Barras do Paraná",
+    "uf": "PR",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8u680500",
+    "mlId": "658510149",
+    "criado": "2026-10-24T14:01:08.718Z",
+    "pedidos": [
+      {
+        "id": "2000019096859820",
+        "data": "2026-10-21T09:41:58.000-04:00",
+        "total": 29.9,
+        "cancelado": false
+      }
+    ],
+    "nome": "Fernando Luiz Freiberger",
+    "apelido": "FRFE20240124090318",
+    "documento": "41979567972",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "88034110",
+    "endereco": "Rua Coronel Luiz Caldeira, 149, Itacorubi, Apto 302-C",
+    "cidade": "Florianópolis",
+    "uf": "SC",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8ua6c57d",
+    "mlId": "1440069991",
+    "criado": "2026-10-24T14:01:08.718Z",
+    "pedidos": [
+      {
+        "id": "2000019096550778",
+        "data": "2026-10-21T09:24:38.000-04:00",
+        "total": 99.17,
+        "cancelado": false
+      }
+    ],
+    "nome": "Maico Maciel",
+    "apelido": "MACIELMAICO20230803120754",
+    "documento": "07870803570",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "46470000",
+    "endereco": "Rua Arnaldo Cardoso Coutinho, 97, mato verde, gráfica impressione",
+    "cidade": "Riacho de Santana",
+    "uf": "BA",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8uff4af3",
+    "mlId": "124985580",
+    "criado": "2026-10-24T14:01:08.718Z",
+    "pedidos": [
+      {
+        "id": "2000019095798666",
+        "data": "2026-10-21T08:41:17.000-04:00",
+        "total": 39,
+        "cancelado": false
+      }
+    ],
+    "nome": "Raul Gomes Passos Filho",
+    "apelido": "FILHORAUL84",
+    "documento": "68617801620",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "31050560",
+    "endereco": "Rua Tucuman, 442, São Geraldo, Ou 457 Referencia: Nesta rua existe dois números 442 em quadras distintas. Minha localização fica frente ao número 457 desta mesma rua",
+    "cidade": "Belo Horizonte",
+    "uf": "MG",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8u5a09aa",
+    "mlId": "84347014",
+    "criado": "2026-10-24T14:01:08.718Z",
+    "pedidos": [
+      {
+        "id": "2000019095688816",
+        "data": "2026-10-21T08:35:35.000-04:00",
+        "total": 37.9,
+        "cancelado": false
+      }
+    ],
+    "nome": "Tiago Arneiro Picoli",
+    "apelido": "TIAGO PICOLI",
+    "documento": "04481418923",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "87670205",
+    "endereco": "Rua São José, 348, Inajá, Centro",
+    "cidade": "Inajá",
+    "uf": "PR",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8u5944f8",
+    "mlId": "260296917",
+    "criado": "2026-10-24T14:01:08.718Z",
+    "pedidos": [
+      {
+        "id": "2000019095512516",
+        "data": "2026-10-21T08:24:10.000-04:00",
+        "total": 58.34,
+        "cancelado": false
+      }
+    ],
+    "nome": "Emerson Moreira",
+    "apelido": "MOEM3894144",
+    "documento": "46689812812",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "18135350",
+    "endereco": "RUA SÃO SEBASTIÃO, 221, Jardim Villaça, MERCADO ESQUINA,  PRÓXIMO ESCOLA.",
+    "cidade": "São Roque",
+    "uf": "SP",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8ue0e62a",
+    "mlId": "1131043120",
+    "criado": "2026-10-24T14:01:08.718Z",
+    "pedidos": [
+      {
+        "id": "2000019095494620",
+        "data": "2026-10-21T08:22:10.000-04:00",
+        "total": 74.92,
+        "cancelado": false
+      },
+      {
+        "id": "2000018994641856",
+        "data": "2026-10-15T10:56:12.000-04:00",
+        "total": 74.92,
+        "cancelado": false
+      }
+    ],
+    "nome": "",
+    "apelido": "DEFRANCISCO20220530102842",
+    "documento": "39106683487",
+    "telefone": "",
+    "telefone2": "",
+    "email": "",
+    "cep": "26553161",
+    "endereco": "RUA PREFEITO JOSÉ MONTES PAIXÃO, 1618, Centro, Loja",
+    "cidade": "Mesquita",
+    "uf": "RJ",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8v92747f",
+    "mlId": "390586965",
+    "criado": "2026-10-24T14:01:08.719Z",
+    "pedidos": [
+      {
+        "id": "2000019095345036",
+        "data": "2026-10-21T08:13:14.000-04:00",
+        "total": 58.34,
+        "cancelado": false
+      }
+    ],
+    "nome": "Letícia kilsky",
+    "apelido": "GRAFICAIMPRIMAKI",
+    "documento": "09779980962",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "86083858",
+    "endereco": "Rua Maria Carli Loures, 183, Jardim da Gávea",
+    "cidade": "Londrina",
+    "uf": "PR",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8v21c328",
+    "mlId": "1010779920",
+    "criado": "2026-10-24T14:01:08.719Z",
+    "pedidos": [
+      {
+        "id": "2000019094913502",
+        "data": "2026-10-21T07:44:20.000-04:00",
+        "total": 94.21,
+        "cancelado": false
+      }
+    ],
+    "nome": "Ronaldo Porto Veleda",
+    "apelido": "PORO3179357",
+    "documento": "98496760006",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "96211500",
+    "endereco": "Rua Caramuru, 354, Cidade Nova, apto 203 ou 201 Referencia: av pelotas esquina caramuru",
+    "cidade": "Rio Grande",
+    "uf": "RS",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8v8e2830",
+    "mlId": "2066035829",
+    "criado": "2026-10-24T14:01:08.719Z",
+    "pedidos": [
+      {
+        "id": "2000019093984228",
+        "data": "2026-10-21T05:56:23.000-04:00",
+        "total": 198.34,
+        "cancelado": false
+      }
+    ],
+    "nome": "Hilma Dos Santos Couto",
+    "apelido": "HC20241030135413",
+    "documento": "03884092588",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "45345000",
+    "endereco": "Rua São Marcos, 91, santa Luiza, rua igreja redonda Referencia: Rua da igreja redonda, entrocamento de Jaguaquara, Subindo a padaria de Buiu, de frente do bar de Zene",
+    "cidade": "Jaguaquara",
+    "uf": "BA",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8ve7f90f",
+    "mlId": "2914755138",
+    "criado": "2026-10-24T14:01:08.719Z",
+    "pedidos": [
+      {
+        "id": "2000019093521546",
+        "data": "2026-10-21T03:58:22.000-04:00",
+        "total": 99,
+        "cancelado": false
+      }
+    ],
+    "nome": "Leonardo Rodrigues de Lima",
+    "apelido": "BHGABEDCF36754",
+    "documento": "00196929350",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "60878045",
+    "endereco": "Rua 931 bloco6 quadra9 lote3, 202, Pedras, Apt202 Referencia: Ligar",
+    "cidade": "Fortaleza",
+    "uf": "CE",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8vaeac3b",
+    "mlId": "1982044907",
+    "criado": "2026-10-24T14:01:08.719Z",
+    "pedidos": [
+      {
+        "id": "2000019093279312",
+        "data": "2026-10-21T02:14:32.000-04:00",
+        "total": 94.21,
+        "cancelado": false
+      }
+    ],
+    "nome": "Sirlea Silva da Cruz",
+    "apelido": "DS20240909125847",
+    "documento": "05992264558",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "45540000",
+    "endereco": "Alaide chagas de Araújo bairro augusto Nasser Borges, 155, Centro, Casa Referencia: Bairro augusto Nasser Borges",
+    "cidade": "Gongogi",
+    "uf": "BA",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8v59e5d9",
+    "mlId": "313718959",
+    "criado": "2026-10-24T14:01:08.719Z",
+    "pedidos": [
+      {
+        "id": "2000019090462570",
+        "data": "2026-10-20T21:29:04.000-04:00",
+        "total": 61.46,
+        "cancelado": false
+      }
+    ],
+    "nome": "Wagner Godoi",
+    "apelido": "WAGNERORTIZ1983",
+    "documento": "31819135888",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "12319060",
+    "endereco": "Rua Avelino José Machado, 37, Jardim Colinas, Jardim Colinas",
+    "cidade": "Jacareí",
+    "uf": "SP",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8vb642ad",
+    "mlId": "584390285",
+    "criado": "2026-10-24T14:01:08.719Z",
+    "pedidos": [
+      {
+        "id": "2000019089959220",
+        "data": "2026-10-20T21:02:53.000-04:00",
+        "total": 99.17,
+        "cancelado": false
+      }
+    ],
+    "nome": "juliana do carmo luiz",
+    "apelido": "JULIANADOCARMOLUIZ",
+    "documento": "06953587660",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "37225000",
+    "endereco": "Rua Artur Tibúrcio, 136, Centro, Referencia: Proximo Ao Ginazio De Esportes Godozao",
+    "cidade": "Carmo da Cachoeira",
+    "uf": "MG",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8v0d5fcb",
+    "mlId": "625519251",
+    "criado": "2026-10-24T14:01:08.719Z",
+    "pedidos": [
+      {
+        "id": "2000019088604060",
+        "data": "2026-10-20T19:51:48.000-04:00",
+        "total": 22.35,
+        "cancelado": false
+      }
+    ],
+    "nome": "Vagner Mauricio da silva",
+    "apelido": "VAGNERMAURICIO77",
+    "documento": "02441992724",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "20745220",
+    "endereco": "Estrada Paulo de Medeiros, 80, Água Santa, bloco 6 406 Referencia: condomínio da tenda",
+    "cidade": "Rio de Janeiro",
+    "uf": "RJ",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8v39dfe7",
+    "mlId": "481751620",
+    "criado": "2026-10-24T14:01:08.719Z",
+    "pedidos": [
+      {
+        "id": "2000019088133730",
+        "data": "2026-10-20T19:30:24.000-04:00",
+        "total": 59.25,
+        "cancelado": false
+      }
+    ],
+    "nome": "Andressa Milcheski",
+    "apelido": "ANDRESSAMILCHESKI8",
+    "documento": "10805009957",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "89440000",
+    "endereco": "Rua Santa Catarina, 1034, Centro, centro Referencia: casa",
+    "cidade": "Irineópolis",
+    "uf": "SC",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8v64f7e5",
+    "mlId": "2387472568",
+    "criado": "2026-10-24T14:01:08.719Z",
+    "pedidos": [
+      {
+        "id": "2000019086704124",
+        "data": "2026-10-20T18:12:45.000-04:00",
+        "total": 96.19,
+        "cancelado": false
+      }
+    ],
+    "nome": "Joao Henrique Coelho Moreira",
+    "apelido": "JOAOHENRIQUE99",
+    "documento": "14575030694",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "35365000",
+    "endereco": "Avenida Francisco Nassif, 265, Centro, Segundo andar Referencia: Prédio de três andares branco com portão de ferro.",
+    "cidade": "Abre Campo",
+    "uf": "MG",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8v124c1c",
+    "mlId": "51123040",
+    "criado": "2026-10-24T14:01:08.719Z",
+    "pedidos": [
+      {
+        "id": "2000019086508514",
+        "data": "2026-10-20T18:02:12.000-04:00",
+        "total": 22.35,
+        "cancelado": false
+      }
+    ],
+    "nome": "Bárbara Windson Dos Santos Muniz",
+    "apelido": "BARDOSSANTOSMUNIZ",
+    "documento": "02638633798",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "24466010",
+    "endereco": "Rua Belmiro Braga, 2535, Boa Vista, Proximo Ao Shopping São Gonçalo",
+    "cidade": "São Gonçalo",
+    "uf": "RJ",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8v4270ff",
+    "mlId": "501333706",
+    "criado": "2026-10-24T14:01:08.719Z",
+    "pedidos": [
+      {
+        "id": "2000019086137912",
+        "data": "2026-10-20T17:44:09.000-04:00",
+        "total": 19.9,
+        "cancelado": false
+      }
+    ],
+    "nome": "Fernanda de Jesus Souza",
+    "apelido": "JEFE4674584",
+    "documento": "03805588151",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "75230000",
+    "endereco": "Rua Maria de Souza Pereira, SN, Setor arco iris, Qd4 lt 09 Referencia: Perto da prefeitura",
+    "cidade": "Cristianópolis",
+    "uf": "GO",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8va3644c",
+    "mlId": "262668835",
+    "criado": "2026-10-24T14:01:08.719Z",
+    "pedidos": [
+      {
+        "id": "2000019085643726",
+        "data": "2026-10-20T17:14:12.000-04:00",
+        "total": 49,
+        "cancelado": false
+      }
+    ],
+    "nome": "Rosana Martins",
+    "apelido": "MARO9452848",
+    "documento": "30923530053",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "28954080",
+    "endereco": "Rua Pitangueiras, 9, Bosque de Geribá, Quadra 19",
+    "cidade": "Búzios",
+    "uf": "RJ",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8v94178c",
+    "mlId": "646312626",
+    "criado": "2026-10-24T14:01:08.719Z",
+    "pedidos": [
+      {
+        "id": "2000019084706388",
+        "data": "2026-10-20T16:22:09.000-04:00",
+        "total": 99.17,
+        "cancelado": false
+      }
+    ],
+    "nome": "Rosilene Gomes dos Santos",
+    "apelido": "DOSROSILENE20220610191226",
+    "documento": "75208504200",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "68721000",
+    "endereco": "Rua C esquina com a Rua quarta, 10, loteamento atalaia, Destacado Referencia: Na rua do antigo Samarate",
+    "cidade": "Salinópolis",
+    "uf": "PA",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8v38d0a6",
+    "mlId": "1003749423",
+    "criado": "2026-10-24T14:01:08.719Z",
+    "pedidos": [
+      {
+        "id": "2000019084668784",
+        "data": "2026-10-20T16:19:13.000-04:00",
+        "total": 58.34,
+        "cancelado": false
+      }
+    ],
+    "nome": "Daniela Teixeira Ramos",
+    "apelido": "LARISSABASTOSDESOUSA",
+    "documento": "02174252678",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "65520000",
+    "endereco": "Rua 6 bairro Zé Gomes brejo, SN, Outro, Quadra 5 lote 10 Referencia: Conjunto Tunico Nunes, casa da Dani manicure",
+    "cidade": "Brejo",
+    "uf": "MA",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8vd1de42",
+    "mlId": "1457754670",
+    "criado": "2026-10-24T14:01:08.719Z",
+    "pedidos": [
+      {
+        "id": "2000019082895490",
+        "data": "2026-10-20T14:45:45.000-04:00",
+        "total": 127.42,
+        "cancelado": false
+      }
+    ],
+    "nome": "Gilvan Dourado Lima",
+    "apelido": "DOURADOGILVAN20230821180623",
+    "documento": "86288728500",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "47808200",
+    "endereco": "Rua Mangabeira, 186, Ribeirão, fundo da Coelba",
+    "cidade": "Barreiras",
+    "uf": "BA",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8vf2a3ad",
+    "mlId": "2983686661",
+    "criado": "2026-10-24T14:01:08.719Z",
+    "pedidos": [
+      {
+        "id": "2000019082120264",
+        "data": "2026-10-20T14:04:23.000-04:00",
+        "total": 28.4,
+        "cancelado": false
+      }
+    ],
+    "nome": "Cláudio Luis",
+    "apelido": "FAHGBFCDE55930",
+    "documento": "12124112856",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "11340400",
+    "endereco": "Rua dos Calungas, 24, Esplanada dos Barreiros, Referencia: Casa com fachada de grades e plantas trepadeira.",
+    "cidade": "São Vicente",
+    "uf": "SP",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8v5d0c96",
+    "mlId": "234263695",
+    "criado": "2026-10-24T14:01:08.719Z",
+    "pedidos": [
+      {
+        "id": "2000019082097498",
+        "data": "2026-10-20T14:05:24.000-04:00",
+        "total": 94.21,
+        "cancelado": false
+      },
+      {
+        "id": "2000019001860308",
+        "data": "2026-10-15T17:27:23.000-04:00",
+        "total": 99.17,
+        "cancelado": true
+      }
+    ],
+    "nome": "Carlos Henrique da Silva Pequeno",
+    "apelido": "HECA5898101",
+    "documento": "10186414757",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "26510111",
+    "endereco": "ESTRADA SENADOR SALGADO FILHO, 67, Olinda, Papelaria Stephane",
+    "cidade": "Nilópolis",
+    "uf": "RJ",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8ve99c23",
+    "mlId": "1786416435",
+    "criado": "2026-10-24T14:01:08.719Z",
+    "pedidos": [
+      {
+        "id": "2000019079965548",
+        "data": "2026-10-20T12:14:29.000-04:00",
+        "total": 99.17,
+        "cancelado": false
+      }
+    ],
+    "nome": "Luciene Pereira Dos Santos",
+    "apelido": "DOLU20240426202045",
+    "documento": "33454813832",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "39536000",
+    "endereco": "praça antonio pereira, 10, Centro, casa",
+    "cidade": "Indaiabira",
+    "uf": "MG",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8vc0df92",
+    "mlId": "147074324",
+    "criado": "2026-10-24T14:01:08.719Z",
+    "pedidos": [
+      {
+        "id": "2000019079321276",
+        "data": "2026-10-20T11:42:06.000-04:00",
+        "total": 119.7,
+        "cancelado": false
+      }
+    ],
+    "nome": "Allan Bruno Do Nascimento",
+    "apelido": "BRAL22211",
+    "documento": "08688296413",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "59114664",
+    "endereco": "Rua Comandante Balduíno, 102, Nossa Senhora da Apresentação",
+    "cidade": "Natal",
+    "uf": "RN",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8va5fdc9",
+    "mlId": "2192651286",
+    "criado": "2026-10-24T14:01:08.719Z",
+    "pedidos": [
+      {
+        "id": "2000019078949472",
+        "data": "2026-10-20T11:24:26.000-04:00",
+        "total": 61.46,
+        "cancelado": false
+      }
+    ],
+    "nome": "Sérgio Brito",
+    "apelido": "SB20250103054451",
+    "documento": "78450845572",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "42829130",
+    "endereco": "Rua Direta de Jauá, 17, Pé de Areia (Abrantes), Umbrella house Referencia: Lan house de julio",
+    "cidade": "Camaçari",
+    "uf": "BA",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8v2c845c",
+    "mlId": "40720881",
+    "criado": "2026-10-24T14:01:08.719Z",
+    "pedidos": [
+      {
+        "id": "2000019078964948",
+        "data": "2026-10-20T11:23:54.000-04:00",
+        "total": 99,
+        "cancelado": false
+      }
+    ],
+    "nome": "Daniel taddeucci",
+    "apelido": "DANIELTADDEUCCI",
+    "documento": "11215900716",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "20756115",
+    "endereco": "Rua José dos Reis, 269, Engenho de Dentro, Interfone 4101",
+    "cidade": "Rio de Janeiro",
+    "uf": "RJ",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8v48c1b4",
+    "mlId": "1721170613",
+    "criado": "2026-10-24T14:01:08.719Z",
+    "pedidos": [
+      {
+        "id": "2000019078473494",
+        "data": "2026-10-20T10:57:36.000-04:00",
+        "total": 61.46,
+        "cancelado": false
+      }
+    ],
+    "nome": "Adriano Garcia de medeiros",
+    "apelido": "DRITATACOM",
+    "documento": "48420473000174",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "09614000",
+    "endereco": "Avenida Winston Churchill, 1477, Rudge Ramos, 22 Antares Referencia: Predio em frete a quadra Arena Momento",
+    "cidade": "São Bernardo do Campo",
+    "uf": "SP",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8vd34da7",
+    "mlId": "599485035",
+    "criado": "2026-10-24T14:01:08.719Z",
+    "pedidos": [
+      {
+        "id": "2000019078379048",
+        "data": "2026-10-20T10:52:42.000-04:00",
+        "total": 28.4,
+        "cancelado": false
+      }
+    ],
+    "nome": "Elias Alves Dos Santos",
+    "apelido": "SANTOSELIAS20231009084625",
+    "documento": "06697542187",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "49007433",
+    "endereco": "Rodovia dos Náufragos, 12320, Areia Branca, Rua C Referencia: Casa 37",
+    "cidade": "Aracaju",
+    "uf": "SE",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8vc64c5f",
+    "mlId": "1314586897",
+    "criado": "2026-10-24T14:01:08.719Z",
+    "pedidos": [
+      {
+        "id": "2000019076113834",
+        "data": "2026-10-20T08:49:56.000-04:00",
+        "total": 99.17,
+        "cancelado": false
+      }
+    ],
+    "nome": "Edilene Santos",
+    "apelido": "CRISTINAEDILENE20230220175009",
+    "documento": "46255434877",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "18918020",
+    "endereco": "Avenida Itália, 150, Parque das Nações, Casa",
+    "cidade": "Santa Cruz do Rio Pardo",
+    "uf": "SP",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8v047f57",
+    "mlId": "448261245",
+    "criado": "2026-10-24T14:01:08.719Z",
+    "pedidos": [
+      {
+        "id": "2000019076093352",
+        "data": "2026-10-20T08:46:39.000-04:00",
+        "total": 49,
+        "cancelado": false
+      }
+    ],
+    "nome": "Marilene Alves de Oliveira",
+    "apelido": "MA20250313220407",
+    "documento": "61284378268",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "66033716",
+    "endereco": "Rua dos Mundurucus, 1581, Batista Campos, Ed.maiori (Apt:902). Referencia: Em frente à escola Santa Maria de Belém (Apt. 902)",
+    "cidade": "Belém",
+    "uf": "PA",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8vdb7a90",
+    "mlId": "158804114",
+    "criado": "2026-10-24T14:01:08.719Z",
+    "pedidos": [
+      {
+        "id": "2000019075858298",
+        "data": "2026-10-20T08:30:57.000-04:00",
+        "total": 59,
+        "cancelado": false
+      }
+    ],
+    "nome": "Gabriel Corbalan Cavalcante",
+    "apelido": "COGA277051",
+    "documento": "37109309878",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "04635000",
+    "endereco": "Avenida Santa Catarina, 155, Vila Alexandria, anexo A",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8v505bf3",
+    "mlId": "1736966222",
+    "criado": "2026-10-24T14:01:08.719Z",
+    "pedidos": [
+      {
+        "id": "2000019075569066",
+        "data": "2026-10-20T08:12:35.000-04:00",
+        "total": 61.46,
+        "cancelado": false
+      }
+    ],
+    "nome": "Alex Nunes",
+    "apelido": "NUAL20240320123632",
+    "documento": "07986344997",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "88780000",
+    "endereco": "Rua Itagibá, 57, Centro, casa Referencia: Peixe",
+    "cidade": "Imbituba",
+    "uf": "SC",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8v2d465a",
+    "mlId": "35905816",
+    "criado": "2026-10-24T14:01:08.719Z",
+    "pedidos": [
+      {
+        "id": "2000019073003668",
+        "data": "2026-10-20T00:26:15.000-04:00",
+        "total": 69.9,
+        "cancelado": false
+      }
+    ],
+    "nome": "Milton Cruz",
+    "apelido": "MILTON.CRUZ007",
+    "documento": "05751965809",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "05630070",
+    "endereco": "Rua Elizabeth Barbegian Baldinato, 238, Vila Suzana, Apt. 151 Referencia: Só realizar entregas entre as 09:00 e 17:00",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8ve5e171",
+    "mlId": "1869053546",
+    "criado": "2026-10-24T14:01:08.719Z",
+    "pedidos": [
+      {
+        "id": "2000019072448718",
+        "data": "2026-10-19T23:22:19.000-04:00",
+        "total": 103.6,
+        "cancelado": false
+      }
+    ],
+    "nome": "vladeci calderon",
+    "apelido": "VC20240621132940",
+    "documento": "55724949091",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "96212490",
+    "endereco": "Rua Quintino Bocaiúva, 380, Vila São Miguel, Referencia: Em frente ao posto de saúde",
+    "cidade": "Rio Grande",
+    "uf": "RS",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8va58362",
+    "mlId": "304682438",
+    "criado": "2026-10-24T14:01:08.719Z",
+    "pedidos": [
+      {
+        "id": "2000019072285102",
+        "data": "2026-10-19T23:10:27.000-04:00",
+        "total": 36,
+        "cancelado": false
+      }
+    ],
+    "nome": "CRISTIANE GUIMARÃES DE SANT ANNA",
+    "apelido": "CGUIMARAESSANTANNA",
+    "documento": "01947422537",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "44220000",
+    "endereco": "Rua do Pôrto, 56, Porto, Padaria de breu Referencia: CASA",
+    "cidade": "Saubara",
+    "uf": "BA",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8vede68f",
+    "mlId": "2221615159",
+    "criado": "2026-10-24T14:01:08.719Z",
+    "pedidos": [
+      {
+        "id": "2000019071391370",
+        "data": "2026-10-19T22:07:34.000-04:00",
+        "total": 58.34,
+        "cancelado": false
+      }
+    ],
+    "nome": "Diego Henrique Metz",
+    "apelido": "DM20250120145351",
+    "documento": "03967306046",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "93945000",
+    "endereco": "Estrada Linha Nova Baixa, 2530, Centro, Casa Referencia: Casa dos fundos",
+    "cidade": "Presidente Lucena",
+    "uf": "RS",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8vc4a7a6",
+    "mlId": "508559471",
+    "criado": "2026-10-24T14:01:08.719Z",
+    "pedidos": [
+      {
+        "id": "2000019071180110",
+        "data": "2026-10-19T21:52:39.000-04:00",
+        "total": 36,
+        "cancelado": false
+      }
+    ],
+    "nome": "Renata Padilha Coral",
+    "apelido": "RENATAPADILHACORAL",
+    "documento": "08863451974",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "87306010",
+    "endereco": "Rodovia BR-272 Saída para Goioerê, 3588, Distrito Industrial I, Empresa SAFRAMAX.",
+    "cidade": "Campo Mourão",
+    "uf": "PR",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8v014d3a",
+    "mlId": "36380298",
+    "criado": "2026-10-24T14:01:08.719Z",
+    "pedidos": [
+      {
+        "id": "2000019070642088",
+        "data": "2026-10-19T21:22:48.000-04:00",
+        "total": 19,
+        "cancelado": false
+      }
+    ],
+    "nome": "Marcos Cândido Ferreira",
+    "apelido": "MARCOS.C.FERREIRA2011",
+    "documento": "73029556972",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "89010300",
+    "endereco": "Alameda Rio Branco, 940, Jardim Blumenau, Ap. 303",
+    "cidade": "Blumenau",
+    "uf": "SC",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8v041fed",
+    "mlId": "2394225019",
+    "criado": "2026-10-24T14:01:08.719Z",
+    "pedidos": [
+      {
+        "id": "2000019069277402",
+        "data": "2026-10-19T20:14:19.000-04:00",
+        "total": 99.17,
+        "cancelado": false
+      }
+    ],
+    "nome": "Edilson Geraldo Dias",
+    "apelido": "GE20250418095234",
+    "documento": "06320302674",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "36404186",
+    "endereco": "Rua Vereador Léo Franco, 495, Rochedo, Casa A",
+    "cidade": "Conselheiro Lafaiete",
+    "uf": "MG",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8wcedf8d",
+    "mlId": "76973933",
+    "criado": "2026-10-24T14:01:08.720Z",
+    "pedidos": [
+      {
+        "id": "2000019068576894",
+        "data": "2026-10-19T19:38:22.000-04:00",
+        "total": 58.34,
+        "cancelado": false
+      }
+    ],
+    "nome": "Luiz Carlos de Lima Carvalho",
+    "apelido": "LCLCARVALHO",
+    "documento": "04854689803",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "03137010",
+    "endereco": "Rua Francisco Polito, 222, Vila Prudente, Referencia: Pode jogar pela janela do porta ou deixar no vizinho do seu lado direito",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8w081c88",
+    "mlId": "174065094",
+    "criado": "2026-10-24T14:01:08.720Z",
+    "pedidos": [
+      {
+        "id": "2000019068225008",
+        "data": "2026-10-19T19:20:45.000-04:00",
+        "total": 113.49,
+        "cancelado": false
+      }
+    ],
+    "nome": "gerivaldo de Sousa",
+    "apelido": "SOGE4991039",
+    "documento": "36403118846",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "18121589",
+    "endereco": "William dos Santos Maia, SN, Moreiras, Casa do fio Referencia: Chácara nossa senhora Aparecida - rua Garcia travessa da cacilda Mendes",
+    "cidade": "Mairinque",
+    "uf": "SP",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8wc44877",
+    "mlId": "199901539",
+    "criado": "2026-10-24T14:01:08.720Z",
+    "pedidos": [
+      {
+        "id": "2000019067872774",
+        "data": "2026-10-19T19:02:23.000-04:00",
+        "total": 28.4,
+        "cancelado": false
+      }
+    ],
+    "nome": "Antonio Edson Trevisan",
+    "apelido": "TRED6757544",
+    "documento": "82228574872",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "13405115",
+    "endereco": "Rua dos Canários, 216, Nova Piracicaba",
+    "cidade": "Piracicaba",
+    "uf": "SP",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8w8a5496",
+    "mlId": "804067563",
+    "criado": "2026-10-24T14:01:08.720Z",
+    "pedidos": [
+      {
+        "id": "2000019067492898",
+        "data": "2026-10-19T18:43:19.000-04:00",
+        "total": 99.17,
+        "cancelado": false
+      }
+    ],
+    "nome": "Sérgio Alvim",
+    "apelido": "ALSE20240205131757",
+    "documento": "25561804634",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "36893000",
+    "endereco": "Rua Franklin Meireles 292, 292, Centro, Casa Referencia: Casa- rua do parque de exposição",
+    "cidade": "Miradouro",
+    "uf": "MG",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8w814c53",
+    "mlId": "200261607",
+    "criado": "2026-10-24T14:01:08.720Z",
+    "pedidos": [
+      {
+        "id": "2000019065452950",
+        "data": "2026-10-19T16:51:00.000-04:00",
+        "total": 24.9,
+        "cancelado": false
+      }
+    ],
+    "nome": "Taynara Dos Santos Ramos",
+    "apelido": "TAYNARADOSSANTOSRAMOS",
+    "documento": "04894954192",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "71070652",
+    "endereco": "Área Especial Área Especial 2 Módulo E, 505, Guará II, Apto 505",
+    "cidade": "Brasília",
+    "uf": "DF",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8wbfb896",
+    "mlId": "2205148290",
+    "criado": "2026-10-24T14:01:08.720Z",
+    "pedidos": [
+      {
+        "id": "2000019065001340",
+        "data": "2026-10-19T16:27:53.000-04:00",
+        "total": 99.17,
+        "cancelado": false
+      }
+    ],
+    "nome": "Antonio Adailson Machado da Silva",
+    "apelido": "AA20250109193058",
+    "documento": "70982178247",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "78467899",
+    "endereco": "Área Rural, SN, Área Rural de Lucas do Rio Verde, auto posto copetti",
+    "cidade": "Lucas do Rio Verde",
+    "uf": "MT",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8w26fa0e",
+    "mlId": "3583962107",
+    "criado": "2026-10-24T14:01:08.720Z",
+    "pedidos": [
+      {
+        "id": "2000019062005482",
+        "data": "2026-10-19T13:52:42.000-04:00",
+        "total": 159.9,
+        "cancelado": false
+      }
+    ],
+    "nome": "Mateus Henrique de Oliveira",
+    "apelido": "MD20260802132021780",
+    "documento": "05840476145",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "79290000",
+    "endereco": "Rua das Flores, 1005, Centro, Clínica OLIVEIRA Referencia: Clínica odontológica",
+    "cidade": "Bonito",
+    "uf": "MS",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8w2e26df",
+    "mlId": "289754236",
+    "criado": "2026-10-24T14:01:08.720Z",
+    "pedidos": [
+      {
+        "id": "2000019061660368",
+        "data": "2026-10-19T13:34:49.000-04:00",
+        "total": 99.17,
+        "cancelado": false
+      }
+    ],
+    "nome": "Eduardo Vicente de Oliveira",
+    "apelido": "CAJE3702339",
+    "documento": "04135462928",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "87660000",
+    "endereco": "Rua Presidente Castelo Branco, 727, Centro, Pra flete de um bar",
+    "cidade": "Paranacity",
+    "uf": "PR",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8w8cd7a3",
+    "mlId": "579696898",
+    "criado": "2026-10-24T14:01:08.720Z",
+    "pedidos": [
+      {
+        "id": "2000019061564652",
+        "data": "2026-10-19T13:29:58.000-04:00",
+        "total": 36,
+        "cancelado": false
+      }
+    ],
+    "nome": "Maurício Dias",
+    "apelido": "MAURCIODEOLIVEIRADIAS",
+    "documento": "01307846726",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "22210050",
+    "endereco": "Rua Correa Dutra, 47, Flamengo, Apto.503 Referencia: O edifício 47 da Rua Correia Dutra é o prédio de fachada preta e azul, em frente à academia de natação.",
+    "cidade": "Rio de Janeiro",
+    "uf": "RJ",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8w2755af",
+    "mlId": "1311749731",
+    "criado": "2026-10-24T14:01:08.720Z",
+    "pedidos": [
+      {
+        "id": "2000019060653278",
+        "data": "2026-10-19T12:45:21.000-04:00",
+        "total": 49,
+        "cancelado": false
+      }
+    ],
+    "nome": "Angelita de Siqueira Santos",
+    "apelido": "DEANGELITA20230216101332",
+    "documento": "95556320659",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "04865160",
+    "endereco": "Rua Forte de Trindade, 312, Jardim Iporã, Referencia: Jardim Iporã",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8wb91104",
+    "mlId": "487499387",
+    "criado": "2026-10-24T14:01:08.720Z",
+    "pedidos": [
+      {
+        "id": "2000019060496390",
+        "data": "2026-10-19T12:36:11.000-04:00",
+        "total": 58.34,
+        "cancelado": false
+      }
+    ],
+    "nome": "Adriana Carvalho Dos Santos",
+    "apelido": "DOADRIANA20220216224721",
+    "documento": "17750565892",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "45000375",
+    "endereco": "Rua Francisco Santos, 71, Centro, Cantinho do Cristão",
+    "cidade": "Vitória da Conquista",
+    "uf": "BA",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8web6ac2",
+    "mlId": "1450590707",
+    "criado": "2026-10-24T14:01:08.720Z",
+    "pedidos": [
+      {
+        "id": "2000019059615260",
+        "data": "2026-10-19T11:50:45.000-04:00",
+        "total": 28.4,
+        "cancelado": false
+      }
+    ],
+    "nome": "jose Carlos chumbinho ribeiro",
+    "apelido": "CHUMBINHOJOSE20230815063649",
+    "documento": "29264405615",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "33350000",
+    "endereco": "AV NICOLAU ELIAS SIMAO, 850, DOM PEDRO I, EM FRENTE A QUADRA DE ESPORTES",
+    "cidade": "São José da Lapa",
+    "uf": "MG",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8w9fec37",
+    "mlId": "156198550",
+    "criado": "2026-10-24T14:01:08.720Z",
+    "pedidos": [
+      {
+        "id": "2000019058364222",
+        "data": "2026-10-19T10:45:50.000-04:00",
+        "total": 22.35,
+        "cancelado": false
+      }
+    ],
+    "nome": "Ricardo Ribeiro Farias",
+    "apelido": "RICARDORIBEIROFARIAS",
+    "documento": "59646160549",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "40220870",
+    "endereco": "Rua Deputado Newton Moura Costa, SN, Engenho Velho da Federação, Vila Real Referencia: Conj Santa Madalena - Vila Real - DEPOIS  do último bloco( 15), Vila Real ( portão cor verde) - Avenida Vasco da ",
+    "cidade": "Salvador",
+    "uf": "BA",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8wc1ef37",
+    "mlId": "1638207461",
+    "criado": "2026-10-24T14:01:08.720Z",
+    "pedidos": [
+      {
+        "id": "2000019057956608",
+        "data": "2026-10-19T10:24:44.000-04:00",
+        "total": 76.34,
+        "cancelado": false
+      }
+    ],
+    "nome": "Erik Junior Ferreira da Silva",
+    "apelido": "JUER20240115131941",
+    "documento": "14748228784",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "28636899",
+    "endereco": "Estrada São Lourençobaixada de salinassítio faria, 1265, Área Rural de Nova Friburgo, Casa amarela1264 Referencia: Passando o supermercado Super mais primeiro ponto de ônibus à esquerda desce estrada ",
+    "cidade": "Nova Friburgo",
+    "uf": "RJ",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8w017313",
+    "mlId": "493549776",
+    "criado": "2026-10-24T14:01:08.720Z",
+    "pedidos": [
+      {
+        "id": "2000019055675642",
+        "data": "2026-10-19T08:05:31.000-04:00",
+        "total": 22.35,
+        "cancelado": false
+      }
+    ],
+    "nome": "Jaqueline Dos Santos",
+    "apelido": "GONCALVESJAQUELINEDOSSANTOS",
+    "documento": "99943875534",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "49402039",
+    "endereco": "Avenida Brasília, 510, Exposição",
+    "cidade": "Lagarto",
+    "uf": "SE",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8w4528db",
+    "mlId": "2240372880",
+    "criado": "2026-10-24T14:01:08.720Z",
+    "pedidos": [
+      {
+        "id": "2000019055406534",
+        "data": "2026-10-19T07:40:21.000-04:00",
+        "total": 58.34,
+        "cancelado": false
+      }
+    ],
+    "nome": "natalia Elisabete romano",
+    "apelido": "NR20250129124728",
+    "documento": "01007097965",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "37706076",
+    "endereco": "Rua Thereza Matricardi Ferraz, 540, Chácaras Poços de Caldas, cada fundo Referencia: chácara,  casa no fundo",
+    "cidade": "Poços de Caldas",
+    "uf": "MG",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8wfd265c",
+    "mlId": "674543192",
+    "criado": "2026-10-24T14:01:08.720Z",
+    "pedidos": [
+      {
+        "id": "2000019055296866",
+        "data": "2026-10-19T07:29:43.000-04:00",
+        "total": 58.34,
+        "cancelado": false
+      }
+    ],
+    "nome": "Geneci da silva",
+    "apelido": "DAGE4444481",
+    "documento": "98852205004",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "95940000",
+    "endereco": "Rua José Arnold, 300, Aimoré",
+    "cidade": "Arroio do Meio",
+    "uf": "RS",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8w6c7873",
+    "mlId": "295448118",
+    "criado": "2026-10-24T14:01:08.720Z",
+    "pedidos": [
+      {
+        "id": "2000019053264264",
+        "data": "2026-10-18T23:38:01.000-04:00",
+        "total": 99,
+        "cancelado": false
+      }
+    ],
+    "nome": "Dionatan Lohmann",
+    "apelido": "LOHMANNDIONATAN",
+    "documento": "10818493984",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "89680000",
+    "endereco": "Otto Lohmann, 1876, Centro, Casa",
+    "cidade": "Irani",
+    "uf": "SC",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8wcea42a",
+    "mlId": "635757700",
+    "criado": "2026-10-24T14:01:08.720Z",
+    "pedidos": [
+      {
+        "id": "2000019053129354",
+        "data": "2026-10-18T23:27:35.000-04:00",
+        "total": 96.19,
+        "cancelado": false
+      }
+    ],
+    "nome": "Ivo Batista da Silva",
+    "apelido": "DAIV5234862",
+    "documento": "82620750300",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "72025020",
+    "endereco": "Quadra QSE 2, 20, Taguatinga Sul, Referencia: QSE 02 casa 04\n Taguatinga sul\n72025-020 - QSE 02 casa 04  Taguatinga sul  72025",
+    "cidade": "Brasília",
+    "uf": "DF",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8w1adb2b",
+    "mlId": "3181880091",
+    "criado": "2026-10-24T14:01:08.720Z",
+    "pedidos": [
+      {
+        "id": "2000019052696436",
+        "data": "2026-10-18T22:42:10.000-04:00",
+        "total": 49,
+        "cancelado": false
+      }
+    ],
+    "nome": "Sabina Schultz",
+    "apelido": "EEGHBDCFA71166",
+    "documento": "87710374972",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "82810260",
+    "endereco": "Rua Osmário de Lima, 73, Capão da Imbuia, Referencia: OSMARIO DE LIMA",
+    "cidade": "Curitiba",
+    "uf": "PR",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8wf33c7b",
+    "mlId": "214623609",
+    "criado": "2026-10-24T14:01:08.720Z",
+    "pedidos": [
+      {
+        "id": "2000019051063018",
+        "data": "2026-10-18T20:46:49.000-04:00",
+        "total": 58.34,
+        "cancelado": false
+      }
+    ],
+    "nome": "Washington Moraes Gomes",
+    "apelido": "WASHINGTONMORAESGOMES",
+    "documento": "31150508876",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "12502250",
+    "endereco": "Rua Barão do Rio Branco, 39, São Benedito, Referencia: Rua da subida do 7 pecado",
+    "cidade": "Guaratinguetá",
+    "uf": "SP",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8we660ac",
+    "mlId": "223192323",
+    "criado": "2026-10-24T14:01:08.720Z",
+    "pedidos": [
+      {
+        "id": "2000019049817702",
+        "data": "2026-10-18T19:24:56.000-04:00",
+        "total": 236,
+        "cancelado": false
+      }
+    ],
+    "nome": "Rodrigo Martins de Sousa",
+    "apelido": "RODRIGOMS25",
+    "documento": "10320664660",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "35598340",
+    "endereco": "Avenida Progresso, 926B, Olaria, Art mix Referencia: São duas casas com fachadas iguais e na de baixo .",
+    "cidade": "Arcos",
+    "uf": "MG",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8w4d2801",
+    "mlId": "564281678",
+    "criado": "2026-10-24T14:01:08.720Z",
+    "pedidos": [
+      {
+        "id": "2000019047545160",
+        "data": "2026-10-18T16:57:23.000-04:00",
+        "total": 99.17,
+        "cancelado": false
+      }
+    ],
+    "nome": "Francisco Libânio de sousa",
+    "apelido": "FCHICO3020",
+    "documento": "80615317391",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "09270270",
+    "endereco": "Avenida dos Estados, 10901, Tamanduateí 8, Parque capuava",
+    "cidade": "Santo André",
+    "uf": "SP",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8we49be0",
+    "mlId": "3637872408",
+    "criado": "2026-10-24T14:01:08.720Z",
+    "pedidos": [
+      {
+        "id": "2000019045323350",
+        "data": "2026-10-18T14:25:35.000-04:00",
+        "total": 58.34,
+        "cancelado": false
+      }
+    ],
+    "nome": "Bruno stam",
+    "apelido": "ES20260823160055769",
+    "documento": "07386238061",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "99220959",
+    "endereco": "Rua Thomas Gonzaga, 700, Centro, 700 Referencia: A casa e branca e vermelha tem uma campainha.",
+    "cidade": "Dois Lajeados",
+    "uf": "RS",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8w215a75",
+    "mlId": "1509020053",
+    "criado": "2026-10-24T14:01:08.720Z",
+    "pedidos": [
+      {
+        "id": "2000019045392294",
+        "data": "2026-10-18T14:29:22.000-04:00",
+        "total": 99.17,
+        "cancelado": true
+      }
+    ],
+    "nome": "",
+    "apelido": "CRESPOANNE20231012204202",
+    "documento": "11853785709",
+    "telefone": "",
+    "telefone2": "",
+    "email": "",
+    "cep": "",
+    "endereco": "",
+    "cidade": "",
+    "uf": "",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8w350ed7",
+    "mlId": "30508756",
+    "criado": "2026-10-24T14:01:08.720Z",
+    "pedidos": [
+      {
+        "id": "2000019044861652",
+        "data": "2026-10-18T13:55:27.000-04:00",
+        "total": 94.21,
+        "cancelado": false
+      }
+    ],
+    "nome": "Isabela Caroline Miranda Almeida",
+    "apelido": "ICAROLMALMEIDA",
+    "documento": "42689156806",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "02717000",
+    "endereco": "Avenida Inajar de Souza, 1137, Limão, Apto 242 Torre City Referencia: Av Leoncio Armando Guardes 350",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8w7f54de",
+    "mlId": "1156448055",
+    "criado": "2026-10-24T14:01:08.720Z",
+    "pedidos": [
+      {
+        "id": "2000019044078436",
+        "data": "2026-10-18T12:57:50.000-04:00",
+        "total": 58.34,
+        "cancelado": false
+      }
+    ],
+    "nome": "Otavio Henrique Goulart Vieira",
+    "apelido": "HENRIQUEOTAVIO20220707131644",
+    "documento": "09752207642",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "37048350",
+    "endereco": "Rua Benedito Domiciano, 165, Padre Vitor, Referencia: Perto do Ceará",
+    "cidade": "Varginha",
+    "uf": "MG",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8wfd4d22",
+    "mlId": "212732191",
+    "criado": "2026-10-24T14:01:08.720Z",
+    "pedidos": [
+      {
+        "id": "2000019043572640",
+        "data": "2026-10-18T12:21:56.000-04:00",
+        "total": 48.99,
+        "cancelado": false
+      }
+    ],
+    "nome": "Adriana josete dos santos",
+    "apelido": "DRIKAAJS",
+    "documento": "01625719418",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "22440034",
+    "endereco": "Avenida Ataulfo de Paiva, 1079, Leblon, 1203",
+    "cidade": "Rio de Janeiro",
+    "uf": "RJ",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8we90f40",
+    "mlId": "158612264",
+    "criado": "2026-10-24T14:01:08.720Z",
+    "pedidos": [
+      {
+        "id": "2000019043593300",
+        "data": "2026-10-18T12:22:20.000-04:00",
+        "total": 49,
+        "cancelado": false
+      }
+    ],
+    "nome": "Catarina Neves de almeida",
+    "apelido": "NECA8586407",
+    "documento": "31868428400",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "54420140",
+    "endereco": "Rua Guanambi, 819, Piedade, bloco 9 ap 301",
+    "cidade": "Jaboatão dos Guararapes",
+    "uf": "PE",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8w5977e5",
+    "mlId": "2352236778",
+    "criado": "2026-10-24T14:01:08.720Z",
+    "pedidos": [
+      {
+        "id": "2000019043159816",
+        "data": "2026-10-18T11:51:37.000-04:00",
+        "total": 49.9,
+        "cancelado": false
+      }
+    ],
+    "nome": "Jean Vieira de Souza Junior",
+    "apelido": "DJ20250325113849",
+    "documento": "19054269766",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "20921270",
+    "endereco": "Rua Ricardo Machado, 926, São Cristóvão, 202 Referencia: Casa portão preto com placa em cima do portão",
+    "cidade": "Rio de Janeiro",
+    "uf": "RJ",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8w7d1bd7",
+    "mlId": "245278838",
+    "criado": "2026-10-24T14:01:08.720Z",
+    "pedidos": [
+      {
+        "id": "2000019042174290",
+        "data": "2026-10-18T10:38:56.000-04:00",
+        "total": 99.17,
+        "cancelado": false
+      }
+    ],
+    "nome": "Adriano sousa",
+    "apelido": "SOAD1641749",
+    "documento": "30572768818",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "14164168",
+    "endereco": "Rua Julieta Rodrigues Speranza, 340, Jardim Nassim Mamed",
+    "cidade": "Sertãozinho",
+    "uf": "SP",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8w7e21a9",
+    "mlId": "403796087",
+    "criado": "2026-10-24T14:01:08.720Z",
+    "pedidos": [
+      {
+        "id": "2000019041780516",
+        "data": "2026-10-18T10:09:04.000-04:00",
+        "total": 99,
+        "cancelado": false
+      }
+    ],
+    "nome": "Alice Araujo Miranda",
+    "apelido": "ALICEARAUJOMIRANDA",
+    "documento": "66199565304",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "72275680",
+    "endereco": "Quadra QNR 5 Conjunto O, 14, Ceilândia Norte (Ceilândia), Casa Referencia: BRO70",
+    "cidade": "Brasília",
+    "uf": "DF",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8wfa4f6b",
+    "mlId": "141750147",
+    "criado": "2026-10-24T14:01:08.720Z",
+    "pedidos": [
+      {
+        "id": "2000019041708308",
+        "data": "2026-10-18T10:02:01.000-04:00",
+        "total": 61.46,
+        "cancelado": false
+      }
+    ],
+    "nome": "Cleison Santos Silva",
+    "apelido": "SANTOSCLEISON28",
+    "documento": "10851108423",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "55636000",
+    "endereco": "Rua Julieta Varela de Souza, 56, Centro, Duplex Referencia: Polimorfo a casa do prefeito Sandro",
+    "cidade": "Chã Grande",
+    "uf": "PE",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8w69d7fc",
+    "mlId": "736837744",
+    "criado": "2026-10-24T14:01:08.721Z",
+    "pedidos": [
+      {
+        "id": "2000019041395798",
+        "data": "2026-10-18T09:36:21.000-04:00",
+        "total": 94.21,
+        "cancelado": false
+      }
+    ],
+    "nome": "Marcos Adriano Zanin",
+    "apelido": "ZANINMARCOSADRIANO",
+    "documento": "14994335818",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "13346450",
+    "endereco": "Rua César Zoppi, 684, Jardim Morada do Sol",
+    "cidade": "Indaiatuba",
+    "uf": "SP",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8x38ee38",
+    "mlId": "3092041571",
+    "criado": "2026-10-24T14:01:08.721Z",
+    "pedidos": [
+      {
+        "id": "2000019040556872",
+        "data": "2026-10-18T08:10:58.000-04:00",
+        "total": 99.17,
+        "cancelado": false
+      }
+    ],
+    "nome": "Francisco das Chagas Gomes Pereira Silva",
+    "apelido": "F20251225090208",
+    "documento": "82739498349",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "62898000",
+    "endereco": "Rua Portugal, 109, Dourado, B Referencia: Vizinho ao depósito de material de construção",
+    "cidade": "Dourado",
+    "uf": "CE",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8x6847a1",
+    "mlId": "22606979",
+    "criado": "2026-10-24T14:01:08.721Z",
+    "pedidos": [
+      {
+        "id": "2000019040347020",
+        "data": "2026-10-18T07:38:20.000-04:00",
+        "total": 61.46,
+        "cancelado": false
+      }
+    ],
+    "nome": "Carla Regina Stein",
+    "apelido": "CAZINHASTEIN",
+    "documento": "00864534914",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "83880200",
+    "endereco": "Travessa General Dutra, 99, Vila Militar, Casa",
+    "cidade": "Rio Negro",
+    "uf": "PR",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8xfed2b8",
+    "mlId": "1232713564",
+    "criado": "2026-10-24T14:01:08.721Z",
+    "pedidos": [
+      {
+        "id": "2000019038718842",
+        "data": "2026-10-17T23:37:51.000-04:00",
+        "total": 75.09,
+        "cancelado": false
+      }
+    ],
+    "nome": "Antonio Dailson de Sousa",
+    "apelido": "DEANTONIO20221106173740",
+    "documento": "61177573369",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "64685000",
+    "endereco": "Afonso José Modesto Centro, 615, Marcolândia, Casa",
+    "cidade": "Marcolândia",
+    "uf": "PI",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8x414a8f",
+    "mlId": "2053411889",
+    "criado": "2026-10-24T14:01:08.721Z",
+    "pedidos": [
+      {
+        "id": "2000019038002340",
+        "data": "2026-10-17T22:14:27.000-04:00",
+        "total": 94.21,
+        "cancelado": false
+      }
+    ],
+    "nome": "Francisco Oliveira",
+    "apelido": "FD20241023204922",
+    "documento": "01383849323",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "75250163",
+    "endereco": "Rua Castro Alves, N 2, Residencial Jardim Canedo, Qd40 L17 C02 Referencia: Salão podologia Idelma Silva",
+    "cidade": "Senador Canedo",
+    "uf": "GO",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8xfcb860",
+    "mlId": "308841379",
+    "criado": "2026-10-24T14:01:08.721Z",
+    "pedidos": [
+      {
+        "id": "2000019036553616",
+        "data": "2026-10-17T20:14:53.000-04:00",
+        "total": 76.34,
+        "cancelado": false
+      }
+    ],
+    "nome": "Camila Nunes Da Silva",
+    "apelido": "CAMYLANUNESDASILVA",
+    "documento": "39611843801",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "87140376",
+    "endereco": "Rua dos Iris, 45, Central, casa",
+    "cidade": "Paiçandu",
+    "uf": "PR",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8xba7340",
+    "mlId": "2404306051",
+    "criado": "2026-10-24T14:01:08.721Z",
+    "pedidos": [
+      {
+        "id": "2000019035613680",
+        "data": "2026-10-17T19:07:03.000-04:00",
+        "total": 99.17,
+        "cancelado": false
+      }
+    ],
+    "nome": "Melglipes Castro de Oliveira",
+    "apelido": "MC20250424190238",
+    "documento": "06282511305",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "64865000",
+    "endereco": "Josias Bezerra da Silva, 1115, Centro, Próx ao hotel centra Referencia: Casa da biia (Ana Beatriz)",
+    "cidade": "Ribeiro Gonçalves",
+    "uf": "PI",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8xe4a1b5",
+    "mlId": "1444979582",
+    "criado": "2026-10-24T14:01:08.721Z",
+    "pedidos": [
+      {
+        "id": "2000019034762392",
+        "data": "2026-10-17T17:58:47.000-04:00",
+        "total": 159.9,
+        "cancelado": false
+      }
+    ],
+    "nome": "keitiany nascimento evangelista",
+    "apelido": "NASCIMENTOKEITIANY202308071859",
+    "documento": "00126301280",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "69316402",
+    "endereco": "Avenida Getúlio Corrêia de Pinho, 49, Senador Hélio Campos, de esquina Referencia: ao lado do mercantil RFN",
+    "cidade": "Boa Vista",
+    "uf": "RR",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8xf69dcc",
+    "mlId": "298330635",
+    "criado": "2026-10-24T14:01:08.721Z",
+    "pedidos": [
+      {
+        "id": "2000019033893862",
+        "data": "2026-10-17T16:54:52.000-04:00",
+        "total": 69.98,
+        "cancelado": false
+      }
+    ],
+    "nome": "Adenilson Claudino Barbosa",
+    "apelido": "ADENILSONENG2014",
+    "documento": "17740397881",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "13213085",
+    "endereco": "Avenida José Benassi, 2268, Loteamento Parque Industrial, BL 4 AP 42 cond ties",
+    "cidade": "Jundiaí",
+    "uf": "SP",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8x3d7e6a",
+    "mlId": "1211603699",
+    "criado": "2026-10-24T14:01:08.721Z",
+    "pedidos": [
+      {
+        "id": "2000019032602236",
+        "data": "2026-10-17T15:16:08.000-04:00",
+        "total": 74.92,
+        "cancelado": false
+      },
+      {
+        "id": "2000019031213824",
+        "data": "2026-10-17T13:41:29.000-04:00",
+        "total": 74.92,
+        "cancelado": true
+      }
+    ],
+    "nome": "Joel Gomes da Silva",
+    "apelido": "JOELSILVA2025",
+    "documento": "07677266428",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "13884118",
+    "endereco": "Avenida Santa Terezinha, 238, Vila Santa Terezinha, Casa Referencia: pergado  com a padaria do marcelo",
+    "cidade": "Vargem Grande do Sul",
+    "uf": "SP",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8x4bbcd4",
+    "mlId": "154779324",
+    "criado": "2026-10-24T14:01:08.721Z",
+    "pedidos": [
+      {
+        "id": "2000019032529272",
+        "data": "2026-10-17T15:11:09.000-04:00",
+        "total": 19.9,
+        "cancelado": false
+      },
+      {
+        "id": "2000019032529270",
+        "data": "2026-10-17T15:11:09.000-04:00",
+        "total": 19.9,
+        "cancelado": false
+      }
+    ],
+    "nome": "Giovanni Lucas Gondim Oliveira",
+    "apelido": "GIOVANNILUCASGONDIMOLIVEIRA",
+    "documento": "03972664303",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "71503502",
+    "endereco": "Quadra CA 2, C, Setor de Habitações Individuais Norte, 317 Referencia: Ed. Garden Place",
+    "cidade": "Brasília",
+    "uf": "DF",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8x16bfb4",
+    "mlId": "379064480",
+    "criado": "2026-10-24T14:01:08.721Z",
+    "pedidos": [
+      {
+        "id": "2000019032281254",
+        "data": "2026-10-17T14:53:06.000-04:00",
+        "total": 59.9,
+        "cancelado": false
+      }
+    ],
+    "nome": "Nadir Alves",
+    "apelido": "NADIRVERIS",
+    "documento": "40397912153",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "79081090",
+    "endereco": "Rua Beneditinos, 473, Vila Ipiranga, Casa",
+    "cidade": "Campo Grande",
+    "uf": "MS",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8x56c6d1",
+    "mlId": "682233820",
+    "criado": "2026-10-24T14:01:08.721Z",
+    "pedidos": [
+      {
+        "id": "2000019032107224",
+        "data": "2026-10-17T14:40:51.000-04:00",
+        "total": 49,
+        "cancelado": false
+      }
+    ],
+    "nome": "Andressa Sousa Dos Santos",
+    "apelido": "SOAN237765",
+    "documento": "03732546527",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "45988594",
+    "endereco": "Rua Salgado Filho, 279, Caminho do Mar, Referencia: Em Frente Ao Bar Do Sula",
+    "cidade": "Teixeira de Freitas",
+    "uf": "BA",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8x131b55",
+    "mlId": "598026163",
+    "criado": "2026-10-24T14:01:08.721Z",
+    "pedidos": [
+      {
+        "id": "2000019031354800",
+        "data": "2026-10-17T13:48:09.000-04:00",
+        "total": 39.5,
+        "cancelado": false
+      }
+    ],
+    "nome": "Felipe Resende De Oliveira",
+    "apelido": "REFE5288249",
+    "documento": "05731781192",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "71881111",
+    "endereco": "Quadra QN 14A Conjunto 1, 18, Riacho Fundo II",
+    "cidade": "Brasília",
+    "uf": "DF",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8x12cb87",
+    "mlId": "3054929459",
+    "criado": "2026-10-24T14:01:08.721Z",
+    "pedidos": [
+      {
+        "id": "2000019031146838",
+        "data": "2026-10-17T13:33:39.000-04:00",
+        "total": 58.34,
+        "cancelado": false
+      }
+    ],
+    "nome": "Bruno de Jesus Fernandes",
+    "apelido": "M20251210105901",
+    "documento": "56840381587",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "44540000",
+    "endereco": "Rua do Entroncamento, SN, Centro, Referencia: Descendo a ladeira do hospital,  no Entroncamento, em frente ao acarajé da tica.",
+    "cidade": "Conceição do Almeida",
+    "uf": "BA",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8x459ab6",
+    "mlId": "2165363399",
+    "criado": "2026-10-24T14:01:08.721Z",
+    "pedidos": [
+      {
+        "id": "2000019029892958",
+        "data": "2026-10-17T12:06:58.000-04:00",
+        "total": 30,
+        "cancelado": false
+      }
+    ],
+    "nome": "Claudimar biscaia",
+    "apelido": "CB20241218170436",
+    "documento": "35963580862",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "84280155",
+    "endereco": "Rua Vereador Lauro da Silva Ferreira, 153, Residencial Maria José, 153 Referencia: Barracão funilaria",
+    "cidade": "Curiúva",
+    "uf": "PR",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8xd4668a",
+    "mlId": "2599509902",
+    "criado": "2026-10-24T14:01:08.721Z",
+    "pedidos": [
+      {
+        "id": "2000019029325238",
+        "data": "2026-10-17T11:29:12.000-04:00",
+        "total": 99.17,
+        "cancelado": false
+      }
+    ],
+    "nome": "Josiane soares",
+    "apelido": "DDFEGHCAB40407",
+    "documento": "00981434258",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "66023420",
+    "endereco": "Vila Rio, 154, Cidade Velha, Portal da Amazônia Referencia: Bernardo Sayão ao lado do Atacadão ( portão preto )",
+    "cidade": "Belém",
+    "uf": "PA",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8x53e916",
+    "mlId": "1807975375",
+    "criado": "2026-10-24T14:01:08.721Z",
+    "pedidos": [
+      {
+        "id": "2000019028781806",
+        "data": "2026-10-17T10:52:23.000-04:00",
+        "total": 99.17,
+        "cancelado": false
+      }
+    ],
+    "nome": "Jose Maria Ferreira",
+    "apelido": "MAJO20240512133105",
+    "documento": "07584492673",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "38210000",
+    "endereco": "Rua Hónorato Pinto, 32, Centro",
+    "cidade": "Pirajuba",
+    "uf": "MG",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8x298a38",
+    "mlId": "1871935524",
+    "criado": "2026-10-24T14:01:08.721Z",
+    "pedidos": [
+      {
+        "id": "2000019028565840",
+        "data": "2026-10-17T10:37:48.000-04:00",
+        "total": 37.9,
+        "cancelado": true
+      }
+    ],
+    "nome": "",
+    "apelido": "RV20240623200627",
+    "documento": "40455028826",
+    "telefone": "",
+    "telefone2": "",
+    "email": "",
+    "cep": "",
+    "endereco": "",
+    "cidade": "",
+    "uf": "",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8x76a0bb",
+    "mlId": "2238903635",
+    "criado": "2026-10-24T14:01:08.721Z",
+    "pedidos": [
+      {
+        "id": "2000019028259510",
+        "data": "2026-10-17T10:13:08.000-04:00",
+        "total": 94.21,
+        "cancelado": false
+      }
+    ],
+    "nome": "Isabela Ribeiro",
+    "apelido": "RI20250130103209",
+    "documento": "14631037946",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "85929000",
+    "endereco": "Linha Fazenda Alvorada, SN, Luz Marina, Casa Grande Branca Referencia: 1km saindo de Luz Marina para Ouro Verde,Toledo, tem uma SANTA ,uma Placa indicado distância TOLEDO,CASCAVEL ao lado do asfalto",
+    "cidade": "São Pedro do Iguaçu",
+    "uf": "PR",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8x066099",
+    "mlId": "226303437",
+    "criado": "2026-10-24T14:01:08.721Z",
+    "pedidos": [
+      {
+        "id": "2000019028103416",
+        "data": "2026-10-17T10:02:29.000-04:00",
+        "total": 61.46,
+        "cancelado": false
+      }
+    ],
+    "nome": "Cristovao",
+    "apelido": "CRISTOVAOCARNEIROCOSTA",
+    "documento": "33823486837",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "48895000",
+    "endereco": "Rua Tertuliano Carneiro, 49, Centro, Cristovao Carneiro Costa",
+    "cidade": "São Domingos",
+    "uf": "BA",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8x745a59",
+    "mlId": "231750722",
+    "criado": "2026-10-24T14:01:08.721Z",
+    "pedidos": [
+      {
+        "id": "2000019027405768",
+        "data": "2026-10-17T09:08:38.000-04:00",
+        "total": 99.9,
+        "cancelado": false
+      }
+    ],
+    "nome": "Luciano de Aquino Oliveira",
+    "apelido": "AQLU6389170",
+    "documento": "28357689809",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "06817170",
+    "endereco": "Estrada São Judas, 190, Parque Esplanada, Grupo 12 bl B ap 243",
+    "cidade": "Embu das Artes",
+    "uf": "SP",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8x8f30f9",
+    "mlId": "491936265",
+    "criado": "2026-10-24T14:01:08.721Z",
+    "pedidos": [
+      {
+        "id": "2000019027281492",
+        "data": "2026-10-17T08:59:47.000-04:00",
+        "total": 94.21,
+        "cancelado": false
+      }
+    ],
+    "nome": "Douglas Martins Morais",
+    "apelido": "DOUGLASMARTINSMORAIS",
+    "documento": "05499385670",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "36730000",
+    "endereco": "Rua Sebastião Viêira de Souza, 105, Centro",
+    "cidade": "Pirapetinga",
+    "uf": "MG",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8x150649",
+    "mlId": "1393829211",
+    "criado": "2026-10-24T14:01:08.721Z",
+    "pedidos": [
+      {
+        "id": "2000019025419638",
+        "data": "2026-10-17T02:07:22.000-04:00",
+        "total": 61.46,
+        "cancelado": false
+      }
+    ],
+    "nome": "Willian Gabriel Pereira Batista",
+    "apelido": "HACKERWILL20230608091214",
+    "documento": "10740596381",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "64450000",
+    "endereco": "Atlântida, 58, Vila Rica, Referencia: Ao lado da casa do policial jacaré",
+    "cidade": "Monsenhor Gil",
+    "uf": "PI",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8x82bc1b",
+    "mlId": "576333307",
+    "criado": "2026-10-24T14:01:08.721Z",
+    "pedidos": [
+      {
+        "id": "2000019025266668",
+        "data": "2026-10-17T01:18:34.000-04:00",
+        "total": 61.46,
+        "cancelado": false
+      }
+    ],
+    "nome": "Leticia de oliveira gomes",
+    "apelido": "DELE2064994",
+    "documento": "05219529994",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "83321000",
+    "endereco": "Avenida Iraí, 1039, Pinhais, Loja 1",
+    "cidade": "Pinhais",
+    "uf": "PR",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8xe516b2",
+    "mlId": "528020505",
+    "criado": "2026-10-24T14:01:08.721Z",
+    "pedidos": [
+      {
+        "id": "2000019024457120",
+        "data": "2026-10-16T23:17:22.000-04:00",
+        "total": 58.34,
+        "cancelado": false
+      }
+    ],
+    "nome": "Edson Carvalho Vieira",
+    "apelido": "CARVALHOVIEIRAEDSON",
+    "documento": "00184518610",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "30710480",
+    "endereco": "Rua Itambacuri, 291, Carlos Prates, o CEP 30710-480",
+    "cidade": "Belo Horizonte",
+    "uf": "MG",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8x9fe8ea",
+    "mlId": "2006112953",
+    "criado": "2026-10-24T14:01:08.721Z",
+    "pedidos": [
+      {
+        "id": "2000019024176210",
+        "data": "2026-10-16T22:44:57.000-04:00",
+        "total": 99.17,
+        "cancelado": false
+      }
+    ],
+    "nome": "Francisco Alexandre Sena Ramos",
+    "apelido": "RSAFP",
+    "documento": "65089570230",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "76808036",
+    "endereco": "Rua Murici, 1271, Cohab, CASA",
+    "cidade": "Porto Velho",
+    "uf": "RO",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8x6925bc",
+    "mlId": "2562140493",
+    "criado": "2026-10-24T14:01:08.721Z",
+    "pedidos": [
+      {
+        "id": "2000019021157884",
+        "data": "2026-10-16T19:05:11.000-04:00",
+        "total": 30,
+        "cancelado": false
+      }
+    ],
+    "nome": "Antônio ferreira",
+    "apelido": "SA20250717045836",
+    "documento": "05606852462",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "13494204",
+    "endereco": "Rua Ulisses Gardezani, 1452, Jardim Cordeiro",
+    "cidade": "Cordeirópolis",
+    "uf": "SP",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8x17fb41",
+    "mlId": "1305355478",
+    "criado": "2026-10-24T14:01:08.721Z",
+    "pedidos": [
+      {
+        "id": "2000019019210282",
+        "data": "2026-10-16T16:51:52.000-04:00",
+        "total": 99.17,
+        "cancelado": false
+      }
+    ],
+    "nome": "Alan de Sousa Reis",
+    "apelido": "REISALAN20230207215827",
+    "documento": "08025036596",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "48880000",
+    "endereco": "Avenida Nova Esperança, 149, Outro, Referencia: Fica ao lado do Bar do Necoelho",
+    "cidade": "Santaluz",
+    "uf": "BA",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8x4337ac",
+    "mlId": "57290189",
+    "criado": "2026-10-24T14:01:08.721Z",
+    "pedidos": [
+      {
+        "id": "2000019018667982",
+        "data": "2026-10-16T16:17:05.000-04:00",
+        "total": 37.9,
+        "cancelado": true
+      }
+    ],
+    "nome": "",
+    "apelido": "ALECMORALES",
+    "documento": "18164822850",
+    "telefone": "",
+    "telefone2": "",
+    "email": "",
+    "cep": "",
+    "endereco": "",
+    "cidade": "",
+    "uf": "",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8y0fa5aa",
+    "mlId": "2081793921",
+    "criado": "2026-10-24T14:01:08.722Z",
+    "pedidos": [
+      {
+        "id": "2000019018317352",
+        "data": "2026-10-16T15:56:02.000-04:00",
+        "total": 36,
+        "cancelado": false
+      }
+    ],
+    "nome": "Sueli Boaventura",
+    "apelido": "BS20241107122957",
+    "documento": "01898405956",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "88215000",
+    "endereco": "R. Capivara, 668, José Amândio, Marmoraria Belas Artes",
+    "cidade": "Bombinhas",
+    "uf": "SC",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8ya718c9",
+    "mlId": "3128010802",
+    "criado": "2026-10-24T14:01:08.722Z",
+    "pedidos": [
+      {
+        "id": "2000019018081420",
+        "data": "2026-10-16T15:41:32.000-04:00",
+        "total": 159.9,
+        "cancelado": false
+      }
+    ],
+    "nome": "Felipe Gabriel Capelli Viana",
+    "apelido": "F20260111131753",
+    "documento": "43107283835",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "15140021",
+    "endereco": "Rua Alagoas, 68, Centro, Perto do bar do Lori",
+    "cidade": "Bálsamo",
+    "uf": "SP",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8y17fd02",
+    "mlId": "160596685",
+    "criado": "2026-10-24T14:01:08.722Z",
+    "pedidos": [
+      {
+        "id": "2000019018084324",
+        "data": "2026-10-16T15:39:19.000-04:00",
+        "total": 84.91,
+        "cancelado": false
+      }
+    ],
+    "nome": "Wanderson Almeida de Oliveira",
+    "apelido": "OLWA3884733",
+    "documento": "10668842776",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "28020740",
+    "endereco": "AVENIDA VINTE E OITO DE MARÇO, 385, Campos Dos Goytacazes, FiX Informática Referencia: em frente a cidade da cria",
+    "cidade": "Campos dos Goytacazes",
+    "uf": "RJ",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8y3c0831",
+    "mlId": "293847038",
+    "criado": "2026-10-24T14:01:08.722Z",
+    "pedidos": [
+      {
+        "id": "2000019015481218",
+        "data": "2026-10-16T13:05:52.000-04:00",
+        "total": 66.4,
+        "cancelado": false
+      }
+    ],
+    "nome": "Phyllipe Gabryel",
+    "apelido": "LYPEGABRYEL",
+    "documento": "13648559419",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "53360160",
+    "endereco": "Rua Palmito, 12, Tabajara, casa Referencia: casa no térreo com umas grades na frente e uma garagem ao lado.",
+    "cidade": "Olinda",
+    "uf": "PE",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8y5fbca6",
+    "mlId": "73284508",
+    "criado": "2026-10-24T14:01:08.722Z",
+    "pedidos": [
+      {
+        "id": "2000019013417644",
+        "data": "2026-10-16T11:05:23.000-04:00",
+        "total": 26.9,
+        "cancelado": false
+      }
+    ],
+    "nome": "MARILIA GABRIELA ROSINI",
+    "apelido": "MARLIAGABRIELAROSINI",
+    "documento": "22438393858",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "09895120",
+    "endereco": "Rua Angelina Ronchi Martin Bianco, 130, Planalto",
+    "cidade": "São Bernardo do Campo",
+    "uf": "SP",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8y46132e",
+    "mlId": "477757424",
+    "criado": "2026-10-24T14:01:08.722Z",
+    "pedidos": [
+      {
+        "id": "2000019012450886",
+        "data": "2026-10-16T10:08:56.000-04:00",
+        "total": 26.9,
+        "cancelado": false
+      }
+    ],
+    "nome": "Alessandra Conceição de Almeida",
+    "apelido": "ALESSANDRACADV",
+    "documento": "02283672716",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "29310592",
+    "endereco": "Rua Nilton Silva, 40, Doutor Gilson Carone, Casa Referencia: ùltima Casa Rua igreja católica",
+    "cidade": "Cachoeiro de Itapemirim",
+    "uf": "ES",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8y5de6c4",
+    "mlId": "1363056424",
+    "criado": "2026-10-24T14:01:08.722Z",
+    "pedidos": [
+      {
+        "id": "2000019010852566",
+        "data": "2026-10-16T08:27:13.000-04:00",
+        "total": 119.7,
+        "cancelado": false
+      }
+    ],
+    "nome": "jonas fábio de oliveira",
+    "apelido": "DEJONAS20230428191356",
+    "documento": "38069611820",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "08750720",
+    "endereco": "Rua Manoel Fernandes, 185, Jundiapeba, salão de beleza Referencia: Alaide beuaty hair na esquina com a Talete maccio",
+    "cidade": "Mogi das Cruzes",
+    "uf": "SP",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8yca35f2",
+    "mlId": "1301773460",
+    "criado": "2026-10-24T14:01:08.722Z",
+    "pedidos": [
+      {
+        "id": "2000019010169254",
+        "data": "2026-10-16T07:31:50.000-04:00",
+        "total": 55,
+        "cancelado": false
+      }
+    ],
+    "nome": "Mariana Melane Behrends de Campos",
+    "apelido": "BEHRENDSMARIANA20230203063004",
+    "documento": "51193190843",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "79602120",
+    "endereco": "Rua David Alexandria, 953, Vila Nova",
+    "cidade": "Três Lagoas",
+    "uf": "MS",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8y32374d",
+    "mlId": "1674846163",
+    "criado": "2026-10-24T14:01:08.722Z",
+    "pedidos": [
+      {
+        "id": "2000019007917278",
+        "data": "2026-10-15T23:39:02.000-04:00",
+        "total": 58.34,
+        "cancelado": false
+      },
+      {
+        "id": "2000018967191028",
+        "data": "2026-10-13T20:56:20.000-04:00",
+        "total": 73.5,
+        "cancelado": false
+      }
+    ],
+    "nome": "Kelly Cristina Sales de Melo",
+    "apelido": "SAKE20240209150603",
+    "documento": "28485334809",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "89286298",
+    "endereco": "Rua Agudos do Sul, 20, Cruzeiro, Ap 33 torre 3",
+    "cidade": "São Bento do Sul",
+    "uf": "SC",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8y06d041",
+    "mlId": "65354268",
+    "criado": "2026-10-24T14:01:08.722Z",
+    "pedidos": [
+      {
+        "id": "2000019006445062",
+        "data": "2026-10-15T21:44:54.000-04:00",
+        "total": 64,
+        "cancelado": true
+      }
+    ],
+    "nome": "",
+    "apelido": "MARCOSINFOSHOP",
+    "documento": "02894333552",
+    "telefone": "",
+    "telefone2": "",
+    "email": "",
+    "cep": "",
+    "endereco": "",
+    "cidade": "",
+    "uf": "",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8yeb213b",
+    "mlId": "34893537",
+    "criado": "2026-10-24T14:01:08.722Z",
+    "pedidos": [
+      {
+        "id": "2000019005727736",
+        "data": "2026-10-15T21:06:03.000-04:00",
+        "total": 99.17,
+        "cancelado": false
+      }
+    ],
+    "nome": "Aline Cristina Teixeira Gomes",
+    "apelido": "GOMESA8217",
+    "documento": "06076259612",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "32280090",
+    "endereco": "Rua Rio verde, 351, Riacho, Loja B",
+    "cidade": "Contagem",
+    "uf": "MG",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8y05d9cc",
+    "mlId": "704789632",
+    "criado": "2026-10-24T14:01:08.722Z",
+    "pedidos": [
+      {
+        "id": "2000019005007254",
+        "data": "2026-10-15T20:23:26.000-04:00",
+        "total": 58.34,
+        "cancelado": false
+      }
+    ],
+    "nome": "Yennifer Coromoto Carrasquel Martínez",
+    "apelido": "YENNIFERCOROMOTOCARRASQUELMA",
+    "documento": "70708203213",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "95096761",
+    "endereco": "RUA THEREZA DALCANALI ZUGNO, 125, Charqueadas, sala 4",
+    "cidade": "Caxias do Sul",
+    "uf": "RS",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8y6ceff7",
+    "mlId": "466250400",
+    "criado": "2026-10-24T14:01:08.722Z",
+    "pedidos": [
+      {
+        "id": "2000019003482008",
+        "data": "2026-10-15T19:02:32.000-04:00",
+        "total": 48.99,
+        "cancelado": false
+      }
+    ],
+    "nome": "Giovani Assis de carvalho",
+    "apelido": "ASGI7766513",
+    "documento": "09413687935",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "83702035",
+    "endereco": "Rua Manoel Ribas, 2560, Centro, 0ficina gtm motos Referencia: oficina de moto horário para entrega das 8:00 as 18:00",
+    "cidade": "Araucária",
+    "uf": "PR",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8y4e9501",
+    "mlId": "2422208744",
+    "criado": "2026-10-24T14:01:08.722Z",
+    "pedidos": [
+      {
+        "id": "2000019002915426",
+        "data": "2026-10-15T18:28:40.000-04:00",
+        "total": 58.34,
+        "cancelado": false
+      }
+    ],
+    "nome": "Valmir  Zanotti de Araújo",
+    "apelido": "VZ20250503073936",
+    "documento": "62692178149",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "29136472",
+    "endereco": "Rua Alfredo Cavallieri, 50, Soteco, Casa Referencia: Ao lado da casa do pastor Elías, próximo a igreja assembléia de Deus, procurar por Valmir ir",
+    "cidade": "Viana",
+    "uf": "ES",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8y6c40b9",
+    "mlId": "1328915587",
+    "criado": "2026-10-24T14:01:08.722Z",
+    "pedidos": [
+      {
+        "id": "2000019002892630",
+        "data": "2026-10-15T18:27:14.000-04:00",
+        "total": 94.21,
+        "cancelado": false
+      }
+    ],
+    "nome": "Wilson santos Martins",
+    "apelido": "MARTINSWILSON20230312111847",
+    "documento": "01729419542",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "49140959",
+    "endereco": "Rua Alemo Rodrigues, 22, Centro, Povoado jatoba Referencia: Na rua do lado do ultragas, minha casa fica de frete antiga loraze",
+    "cidade": "Barra dos Coqueiros",
+    "uf": "SE",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8y96ce16",
+    "mlId": "97565532",
+    "criado": "2026-10-24T14:01:08.722Z",
+    "pedidos": [
+      {
+        "id": "2000019002316810",
+        "data": "2026-10-15T17:56:02.000-04:00",
+        "total": 61.46,
+        "cancelado": false
+      }
+    ],
+    "nome": "AUGUSTO GARCIA",
+    "apelido": "OESTE PRODUTOS",
+    "documento": "00338755292",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "68005050",
+    "endereco": "Rua Silvério Sirotheau Corrêa, 1239, Centro, ao lado do Hitomi Referencia: entre 7 de setembro e visconde do rio branco",
+    "cidade": "Santarém",
+    "uf": "PA",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8ya31106",
+    "mlId": "119770101",
+    "criado": "2026-10-24T14:01:08.722Z",
+    "pedidos": [
+      {
+        "id": "2000019000541048",
+        "data": "2026-10-15T16:08:31.000-04:00",
+        "total": 39.9,
+        "cancelado": false
+      }
+    ],
+    "nome": "Tatiane Olímpio de Almeida",
+    "apelido": "TOLMPIO",
+    "documento": "31623358841",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "03156001",
+    "endereco": "Avenida Vila Ema, 1351, Vila Prudente, Referencia: a entrega só pode ocorrer até as 18h00, pois o endereço é comercial",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8y08dc25",
+    "mlId": "1264085156",
+    "criado": "2026-10-24T14:01:08.722Z",
+    "pedidos": [
+      {
+        "id": "2000018997029108",
+        "data": "2026-10-15T13:00:02.000-04:00",
+        "total": 39.9,
+        "cancelado": false
+      }
+    ],
+    "nome": "Sirneide Gabriel de Lima",
+    "apelido": "DESIRNEIDE20221214161039",
+    "documento": "27050395897",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "03726050",
+    "endereco": "Rua Vicente José Cabral, 126, Engenheiro Goulart, Padaria Anjo Gabriel Referencia: Perto da Bruna perfumaria",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8y9adf82",
+    "mlId": "253304684",
+    "criado": "2026-10-24T14:01:08.722Z",
+    "pedidos": [
+      {
+        "id": "2000018996650418",
+        "data": "2026-10-15T12:39:31.000-04:00",
+        "total": 69.98,
+        "cancelado": false
+      }
+    ],
+    "nome": "adailson ivair santos rodrigue",
+    "apelido": "ROAD1662592",
+    "documento": "34322879845",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "13223050",
+    "endereco": "Rua José Mafassoli, 359, Jardim Promeca, CASA",
+    "cidade": "Várzea Paulista",
+    "uf": "SP",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8y52a0ec",
+    "mlId": "3456097761",
+    "criado": "2026-10-24T14:01:08.722Z",
+    "pedidos": [
+      {
+        "id": "2000018993583574",
+        "data": "2026-10-15T09:57:20.000-04:00",
+        "total": 56.15,
+        "cancelado": false
+      }
+    ],
+    "nome": "Cleonice Aparecida de Almeida",
+    "apelido": "CM20260607140045",
+    "documento": "84917610630",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "75890000",
+    "endereco": "Rua22 esquina com rua 15, 117A, Outro, Tutti cabeleireiro",
+    "cidade": "São Simão",
+    "uf": "GO",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8y1c69ae",
+    "mlId": "2188062863",
+    "criado": "2026-10-24T14:01:08.722Z",
+    "pedidos": [
+      {
+        "id": "2000018993207654",
+        "data": "2026-10-15T09:37:24.000-04:00",
+        "total": 26.9,
+        "cancelado": false
+      }
+    ],
+    "nome": "Hamilton Katsuno",
+    "apelido": "KH20250102082914",
+    "documento": "00143484893",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "09040220",
+    "endereco": "Rua Antônio Bastos, 461, Vila Bastos, Apto 34",
+    "cidade": "Santo André",
+    "uf": "SP",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8y0e2b0a",
+    "mlId": "1153312272",
+    "criado": "2026-10-24T14:01:08.722Z",
+    "pedidos": [
+      {
+        "id": "2000018992962326",
+        "data": "2026-10-15T09:20:52.000-04:00",
+        "total": 58.34,
+        "cancelado": false
+      }
+    ],
+    "nome": "Rosane Zang Corbellini",
+    "apelido": "CORBELLINIROSANE20220702123133",
+    "documento": "04008950052",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "95918000",
+    "endereco": "Linha Paredão -interior, SN, Centro, Portão azul grande Referencia: Passar a madeireira Martini, pegar a esquerda e andar mais ou menos 200 metros tem um galpão com portão azul na beira da estrada",
+    "cidade": "Sério",
+    "uf": "RS",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8ye4d4c3",
+    "mlId": "810474561",
+    "criado": "2026-10-24T14:01:08.722Z",
+    "pedidos": [
+      {
+        "id": "2000018992679018",
+        "data": "2026-10-15T09:04:28.000-04:00",
+        "total": 58.34,
+        "cancelado": false
+      }
+    ],
+    "nome": "Alecsandro de Oliveira Santos",
+    "apelido": "SAAL9636821",
+    "documento": "41236435826",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "09854700",
+    "endereco": "Rua das Paineiras, 375A, Alvarenga",
+    "cidade": "São Bernardo do Campo",
+    "uf": "SP",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8y602157",
+    "mlId": "345764215",
+    "criado": "2026-10-24T14:01:08.722Z",
+    "pedidos": [
+      {
+        "id": "2000018990382362",
+        "data": "2026-10-15T04:41:21.000-04:00",
+        "total": 61.46,
+        "cancelado": false
+      }
+    ],
+    "nome": "Alucinete",
+    "apelido": "ALUCINETESEVERINO",
+    "documento": "04496174677",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "39150000",
+    "endereco": "Rua Vitória, 460, Centro, Casa",
+    "cidade": "Serro",
+    "uf": "MG",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8yd96dfb",
+    "mlId": "136536577",
+    "criado": "2026-10-24T14:01:08.722Z",
+    "pedidos": [
+      {
+        "id": "2000018988551304",
+        "data": "2026-10-14T22:56:12.000-04:00",
+        "total": 58.34,
+        "cancelado": false
+      }
+    ],
+    "nome": "Leonardo Da Silva Coelho",
+    "apelido": "POWERMWGAZORD",
+    "documento": "09364998000188",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "14151306",
+    "endereco": "Rua Luiz Sinastre, 190, Jardim Santa Cruz, Referencia: Portao branco com uma árvore na frente",
+    "cidade": "Serrana",
+    "uf": "SP",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8y13482f",
+    "mlId": "459353831",
+    "criado": "2026-10-24T14:01:08.722Z",
+    "pedidos": [
+      {
+        "id": "2000018988365962",
+        "data": "2026-10-14T22:43:55.000-04:00",
+        "total": 68,
+        "cancelado": false
+      }
+    ],
+    "nome": "David Denis Lima Godoi",
+    "apelido": "DDGODOI",
+    "documento": "29830780864",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "37655000",
+    "endereco": "Rua Alfredo Afonso Pereira, 75, Centro, Rua da caixa d água Referencia: Atrás da igreja católica",
+    "cidade": "Itapeva",
+    "uf": "MG",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8yecb4cd",
+    "mlId": "2180662534",
+    "criado": "2026-10-24T14:01:08.722Z",
+    "pedidos": [
+      {
+        "id": "2000018987573716",
+        "data": "2026-10-14T21:49:17.000-04:00",
+        "total": 58.34,
+        "cancelado": false
+      }
+    ],
+    "nome": "Reginaldo dos Santos Rodrigues",
+    "apelido": "RR20241226092134",
+    "documento": "01790911311",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "64175000",
+    "endereco": "Rua Raimundo Emilio, 116, Centro",
+    "cidade": "Murici dos Portelas",
+    "uf": "PI",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8ze00416",
+    "mlId": "659836699",
+    "criado": "2026-10-24T14:01:08.723Z",
+    "pedidos": [
+      {
+        "id": "2000018987305600",
+        "data": "2026-10-14T21:36:10.000-04:00",
+        "total": 58.34,
+        "cancelado": false
+      },
+      {
+        "id": "2000018987304858",
+        "data": "2026-10-14T21:34:52.000-04:00",
+        "total": 61.46,
+        "cancelado": false
+      }
+    ],
+    "nome": "Jesse Santana Souza",
+    "apelido": "JESSESANTANASOUZA",
+    "documento": "45039786832",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "17284480",
+    "endereco": "Rua Leonardo Ocean Furlani, 295, Núcleo Habitacional Dona Leonor Mendes de Barros, Referencia: melhor disponibilidade para receber entrega após as 15 horas",
+    "cidade": "Pederneiras",
+    "uf": "SP",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8zd1b1d6",
+    "mlId": "2926606202",
+    "criado": "2026-10-24T14:01:08.723Z",
+    "pedidos": [
+      {
+        "id": "2000018985832238",
+        "data": "2026-10-14T20:14:27.000-04:00",
+        "total": 58.34,
+        "cancelado": false
+      }
+    ],
+    "nome": "Talis Alves",
+    "apelido": "T20251014192033",
+    "documento": "01257784064",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "95088600",
+    "endereco": "Avenida Maurício Sirotsky Sobrinho, 3859, São Victor COHAB, Casa 2 Referencia: Casa do meio",
+    "cidade": "Caxias do Sul",
+    "uf": "RS",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8ze01d9d",
+    "mlId": "1175959245",
+    "criado": "2026-10-24T14:01:08.723Z",
+    "pedidos": [
+      {
+        "id": "2000018985502882",
+        "data": "2026-10-14T19:57:11.000-04:00",
+        "total": 66.4,
+        "cancelado": false
+      }
+    ],
+    "nome": "Iran Silva Dias",
+    "apelido": "SILVAIRAN20220808221917",
+    "documento": "05134494509",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "57480000",
+    "endereco": "Rua Marcílio Dias, 107, Centro, Na casa de Quitéria",
+    "cidade": "Delmiro Gouveia",
+    "uf": "AL",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8z786d28",
+    "mlId": "1788025425",
+    "criado": "2026-10-24T14:01:08.723Z",
+    "pedidos": [
+      {
+        "id": "2000018985079640",
+        "data": "2026-10-14T19:36:59.000-04:00",
+        "total": 58.34,
+        "cancelado": true
+      }
+    ],
+    "nome": "",
+    "apelido": "ZOMBOY23",
+    "documento": "71199825247",
+    "telefone": "",
+    "telefone2": "",
+    "email": "",
+    "cep": "",
+    "endereco": "",
+    "cidade": "",
+    "uf": "",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8ze0f8df",
+    "mlId": "610652070",
+    "criado": "2026-10-24T14:01:08.723Z",
+    "pedidos": [
+      {
+        "id": "2000018985112586",
+        "data": "2026-10-14T19:36:57.000-04:00",
+        "total": 76.34,
+        "cancelado": false
+      }
+    ],
+    "nome": "Thaynara Rodrigues Souza",
+    "apelido": "THAYNARA24",
+    "documento": "14147928676",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "35249000",
+    "endereco": "Rua Eduardo matos bairro alvorada, 73, Outro",
+    "cidade": "Alvarenga",
+    "uf": "MG",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8z55c09f",
+    "mlId": "2919026752",
+    "criado": "2026-10-24T14:01:08.723Z",
+    "pedidos": [
+      {
+        "id": "2000018984133694",
+        "data": "2026-10-14T18:46:32.000-04:00",
+        "total": 94.8,
+        "cancelado": true
+      },
+      {
+        "id": "2000018974927788",
+        "data": "2026-10-14T10:37:58.000-04:00",
+        "total": 75.14,
+        "cancelado": false
+      }
+    ],
+    "nome": "Jaqueline Bueno",
+    "apelido": "J20251010194626",
+    "documento": "09867441826",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "12245820",
+    "endereco": "Rua Euclides Miragaia, 394, Centro, Sala 1302 Referencia: Próxima a faculdade de direiro",
+    "cidade": "São José dos Campos",
+    "uf": "SP",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8z05fea4",
+    "mlId": "547368464",
+    "criado": "2026-10-24T14:01:08.723Z",
+    "pedidos": [
+      {
+        "id": "2000018984397948",
+        "data": "2026-10-14T19:00:03.000-04:00",
+        "total": 74.92,
+        "cancelado": false
+      }
+    ],
+    "nome": "Luzia dos Santos Gonçalves de Moraes",
+    "apelido": "SALU767951",
+    "documento": "05421398633",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "30451237",
+    "endereco": "Rua Marcelo de Araújo Braga, 930, São Jorge I, 930 Referencia: em frente um campinho de terra o endereço é em uma loja e tem uma placa escrito Luzia Cakes",
+    "cidade": "Belo Horizonte",
+    "uf": "MG",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8z092168",
+    "mlId": "3034217749",
+    "criado": "2026-10-24T14:01:08.723Z",
+    "pedidos": [
+      {
+        "id": "2000018983499742",
+        "data": "2026-10-14T18:11:55.000-04:00",
+        "total": 99.17,
+        "cancelado": false
+      }
+    ],
+    "nome": "Gisele Almeida",
+    "apelido": "G20251202052342",
+    "documento": "36039669888",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "18702597",
+    "endereco": "Rua Caetano Luchesi Filho, 600, Jardim Paraíso, mercadinho Referencia: Caetano lucchesi filho  número 600",
+    "cidade": "Avaré",
+    "uf": "SP",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8zaeea10",
+    "mlId": "1053471749",
+    "criado": "2026-10-24T14:01:08.723Z",
+    "pedidos": [
+      {
+        "id": "2000018983044704",
+        "data": "2026-10-14T17:45:05.000-04:00",
+        "total": 99.17,
+        "cancelado": false
+      }
+    ],
+    "nome": "Robson Ferreira Pereira",
+    "apelido": "FERREIRAROBSON20220108203336",
+    "documento": "01739647530",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "41297355",
+    "endereco": "Estrada da Iasa, 434, Pirajá, Sola vista mar 3 104",
+    "cidade": "Salvador",
+    "uf": "BA",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8zab7600",
+    "mlId": "2675749934",
+    "criado": "2026-10-24T14:01:08.723Z",
+    "pedidos": [
+      {
+        "id": "2000018982914064",
+        "data": "2026-10-14T17:36:30.000-04:00",
+        "total": 39.5,
+        "cancelado": false
+      }
+    ],
+    "nome": "Regina Nicolosi",
+    "apelido": "RM20250906083036",
+    "documento": "11576173879",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "05414025",
+    "endereco": "Rua Francisco Leitão, 436, Pinheiros, bloco 1 - ap 123",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8z518e6a",
+    "mlId": "1086311641",
+    "criado": "2026-10-24T14:01:08.723Z",
+    "pedidos": [
+      {
+        "id": "2000018981974822",
+        "data": "2026-10-14T16:43:53.000-04:00",
+        "total": 61.46,
+        "cancelado": false
+      }
+    ],
+    "nome": "Lucio Jean Mendes Neris",
+    "apelido": "MENDESLUCIO20220308165444",
+    "documento": "10280597959",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "89862000",
+    "endereco": "Rua 19 de Julho, 605, Centro, Sala 1 sentro entrer Referencia: Posto de gasolina",
+    "cidade": "Entre Rios",
+    "uf": "SC",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8z8b2bdc",
+    "mlId": "605186346",
+    "criado": "2026-10-24T14:01:08.723Z",
+    "pedidos": [
+      {
+        "id": "2000018981886924",
+        "data": "2026-10-14T16:39:08.000-04:00",
+        "total": 99,
+        "cancelado": false
+      }
+    ],
+    "nome": "Tony Americo da Silva",
+    "apelido": "TONYAMERICO",
+    "documento": "22179099835",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "07856260",
+    "endereco": "Rua Antônio Nascimento, 213, Parque Vitória, Casa",
+    "cidade": "Franco da Rocha",
+    "uf": "SP",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8z4929c7",
+    "mlId": "3766219076",
+    "criado": "2026-10-24T14:01:08.723Z",
+    "pedidos": [
+      {
+        "id": "2000018981709232",
+        "data": "2026-10-14T16:27:47.000-04:00",
+        "total": 99,
+        "cancelado": false
+      }
+    ],
+    "nome": "Marcel Martins Gonçalves",
+    "apelido": "MM20261014160849535",
+    "documento": "01770779051",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "90680340",
+    "endereco": "Rua Cristian Furik, 160, Partenon, Referencia: Esquina",
+    "cidade": "Porto Alegre",
+    "uf": "RS",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8z212f84",
+    "mlId": "801458154",
+    "criado": "2026-10-24T14:01:08.723Z",
+    "pedidos": [
+      {
+        "id": "2000018979871844",
+        "data": "2026-10-14T14:49:32.000-04:00",
+        "total": 99,
+        "cancelado": false
+      }
+    ],
+    "nome": "Raimundo Ancelmo Mendes",
+    "apelido": "RAIMUNDOANCELMOMENDES",
+    "documento": "67433634215",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "65590000",
+    "endereco": "Rua Paulino neves, 20, Outro, Saindo da Br lado es",
+    "cidade": "Barreirinhas",
+    "uf": "MA",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8z73d567",
+    "mlId": "192903796",
+    "criado": "2026-10-24T14:01:08.723Z",
+    "pedidos": [
+      {
+        "id": "2000018979629462",
+        "data": "2026-10-14T14:37:53.000-04:00",
+        "total": 66.4,
+        "cancelado": false
+      }
+    ],
+    "nome": "Sidinei Pantaleao da Silva",
+    "apelido": "VOLMIRPANTALEAO",
+    "documento": "09959803902",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "89981000",
+    "endereco": "Rua Professor Hugo Ropke, 456, Centro, Casa amaron Referencia: Casa amaron caixa de água na frente",
+    "cidade": "Saltinho",
+    "uf": "SC",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8z94f4ea",
+    "mlId": "604728763",
+    "criado": "2026-10-24T14:01:08.723Z",
+    "pedidos": [
+      {
+        "id": "2000018978957206",
+        "data": "2026-10-14T14:00:56.000-04:00",
+        "total": 61.46,
+        "cancelado": false
+      }
+    ],
+    "nome": "Ruan Nascimento Rodrigues",
+    "apelido": "NARU9439849",
+    "documento": "10838366333",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "61884292",
+    "endereco": "Rua Local SDO 13, 291, Gereraú, Apt 102 Referencia: Apartamento 102 ligar para mim por favor 85989579953",
+    "cidade": "Itaitinga",
+    "uf": "CE",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8z74e01d",
+    "mlId": "380319773",
+    "criado": "2026-10-24T14:01:08.723Z",
+    "pedidos": [
+      {
+        "id": "2000018977549344",
+        "data": "2026-10-14T12:50:57.000-04:00",
+        "total": 49.9,
+        "cancelado": false
+      }
+    ],
+    "nome": "LUIS HENRIQUE ARAUJO MOTA",
+    "apelido": "LHMOTA869",
+    "documento": "02723696677",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "37934078",
+    "endereco": "Rua Bossuet Costa, 323, Centro",
+    "cidade": "Piumhi",
+    "uf": "MG",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8zc7dbeb",
+    "mlId": "3148015875",
+    "criado": "2026-10-24T14:01:08.723Z",
+    "pedidos": [
+      {
+        "id": "2000018977539586",
+        "data": "2026-10-14T12:50:40.000-04:00",
+        "total": 61.46,
+        "cancelado": false
+      }
+    ],
+    "nome": "Leonir Aparecido da costa",
+    "apelido": "L20260120184537",
+    "documento": "07763690917",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "85888000",
+    "endereco": "Rua Florianópolis, 310, Centro, 310 Referencia: Au lado do mercado gabiatti",
+    "cidade": "Ramilândia",
+    "uf": "PR",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8z444e5f",
+    "mlId": "1975106422",
+    "criado": "2026-10-24T14:01:08.723Z",
+    "pedidos": [
+      {
+        "id": "2000018977208994",
+        "data": "2026-10-14T12:33:46.000-04:00",
+        "total": 26.9,
+        "cancelado": false
+      }
+    ],
+    "nome": "Rosineide Rocha da Cruz Queiroz",
+    "apelido": "CR20240902201938",
+    "documento": "56719094491",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "59258000",
+    "endereco": "Rua Manoel Joaquim de Souza 57, 217, Centro, Em frente a pref Referencia: Quase em frente a prefeitura, primeiro andar \nFrente de pedra escura",
+    "cidade": "Serrinha",
+    "uf": "RN",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8z4c8fae",
+    "mlId": "196538333",
+    "criado": "2026-10-24T14:01:08.723Z",
+    "pedidos": [
+      {
+        "id": "2000018976678622",
+        "data": "2026-10-14T12:06:42.000-04:00",
+        "total": 61.46,
+        "cancelado": false
+      }
+    ],
+    "nome": "Josiane Martins Macena",
+    "apelido": "MODAFEMINAEMASCULINA",
+    "documento": "41568515839",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "18123899",
+    "endereco": "Rua tico tico, 8196, Área Rural de Mairinque, Casa portão vermelho Referencia: Ao lado da linha do trem, Referência Estação engenheiro Acrísio.",
+    "cidade": "Mairinque",
+    "uf": "SP",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8z834409",
+    "mlId": "2716377045",
+    "criado": "2026-10-24T14:01:08.723Z",
+    "pedidos": [
+      {
+        "id": "2000018975789170",
+        "data": "2026-10-14T11:21:27.000-04:00",
+        "total": 61.46,
+        "cancelado": false
+      }
+    ],
+    "nome": "Francisco Deassis Santana",
+    "apelido": "F20250929202945",
+    "documento": "05223427360",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "74970620",
+    "endereco": "Rua Guará, SN, Colina Azul, Qd 15 LT 10 Referencia: Creche crescendo na luz",
+    "cidade": "Aparecida de Goiânia",
+    "uf": "GO",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8z794a16",
+    "mlId": "669180517",
+    "criado": "2026-10-24T14:01:08.723Z",
+    "pedidos": [
+      {
+        "id": "2000018975529820",
+        "data": "2026-10-14T11:08:27.000-04:00",
+        "total": 64.6,
+        "cancelado": false
+      }
+    ],
+    "nome": "Pedro Muriel Souza Moura",
+    "apelido": "PEDROMURIELSOUZAMOURAMURIEL",
+    "documento": "70970887108",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "75132194",
+    "endereco": "Rua 03, 05, Residencial do Cerrado, Qd 10 Lt 05 Referencia: Quase em frente ao seu Zé supermercado",
+    "cidade": "Anápolis",
+    "uf": "GO",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8z6e392b",
+    "mlId": "160260129",
+    "criado": "2026-10-24T14:01:08.723Z",
+    "pedidos": [
+      {
+        "id": "2000018974702926",
+        "data": "2026-10-14T10:23:54.000-04:00",
+        "total": 58.34,
+        "cancelado": false
+      }
+    ],
+    "nome": "Thiago Costa Geremias",
+    "apelido": "KATIUSKAGONÇALVES",
+    "documento": "00758425058",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "88745000",
+    "endereco": "Rua Enedina de Souza Bento, 210, Centro, Vila flor,",
+    "cidade": "Capivari de Baixo",
+    "uf": "SC",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8zd5ba7c",
+    "mlId": "2308895495",
+    "criado": "2026-10-24T14:01:08.723Z",
+    "pedidos": [
+      {
+        "id": "2000018973999618",
+        "data": "2026-10-14T09:49:18.000-04:00",
+        "total": 93.26,
+        "cancelado": false
+      }
+    ],
+    "nome": "José Mateus da Silva",
+    "apelido": "JM20250307115620",
+    "documento": "13126047432",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "38175000",
+    "endereco": "Rua das Hortências, 80, Outro, Casa Referencia: Bairro primavera",
+    "cidade": "Santa Juliana",
+    "uf": "MG",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8zf81d02",
+    "mlId": "284931511",
+    "criado": "2026-10-24T14:01:08.723Z",
+    "pedidos": [
+      {
+        "id": "2000018972819888",
+        "data": "2026-10-14T08:36:27.000-04:00",
+        "total": 159.9,
+        "cancelado": true
+      }
+    ],
+    "nome": "",
+    "apelido": "RAVA461852",
+    "documento": "60021900663",
+    "telefone": "",
+    "telefone2": "",
+    "email": "",
+    "cep": "",
+    "endereco": "",
+    "cidade": "",
+    "uf": "",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn8z53b0e8",
+    "mlId": "337675286",
+    "criado": "2026-10-24T14:01:08.723Z",
+    "pedidos": [
+      {
+        "id": "2000018972546840",
+        "data": "2026-10-14T08:15:28.000-04:00",
+        "total": 78.84,
+        "cancelado": false
+      }
+    ],
+    "nome": "tays lima de sousa",
+    "apelido": "LITA742636",
+    "documento": "62390575331",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "68632000",
+    "endereco": "Rua Aracajú, 477, Resende 2, frente ao açaí Geova Referencia: próx ao Araguaia supermercado matrix",
+    "cidade": "Ulianópolis",
+    "uf": "PA",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn90c3fbee",
+    "mlId": "393512395",
+    "criado": "2026-10-24T14:01:08.724Z",
+    "pedidos": [
+      {
+        "id": "2000018972112196",
+        "data": "2026-10-14T07:42:02.000-04:00",
+        "total": 88.6,
+        "cancelado": false
+      }
+    ],
+    "nome": "Eliete da Silva Mendes",
+    "apelido": "ELIETESILVAMENDES",
+    "documento": "82085854168",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "78710390",
+    "endereco": "Avenida Kamal Jumblat, 603, Loteamento Monte Líbano, Referencia: ao lado da casa de carne Lá costela",
+    "cidade": "Rondonópolis",
+    "uf": "MT",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn90f4a93d",
+    "mlId": "2306566330",
+    "criado": "2026-10-24T14:01:08.724Z",
+    "pedidos": [
+      {
+        "id": "2000018971826570",
+        "data": "2026-10-14T07:16:58.000-04:00",
+        "total": 88.6,
+        "cancelado": false
+      }
+    ],
+    "nome": "Tiago Pedro da Silva",
+    "apelido": "PT20250304211507",
+    "documento": "04805227400",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "58315000",
+    "endereco": "Avenida Davi de Souza Falcão, 537, Centro, próximo ao salão",
+    "cidade": "Lucena",
+    "uf": "PB",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn906f53a7",
+    "mlId": "539674281",
+    "criado": "2026-10-24T14:01:08.724Z",
+    "pedidos": [
+      {
+        "id": "2000018971750906",
+        "data": "2026-10-14T07:08:53.000-04:00",
+        "total": 99,
+        "cancelado": false
+      }
+    ],
+    "nome": "Dagimalez Silva",
+    "apelido": "DAGIMALEZSILVA",
+    "documento": "06218793559",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "46765000",
+    "endereco": "Machado de Assis, SN, Centro, Casa Referencia: Final da ciclovia Entrada da estrada pra Malhada de Areia.",
+    "cidade": "Piatã",
+    "uf": "BA",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn909ccf3b",
+    "mlId": "257882691",
+    "criado": "2026-10-24T14:01:08.724Z",
+    "pedidos": [
+      {
+        "id": "2000018971362206",
+        "data": "2026-10-14T06:19:27.000-04:00",
+        "total": 78.84,
+        "cancelado": false
+      }
+    ],
+    "nome": "Emilene Schwengber Torres Rodrigues",
+    "apelido": "TOEM3438375",
+    "documento": "00248825003",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "96450000",
+    "endereco": "Rua Saturnino Lópes, 3371, Dom Pedrito",
+    "cidade": "Dom Pedrito",
+    "uf": "RS",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn90dd75d0",
+    "mlId": "599920181",
+    "criado": "2026-10-24T14:01:08.724Z",
+    "pedidos": [
+      {
+        "id": "2000018971303420",
+        "data": "2026-10-14T06:15:47.000-04:00",
+        "total": 88.6,
+        "cancelado": false
+      }
+    ],
+    "nome": "Isabel Cristina Martins dos Santos",
+    "apelido": "DOSSANTOSISABELCRISTINAMART",
+    "documento": "32941996869",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "13173295",
+    "endereco": "Rua das Palmeiras, 285, Jardim Basilicata",
+    "cidade": "Sumaré",
+    "uf": "SP",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn90c68a64",
+    "mlId": "1350255",
+    "criado": "2026-10-24T14:01:08.724Z",
+    "pedidos": [
+      {
+        "id": "2000018970699364",
+        "data": "2026-10-14T02:52:49.000-04:00",
+        "total": 159.9,
+        "cancelado": false
+      }
+    ],
+    "nome": "TATIANA CORREIA DE OLIVEIRA",
+    "apelido": "TATIANACORREIADEOLIVEIRA",
+    "documento": "10071841750",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "29480000",
+    "endereco": "Avenida José Paiva, 201, Centro, Em cima do bar Nery  Referencia: Rua do ginásio de esportes, Boa Esperança",
+    "cidade": "Muqui",
+    "uf": "ES",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn908526c3",
+    "mlId": "2257722238",
+    "criado": "2026-10-24T14:01:08.724Z",
+    "pedidos": [
+      {
+        "id": "2000018969868708",
+        "data": "2026-10-14T00:11:02.000-04:00",
+        "total": 57.43,
+        "cancelado": false
+      }
+    ],
+    "nome": "Lincoln Sinaga Ventura",
+    "apelido": "LS20250207163928",
+    "documento": "53183592134",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "78210250",
+    "endereco": "Rua Comandante Balduíno, 906, Centro, Referencia: Após o Lava jato",
+    "cidade": "Cáceres",
+    "uf": "MT",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn90a61914",
+    "mlId": "1257311435",
+    "criado": "2026-10-24T14:01:08.724Z",
+    "pedidos": [
+      {
+        "id": "2000018968950066",
+        "data": "2026-10-13T22:41:06.000-04:00",
+        "total": 56.63,
+        "cancelado": false
+      }
+    ],
+    "nome": "Naelson Calmon Guimaraes",
+    "apelido": "CALMONNAELSON20221207084714",
+    "documento": "98717340500",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "46054810",
+    "endereco": "Rua Divino Lar, 62, Frei Calixto, casa Referencia: rua divino lar ..ponto final mercado do povo - rua divino lar nmero 62",
+    "cidade": "Porto Seguro",
+    "uf": "BA",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn901b6c31",
+    "mlId": "531886049",
+    "criado": "2026-10-24T14:01:08.724Z",
+    "pedidos": [
+      {
+        "id": "2000018968808680",
+        "data": "2026-10-13T22:31:28.000-04:00",
+        "total": 55.36,
+        "cancelado": false
+      }
+    ],
+    "nome": "Carlos Roberto Gomes Da Rocha",
+    "apelido": "CARLOSECLEBIA",
+    "documento": "60183578104",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "73930000",
+    "endereco": "Rua 11 Qd-07 Lt 01A, SN, Centro, Atrás da Rodoviária Referencia: Portão brando, parede com revestimento ( cerâmica ) marrom.",
+    "cidade": "Simolândia",
+    "uf": "GO",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn90647f49",
+    "mlId": "693905876",
+    "criado": "2026-10-24T14:01:08.724Z",
+    "pedidos": [
+      {
+        "id": "2000018968378832",
+        "data": "2026-10-13T22:02:40.000-04:00",
+        "total": 56.9,
+        "cancelado": false
+      }
+    ],
+    "nome": "dalmir Becker Junior nacimento",
+    "apelido": "BEJU5098726",
+    "documento": "00442352085",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "98015280",
+    "endereco": "Rua Assis Brasil, 871, Lizabel, casa",
+    "cidade": "Cruz Alta",
+    "uf": "RS",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn901f3929",
+    "mlId": "3212636849",
+    "criado": "2026-10-24T14:01:08.724Z",
+    "pedidos": [
+      {
+        "id": "2000018968221590",
+        "data": "2026-10-13T21:53:33.000-04:00",
+        "total": 55.36,
+        "cancelado": true
+      }
+    ],
+    "nome": "",
+    "apelido": "JONASMARCELODEMIRANDA",
+    "documento": "14108531876",
+    "telefone": "",
+    "telefone2": "",
+    "email": "",
+    "cep": "",
+    "endereco": "",
+    "cidade": "",
+    "uf": "",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn9018931e",
+    "mlId": "316606323",
+    "criado": "2026-10-24T14:01:08.724Z",
+    "pedidos": [
+      {
+        "id": "2000018968198140",
+        "data": "2026-10-13T21:50:44.000-04:00",
+        "total": 78.84,
+        "cancelado": false
+      }
+    ],
+    "nome": "Welison Dias",
+    "apelido": "WELISONDIAS42",
+    "documento": "70690328117",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "75903680",
+    "endereco": "Rua 9, SN, São Joaquim, Rua 9 qd 4  lote F Referencia: Bairro São Joaquim \nRua 9 qd 4 lote F\nCasa A no sobrado portão preto frente branca",
+    "cidade": "Rio Verde",
+    "uf": "GO",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn908379c9",
+    "mlId": "2509390583",
+    "criado": "2026-10-24T14:01:08.724Z",
+    "pedidos": [
+      {
+        "id": "2000018968170018",
+        "data": "2026-10-13T21:48:55.000-04:00",
+        "total": 55.36,
+        "cancelado": true
+      }
+    ],
+    "nome": "",
+    "apelido": "G20250622190822",
+    "documento": "11007879505",
+    "telefone": "",
+    "telefone2": "",
+    "email": "",
+    "cep": "",
+    "endereco": "",
+    "cidade": "",
+    "uf": "",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn90b27112",
+    "mlId": "394822980",
+    "criado": "2026-10-24T14:01:08.724Z",
+    "pedidos": [
+      {
+        "id": "2000018968009152",
+        "data": "2026-10-13T21:41:32.000-04:00",
+        "total": 88.6,
+        "cancelado": false
+      }
+    ],
+    "nome": "aislan negreiros",
+    "apelido": "AISLANNEGREIROS1102",
+    "documento": "05209562301",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "65870000",
+    "endereco": "Avenida João Pessoa, 674, São José, minha residência",
+    "cidade": "Pastos Bons",
+    "uf": "MA",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn90805d5f",
+    "mlId": "592670527",
+    "criado": "2026-10-24T14:01:08.724Z",
+    "pedidos": [
+      {
+        "id": "2000018967207788",
+        "data": "2026-10-13T20:58:05.000-04:00",
+        "total": 58.24,
+        "cancelado": false
+      }
+    ],
+    "nome": "Helena Soares Carvalho",
+    "apelido": "EVELLYNERICK",
+    "documento": "00234657278",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "66625005",
+    "endereco": "Rua Beija-Flor, 02, Cabanagem, quandra 179 Referencia: atrás do galpão",
+    "cidade": "Belém",
+    "uf": "PA",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn90e8f4e3",
+    "mlId": "635780196",
+    "criado": "2026-10-24T14:01:08.724Z",
+    "pedidos": [
+      {
+        "id": "2000018966756860",
+        "data": "2026-10-13T20:33:18.000-04:00",
+        "total": 39.5,
+        "cancelado": false
+      }
+    ],
+    "nome": "valdeir Borges Marques",
+    "apelido": "VALDEIRBORGESMARQUES",
+    "documento": "76150070115",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "75091350",
+    "endereco": "Rua MN 19, 8, Residencial Morada Nova, Referencia: Rua Mn 19 qd 15",
+    "cidade": "Anápolis",
+    "uf": "GO",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn909b4825",
+    "mlId": "514548648",
+    "criado": "2026-10-24T14:01:08.724Z",
+    "pedidos": [
+      {
+        "id": "2000018966651110",
+        "data": "2026-10-13T20:28:20.000-04:00",
+        "total": 55.36,
+        "cancelado": false
+      }
+    ],
+    "nome": "José Alves dos Santos Júnior",
+    "apelido": "ALJ5314878",
+    "documento": "08517890485",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "89132899",
+    "endereco": "estrada geral do arataca, SN, Área Rural, casa Referencia: trabalho com Guido schappo",
+    "cidade": "Luiz Alves",
+    "uf": "SC",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn909219af",
+    "mlId": "1658413373",
+    "criado": "2026-10-24T14:01:08.724Z",
+    "pedidos": [
+      {
+        "id": "2000018966501402",
+        "data": "2026-10-13T20:21:12.000-04:00",
+        "total": 55.36,
+        "cancelado": false
+      }
+    ],
+    "nome": "Patrícia Soares Gomes",
+    "apelido": "SOPA20240129205017",
+    "documento": "04756399444",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "12263899",
+    "endereco": "Tamoios quilômetro 60 pavoeiro, SN, Área Rural de Paraibuna, Posto do espigão res Referencia: restaurante espigão tamoios quilômetro 60 zona rural .",
+    "cidade": "Paraibuna",
+    "uf": "SP",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn90160027",
+    "mlId": "223369403",
+    "criado": "2026-10-24T14:01:08.724Z",
+    "pedidos": [
+      {
+        "id": "2000018966510214",
+        "data": "2026-10-13T20:20:19.000-04:00",
+        "total": 58.24,
+        "cancelado": false
+      }
+    ],
+    "nome": "Denis Pereira Dos Santos",
+    "apelido": "PEDE4206974",
+    "documento": "05118046602",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "30770550",
+    "endereco": "Rua Belmiro Braga, 1371, Caiçaras, Loja",
+    "cidade": "Belo Horizonte",
+    "uf": "MG",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn90bde570",
+    "mlId": "204526486",
+    "criado": "2026-10-24T14:01:08.724Z",
+    "pedidos": [
+      {
+        "id": "2000018966462824",
+        "data": "2026-10-13T20:18:05.000-04:00",
+        "total": 55.36,
+        "cancelado": false
+      }
+    ],
+    "nome": "Cinara Caterine Dias",
+    "apelido": "DIASCINARACATERINE",
+    "documento": "05940100635",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "33927017",
+    "endereco": "Rua Vinte e Um, 227, Severina, Bairro Severina",
+    "cidade": "Ribeirão das Neves",
+    "uf": "MG",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn909a0e56",
+    "mlId": "277744097",
+    "criado": "2026-10-24T14:01:08.724Z",
+    "pedidos": [
+      {
+        "id": "2000018966418272",
+        "data": "2026-10-13T20:15:33.000-04:00",
+        "total": 74.92,
+        "cancelado": false
+      }
+    ],
+    "nome": "Esposa Cláudia",
+    "apelido": "BARBOSALUIZCARLOSMARTINSBAR",
+    "documento": "16796110200",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "68440426",
+    "endereco": "Rua Haroldo Araujo, 1919, Aviação",
+    "cidade": "Abaetetuba",
+    "uf": "PA",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn90c86b34",
+    "mlId": "62698593",
+    "criado": "2026-10-24T14:01:08.724Z",
+    "pedidos": [
+      {
+        "id": "2000018966206508",
+        "data": "2026-10-13T20:05:17.000-04:00",
+        "total": 55.36,
+        "cancelado": true
+      }
+    ],
+    "nome": "",
+    "apelido": "DJANILTONOLIVEIRA",
+    "documento": "07670930896",
+    "telefone": "",
+    "telefone2": "",
+    "email": "",
+    "cep": "",
+    "endereco": "",
+    "cidade": "",
+    "uf": "",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn90f5f287",
+    "mlId": "1420806011",
+    "criado": "2026-10-24T14:01:08.724Z",
+    "pedidos": [
+      {
+        "id": "2000018965979240",
+        "data": "2026-10-13T19:53:46.000-04:00",
+        "total": 78.84,
+        "cancelado": true
+      }
+    ],
+    "nome": "",
+    "apelido": "FERNANDOLUIS20230711210147",
+    "documento": "16296976488",
+    "telefone": "",
+    "telefone2": "",
+    "email": "",
+    "cep": "",
+    "endereco": "",
+    "cidade": "",
+    "uf": "",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn905e30c0",
+    "mlId": "2568015267",
+    "criado": "2026-10-24T14:01:08.724Z",
+    "pedidos": [
+      {
+        "id": "2000018965830388",
+        "data": "2026-10-13T19:45:40.000-04:00",
+        "total": 88.6,
+        "cancelado": false
+      }
+    ],
+    "nome": "Jobson passarinho",
+    "apelido": "J20250720091622",
+    "documento": "36552917368",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "65907200",
+    "endereco": "Rua Floriano Peixoto, 2000, Nova Imperatriz, Enfrente quebra mola Referencia: Rua Floriano Peixoto, 2000 Sub esquina com a rua Mirador, bairro nova imperatriz casa do muro marrom com portões da cor pr",
+    "cidade": "Imperatriz",
+    "uf": "MA",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn90c9cceb",
+    "mlId": "554454739",
+    "criado": "2026-10-24T14:01:08.724Z",
+    "pedidos": [
+      {
+        "id": "2000018965637862",
+        "data": "2026-10-13T19:36:54.000-04:00",
+        "total": 55.36,
+        "cancelado": false
+      }
+    ],
+    "nome": "Pedro Suosa Queiroz",
+    "apelido": "SOPE6102484",
+    "documento": "05378909392",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "65990000",
+    "endereco": "Rua Trinta e Um de Dezembro, 457, Centro",
+    "cidade": "Riachão",
+    "uf": "MA",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn90ecfed5",
+    "mlId": "232556028",
+    "criado": "2026-10-24T14:01:08.724Z",
+    "pedidos": [
+      {
+        "id": "2000018965550920",
+        "data": "2026-10-13T19:31:00.000-04:00",
+        "total": 26.9,
+        "cancelado": false
+      }
+    ],
+    "nome": "Maria Madalena Dos Santos",
+    "apelido": "SARU6234421",
+    "documento": "05794690852",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "12414160",
+    "endereco": "AVENIDA SÃO PAULO, 347, Cidade Nova, loja ELITE EMBALAGENS",
+    "cidade": "Pindamonhangaba",
+    "uf": "SP",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn9013a289",
+    "mlId": "3332955902",
+    "criado": "2026-10-24T14:01:08.724Z",
+    "pedidos": [
+      {
+        "id": "2000018965337414",
+        "data": "2026-10-13T19:20:33.000-04:00",
+        "total": 78.84,
+        "cancelado": false
+      }
+    ],
+    "nome": "Ademar Ribeiro",
+    "apelido": "AP20260412180617",
+    "documento": "10382387651",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "35040845",
+    "endereco": "Rua L, 20, Vila União Penha",
+    "cidade": "Governador Valadares",
+    "uf": "MG",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn904ac094",
+    "mlId": "770137658",
+    "criado": "2026-10-24T14:01:08.725Z",
+    "pedidos": [
+      {
+        "id": "2000018965134030",
+        "data": "2026-10-13T19:08:53.000-04:00",
+        "total": 56.63,
+        "cancelado": false
+      }
+    ],
+    "nome": "Joao vitor rodrigues da silva",
+    "apelido": "RODRIGUESJOAO20220402002353",
+    "documento": "50391503855",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "12603010",
+    "endereco": "Avenida Francisco de Paula Brasil, 915, Vila Nunes, Casa marrom",
+    "cidade": "Lorena",
+    "uf": "SP",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn91ff0e50",
+    "mlId": "281687468",
+    "criado": "2026-10-24T14:01:08.725Z",
+    "pedidos": [
+      {
+        "id": "2000018964955142",
+        "data": "2026-10-13T19:01:12.000-04:00",
+        "total": 74,
+        "cancelado": false
+      }
+    ],
+    "nome": "Diego Liborio",
+    "apelido": "LIBORIODIEGOLIBORIODIEGO",
+    "documento": "07083112967",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "87300005",
+    "endereco": "Avenida Capitão Índio Bandeira, 2221, Centro, Sorveteria Big Referencia: Sorveteria New Big",
+    "cidade": "Campo Mourão",
+    "uf": "PR",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn91bdbb9d",
+    "mlId": "2296363013",
+    "criado": "2026-10-24T14:01:08.725Z",
+    "pedidos": [
+      {
+        "id": "2000018964871732",
+        "data": "2026-10-13T18:57:42.000-04:00",
+        "total": 55.36,
+        "cancelado": true
+      }
+    ],
+    "nome": "",
+    "apelido": "JD20250301080151",
+    "documento": "82417130025",
+    "telefone": "",
+    "telefone2": "",
+    "email": "",
+    "cep": "",
+    "endereco": "",
+    "cidade": "",
+    "uf": "",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn910fa496",
+    "mlId": "371465253",
+    "criado": "2026-10-24T14:01:08.725Z",
+    "pedidos": [
+      {
+        "id": "2000018964862652",
+        "data": "2026-10-13T18:54:47.000-04:00",
+        "total": 78.84,
+        "cancelado": false
+      }
+    ],
+    "nome": "Maria José barbosa da silva",
+    "apelido": "NANHASILVA",
+    "documento": "05868829441",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "09973310",
+    "endereco": "Rua dos Cedros, 140, Eldorado, casa",
+    "cidade": "Diadema",
+    "uf": "SP",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn91bbb67e",
+    "mlId": "43095399",
+    "criado": "2026-10-24T14:01:08.725Z",
+    "pedidos": [
+      {
+        "id": "2000018964670608",
+        "data": "2026-10-13T18:44:59.000-04:00",
+        "total": 113.26,
+        "cancelado": false
+      },
+      {
+        "id": "2000018964668812",
+        "data": "2026-10-13T18:44:59.000-04:00",
+        "total": 407.68,
+        "cancelado": false
+      }
+    ],
+    "nome": "Pedro Henrique Ferreira Portugal",
+    "apelido": "PHFPORTUGAL",
+    "documento": "11447496701",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "22630013",
+    "endereco": "Avenida Lúcio Costa, 6450, Barra da Tijuca, Alphabarra 1 Referencia: Fullpack ( dentro do AlphaBarra)",
+    "cidade": "Rio de Janeiro",
+    "uf": "RJ",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn91593c76",
+    "mlId": "2677841448",
+    "criado": "2026-10-24T14:01:08.725Z",
+    "pedidos": [
+      {
+        "id": "2000018964620928",
+        "data": "2026-10-13T18:42:51.000-04:00",
+        "total": 88.6,
+        "cancelado": false
+      }
+    ],
+    "nome": "Paulo adriano",
+    "apelido": "P20250907120630",
+    "documento": "76962261349",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "04236110",
+    "endereco": "Rua Moradores Batalhadores, 7, Cidade Nova Heliópolis, Casa",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn9177b89c",
+    "mlId": "691801169",
+    "criado": "2026-10-24T14:01:08.725Z",
+    "pedidos": [
+      {
+        "id": "2000018964572602",
+        "data": "2026-10-13T18:40:29.000-04:00",
+        "total": 56.63,
+        "cancelado": false
+      }
+    ],
+    "nome": "João Lucas Mocelim",
+    "apelido": "JOOLUCASMOCELIM",
+    "documento": "12936887976",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "84450000",
+    "endereco": "Rua XV de Novembro, 23, Centro, supermercado",
+    "cidade": "Ipiranga",
+    "uf": "PR",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn914a8935",
+    "mlId": "588915535",
+    "criado": "2026-10-24T14:01:08.725Z",
+    "pedidos": [
+      {
+        "id": "2000018964061850",
+        "data": "2026-10-13T18:12:58.000-04:00",
+        "total": 55.36,
+        "cancelado": false
+      }
+    ],
+    "nome": "Gilda Aparecida Kalffmam Souza Alvarenga",
+    "apelido": "GILDAAPARECIDAKALFFMAM",
+    "documento": "16151133714",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "29130074",
+    "endereco": "Rua Sebastião Barcellos do Nascimento, SN, Centro, Rua do Campo Aliança Referencia: Depois da oficina segunda casa. Casa cinza segundo andar",
+    "cidade": "Viana",
+    "uf": "ES",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn919bc27c",
+    "mlId": "1303900546",
+    "criado": "2026-10-24T14:01:08.725Z",
+    "pedidos": [
+      {
+        "id": "2000018963568744",
+        "data": "2026-10-13T17:45:45.000-04:00",
+        "total": 55.08,
+        "cancelado": false
+      }
+    ],
+    "nome": "Luani Figueira Schneider Andrades",
+    "apelido": "ANDRADESLUANI20230206093339",
+    "documento": "03716650005",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "88350230",
+    "endereco": "Rua Riachuelo, 151, Centro I, apartamento 104 Referencia: atrás do móveis paloscki",
+    "cidade": "Brusque",
+    "uf": "SC",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn9195411d",
+    "mlId": "323023452",
+    "criado": "2026-10-24T14:01:08.725Z",
+    "pedidos": [
+      {
+        "id": "2000018963429378",
+        "data": "2026-10-13T17:39:57.000-04:00",
+        "total": 93.26,
+        "cancelado": false
+      }
+    ],
+    "nome": "Faustuneilson de Almeida Santos",
+    "apelido": "FAUSTUNEILSONDEASANTOSALM",
+    "documento": "24036730568",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "40471410",
+    "endereco": "Rua 20 de Agosto, 70, Lobato, Super barato XANDÃO",
+    "cidade": "Salvador",
+    "uf": "BA",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn91683e98",
+    "mlId": "1984699264",
+    "criado": "2026-10-24T14:01:08.725Z",
+    "pedidos": [
+      {
+        "id": "2000018962767180",
+        "data": "2026-10-13T17:02:17.000-04:00",
+        "total": 93.26,
+        "cancelado": false
+      }
+    ],
+    "nome": "Josivaldo Batista Da Silva",
+    "apelido": "DJ20240909124743",
+    "documento": "02494447127",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "78140050",
+    "endereco": "Rua Heróclito Monteiro, 400, Glória",
+    "cidade": "Várzea Grande",
+    "uf": "MT",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn91184d0b",
+    "mlId": "1459476961",
+    "criado": "2026-10-24T14:01:08.725Z",
+    "pedidos": [
+      {
+        "id": "2000018962498736",
+        "data": "2026-10-13T16:45:43.000-04:00",
+        "total": 55.36,
+        "cancelado": false
+      }
+    ],
+    "nome": "Rejane Maria Lima",
+    "apelido": "MARIAREJANE20230824213651",
+    "documento": "38621523833",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "04163010",
+    "endereco": "Rua Jean de La Huerta, 1149, Vila Brasilina, casa de repouso",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn918c86dd",
+    "mlId": "172583986",
+    "criado": "2026-10-24T14:01:08.725Z",
+    "pedidos": [
+      {
+        "id": "2000018961843310",
+        "data": "2026-10-13T16:10:55.000-04:00",
+        "total": 93.26,
+        "cancelado": false
+      }
+    ],
+    "nome": "Maiara Aparecida Bernardes",
+    "apelido": "BEMA6889271",
+    "documento": "37213445880",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "18770021",
+    "endereco": "Rua Marques do Vale, 166, Centro",
+    "cidade": "Águas de Santa Bárbara",
+    "uf": "SP",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn9169cadb",
+    "mlId": "128969944",
+    "criado": "2026-10-24T14:01:08.725Z",
+    "pedidos": [
+      {
+        "id": "2000018959140816",
+        "data": "2026-10-13T13:48:35.000-04:00",
+        "total": 88.6,
+        "cancelado": false
+      }
+    ],
+    "nome": "Valdeci Aparecido da Silva",
+    "apelido": "SILVAVALDECI23",
+    "documento": "16197485842",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "16402591",
+    "endereco": "Rua Neusa Therezinha Cominetti Gonçalves, 790, Conjunto Habitacional Paulo Freire, Residencia Referencia: residencia",
+    "cidade": "Lins",
+    "uf": "SP",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn9133ec5d",
+    "mlId": "3088128208",
+    "criado": "2026-10-24T14:01:08.725Z",
+    "pedidos": [
+      {
+        "id": "2000018957856858",
+        "data": "2026-10-13T12:43:04.000-04:00",
+        "total": 88.86,
+        "cancelado": false
+      }
+    ],
+    "nome": "Jane credija de Lima bernardino",
+    "apelido": "JC20251222153352",
+    "documento": "07629461488",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "16201417",
+    "endereco": "Rua Felício Migliorini, 1000, Residencial Portal da Pérola II",
+    "cidade": "Birigui",
+    "uf": "SP",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn91ea67a7",
+    "mlId": "54077082",
+    "criado": "2026-10-24T14:01:08.725Z",
+    "pedidos": [
+      {
+        "id": "2000018957094572",
+        "data": "2026-10-13T12:02:27.000-04:00",
+        "total": 78.84,
+        "cancelado": false
+      }
+    ],
+    "nome": "JOSE DA SILVA DE SOUZA",
+    "apelido": "ZEZÃO40",
+    "documento": "24606146249",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "76811025",
+    "endereco": "Estrada Treze de Setembro, 1601, Aeroclube, Casa 3A - Após 14h Referencia: ESTRADA TREZE DE SETEMBRO, 1601\nCasa 3A - Após 14h Ponto de referência: Entrega após 14h - Condomínio San Matheus",
+    "cidade": "Porto Velho",
+    "uf": "RO",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn910dda32",
+    "mlId": "2260364952",
+    "criado": "2026-10-24T14:01:08.725Z",
+    "pedidos": [
+      {
+        "id": "2000018956979870",
+        "data": "2026-10-13T11:59:24.000-04:00",
+        "total": 73.5,
+        "cancelado": false
+      }
+    ],
+    "nome": "Eneide Maria da Conceição Amorim Duarte",
+    "apelido": "EA20250209122943",
+    "documento": "77438639720",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "20970090",
+    "endereco": "Rua Carlos Costa, 25, Riachuelo, casa Referencia: casa amarela",
+    "cidade": "Rio de Janeiro",
+    "uf": "RJ",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn91bcf2df",
+    "mlId": "1350051769",
+    "criado": "2026-10-24T14:01:08.725Z",
+    "pedidos": [
+      {
+        "id": "2000018956838850",
+        "data": "2026-10-13T11:49:49.000-04:00",
+        "total": 78.84,
+        "cancelado": false
+      }
+    ],
+    "nome": "Alessandro batista de sena",
+    "apelido": "ALEXSANDROALEXSANDRO2023041118",
+    "documento": "85190551504",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "44772490",
+    "endereco": "Rua Amélia Rocha, 5, Lage, próximo bar do jeni Referencia: atrás do posto do tico próximo bar de seu Jeni",
+    "cidade": "Pindobaçu",
+    "uf": "BA",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn91d3aa06",
+    "mlId": "64456632",
+    "criado": "2026-10-24T14:01:08.725Z",
+    "pedidos": [
+      {
+        "id": "2000018954953478",
+        "data": "2026-10-13T10:11:15.000-04:00",
+        "total": 39.9,
+        "cancelado": false
+      }
+    ],
+    "nome": "Ana CARLA da Silva Alves",
+    "apelido": "LUZIA HOMEM",
+    "documento": "94408114391",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "74905770",
+    "endereco": "Avenida São Paulo, SN, Vila Brasília, Qd 10 Lt 7 Referencia: TZB",
+    "cidade": "Aparecida de Goiânia",
+    "uf": "GO",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn91087deb",
+    "mlId": "137046786",
+    "criado": "2026-10-24T14:01:08.725Z",
+    "pedidos": [
+      {
+        "id": "2000018954590588",
+        "data": "2026-10-13T09:50:51.000-04:00",
+        "total": 66.4,
+        "cancelado": false
+      }
+    ],
+    "nome": "Rodrigo Caviglione",
+    "apelido": "RODRIGO CAVIGLIONE",
+    "documento": "21452141860",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "15760009",
+    "endereco": "Travessa Ibirá, 25, Centro, Referencia: Não entregar para vizinhos, chamar no whatsapp 17996204610",
+    "cidade": "Urânia",
+    "uf": "SP",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn913c65b6",
+    "mlId": "2018771752",
+    "criado": "2026-10-24T14:01:08.725Z",
+    "pedidos": [
+      {
+        "id": "2000018952688752",
+        "data": "2026-10-13T07:45:38.000-04:00",
+        "total": 59.74,
+        "cancelado": false
+      }
+    ],
+    "nome": "Vilma Teles Martins",
+    "apelido": "VT20241002204724",
+    "documento": "35559099830",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "06145096",
+    "endereco": "Rua da Mina, 27, Conceição, casa Referencia: próximo  ao  posto de saúde  depois do campo de futebol",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn916646a4",
+    "mlId": "1257980429",
+    "criado": "2026-10-24T14:01:08.725Z",
+    "pedidos": [
+      {
+        "id": "2000018952581540",
+        "data": "2026-10-13T07:37:53.000-04:00",
+        "total": 99.17,
+        "cancelado": false
+      }
+    ],
+    "nome": "Rosimeri de Souza Silva",
+    "apelido": "ROSYROSIMERY20221207212522",
+    "documento": "11335715495",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "13886534",
+    "endereco": "Rua Carino José Bernardes, 210, Jardim Ferri",
+    "cidade": "Vargem Grande do Sul",
+    "uf": "SP",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn91c5e22c",
+    "mlId": "278406209",
+    "criado": "2026-10-24T14:01:08.725Z",
+    "pedidos": [
+      {
+        "id": "2000018952443234",
+        "data": "2026-10-13T07:20:09.000-04:00",
+        "total": 69.99,
+        "cancelado": false
+      }
+    ],
+    "nome": "Mauricio Kayser",
+    "apelido": "MAURICIOKAYSER",
+    "documento": "56154410034",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "95768000",
+    "endereco": "Rua dos Imigrantes, 4150, Linha Olinda, Referencia: Casa com porteira de mateira na frente",
+    "cidade": "Linha Nova",
+    "uf": "RS",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn91e7ba2e",
+    "mlId": "246511812",
+    "criado": "2026-10-24T14:01:08.725Z",
+    "pedidos": [
+      {
+        "id": "2000018950512354",
+        "data": "2026-10-12T23:53:56.000-04:00",
+        "total": 58.34,
+        "cancelado": false
+      }
+    ],
+    "nome": "Nabucodonosor Francisco Xavier",
+    "apelido": "NABUCODONOSORFRANCISCOXAVIER",
+    "documento": "35204240888",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "08452385",
+    "endereco": "Rua Caabopoxi, 55, Vila Lourdes, casa 3",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn9151db77",
+    "mlId": "1696370108",
+    "criado": "2026-10-24T14:01:08.725Z",
+    "pedidos": [
+      {
+        "id": "2000018949249870",
+        "data": "2026-10-12T22:08:15.000-04:00",
+        "total": 94.21,
+        "cancelado": false
+      }
+    ],
+    "nome": "Reginaldo Miranda Santos",
+    "apelido": "MIRE20240412053616",
+    "documento": "04773958561",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "42828604",
+    "endereco": "Avenida Beira Mar, 4647, Jauá (Abrantes), cond Saint James Referencia: próximo a barraca do Bahia",
+    "cidade": "Camaçari",
+    "uf": "BA",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn914611de",
+    "mlId": "1207560105",
+    "criado": "2026-10-24T14:01:08.725Z",
+    "pedidos": [
+      {
+        "id": "2000018947742856",
+        "data": "2026-10-12T20:35:01.000-04:00",
+        "total": 59.74,
+        "cancelado": false
+      }
+    ],
+    "nome": "Sandra pereira machado",
+    "apelido": "PEREIRASANDRA20220929062356",
+    "documento": "06237709541",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "45615000",
+    "endereco": "rua Ilhéus centro Buerarema, 139, Centro Buerarema, casa",
+    "cidade": "Buerarema",
+    "uf": "BA",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn9139fbb5",
+    "mlId": "764706042",
+    "criado": "2026-10-24T14:01:08.725Z",
+    "pedidos": [
+      {
+        "id": "2000018947549992",
+        "data": "2026-10-12T20:27:38.000-04:00",
+        "total": 94.21,
+        "cancelado": false
+      }
+    ],
+    "nome": "Alison Natanael Dos Santos",
+    "apelido": "SANTOSSOLDAS92",
+    "documento": "09054486937",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "89199000",
+    "endereco": "10 de maio, SN, Centro, Santos soldas Referencia: Procuras no gps por Santos Soldas",
+    "cidade": "Santa Terezinha",
+    "uf": "SC",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn9183c63f",
+    "mlId": "3702866970",
+    "criado": "2026-10-24T14:01:08.725Z",
+    "pedidos": [
+      {
+        "id": "2000018946453820",
+        "data": "2026-10-12T19:27:49.000-04:00",
+        "total": 99,
+        "cancelado": false
+      }
+    ],
+    "nome": "Dalisson Andrade",
+    "apelido": "DB20260919124655298",
+    "documento": "03849266907",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "84500039",
+    "endereco": "Avenida Vicente Machado, 261, Centro, Referencia: Em frente ao conselho tutelar,  2 andares cinza",
+    "cidade": "Irati",
+    "uf": "PR",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn91287d22",
+    "mlId": "2686924291",
+    "criado": "2026-10-24T14:01:08.726Z",
+    "pedidos": [
+      {
+        "id": "2000018944727190",
+        "data": "2026-10-12T17:51:28.000-04:00",
+        "total": 94.21,
+        "cancelado": false
+      }
+    ],
+    "nome": "Lucas mateo todero",
+    "apelido": "DHGBFDCEA49713",
+    "documento": "11239052901",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "89809506",
+    "endereco": "Avenida Senador Attilio Francisco Xavier Fontana - E, 2747, Efapi, Rio auto center Referencia: Próximo posto gaúcho",
+    "cidade": "Chapecó",
+    "uf": "SC",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn92373c1f",
+    "mlId": "337253405",
+    "criado": "2026-10-24T14:01:08.726Z",
+    "pedidos": [
+      {
+        "id": "2000018942150942",
+        "data": "2026-10-12T15:20:11.000-04:00",
+        "total": 176.88,
+        "cancelado": false
+      }
+    ],
+    "nome": "Ricardo Augusto de Souza galvao",
+    "apelido": "AURI2199406",
+    "documento": "06224374961",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "88160194",
+    "endereco": "Rua Pedro José Hoffmann, 175, Centro, apto 22",
+    "cidade": "Biguaçu",
+    "uf": "SC",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn92d9a65a",
+    "mlId": "1183724959",
+    "criado": "2026-10-24T14:01:08.726Z",
+    "pedidos": [
+      {
+        "id": "2000018940389558",
+        "data": "2026-10-12T13:37:19.000-04:00",
+        "total": 94.21,
+        "cancelado": false
+      }
+    ],
+    "nome": "Claudio Luchesi",
+    "apelido": "LUCHESICLAUDIO20221207130756",
+    "documento": "01290813884",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "02915000",
+    "endereco": "Avenida Paula Ferreira, 89, Freguesia do Ó, bl 03 apto 162",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn920734d9",
+    "mlId": "344469065",
+    "criado": "2026-10-24T14:01:08.726Z",
+    "pedidos": [
+      {
+        "id": "2000018939628012",
+        "data": "2026-10-12T12:50:58.000-04:00",
+        "total": 94.21,
+        "cancelado": false
+      }
+    ],
+    "nome": "maelson Francisco de Lima",
+    "apelido": "MAELSONCAYO124",
+    "documento": "02942079371",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "64645000",
+    "endereco": "Rua do Cruzeiro, SN, Zona Rural, Referencia: Próximo ao comércio de Janduí",
+    "cidade": "Francisco Santos",
+    "uf": "PI",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn92fbfd58",
+    "mlId": "48359200",
+    "criado": "2026-10-24T14:01:08.726Z",
+    "pedidos": [
+      {
+        "id": "2000018938486446",
+        "data": "2026-10-12T11:43:22.000-04:00",
+        "total": 99.17,
+        "cancelado": false
+      }
+    ],
+    "nome": "Delsuk Moreira Lima",
+    "apelido": "DELSUKMORELI",
+    "documento": "17922771568",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "44150000",
+    "endereco": "praça da matriz, 480, centro, ao lado do Açaí Referencia: A/c Dr. Ivanilton\nsegundo andar",
+    "cidade": "Santa Bárbara",
+    "uf": "BA",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn9255fe53",
+    "mlId": "266641150",
+    "criado": "2026-10-24T14:01:08.726Z",
+    "pedidos": [
+      {
+        "id": "2000018937414844",
+        "data": "2026-10-12T10:38:33.000-04:00",
+        "total": 53.8,
+        "cancelado": false
+      }
+    ],
+    "nome": "Sayara R Novak",
+    "apelido": "SAYARAZACHARIAS",
+    "documento": "04873883997",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "81210342",
+    "endereco": "Rua Padre José Kentenich, 900, Campo Comprido, Casa 52",
+    "cidade": "Curitiba",
+    "uf": "PR",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn92ac92d4",
+    "mlId": "339474631",
+    "criado": "2026-10-24T14:01:08.726Z",
+    "pedidos": [
+      {
+        "id": "2000018936869550",
+        "data": "2026-10-12T10:03:28.000-04:00",
+        "total": 74.17,
+        "cancelado": false
+      }
+    ],
+    "nome": "Flaurizia Cardoso Dos Santos",
+    "apelido": "FLAURIZIACARDOSO",
+    "documento": "34326533870",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "06126230",
+    "endereco": "Rua Cleide Imaculada Bueno, 96, Vila Yolanda, casa 3 Referencia: número 96",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn92eced63",
+    "mlId": "446018710",
+    "criado": "2026-10-24T14:01:08.726Z",
+    "pedidos": [
+      {
+        "id": "2000018936702372",
+        "data": "2026-10-12T09:51:54.000-04:00",
+        "total": 58.73,
+        "cancelado": false
+      }
+    ],
+    "nome": "margareth reis",
+    "apelido": "REME3355298",
+    "documento": "55467318004",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "95548000",
+    "endereco": "Avenida Alexandre, 483, Santa Rita",
+    "cidade": "Quintão",
+    "uf": "RS",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn926afd81",
+    "mlId": "776252215",
+    "criado": "2026-10-24T14:01:08.726Z",
+    "pedidos": [
+      {
+        "id": "2000018936262602",
+        "data": "2026-10-12T09:21:31.000-04:00",
+        "total": 37.9,
+        "cancelado": false
+      }
+    ],
+    "nome": "mailson José Ribeiro",
+    "apelido": "RIMA8568575",
+    "documento": "01624030629",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "37537226",
+    "endereco": "Rua Professor Samuel Bruce, 67, Fátima, Referencia: Rua Saml Bruce",
+    "cidade": "Santa Rita do Sapucaí",
+    "uf": "MG",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn926eb407",
+    "mlId": "56977385",
+    "criado": "2026-10-24T14:01:08.726Z",
+    "pedidos": [
+      {
+        "id": "2000018936242422",
+        "data": "2026-10-12T09:18:53.000-04:00",
+        "total": 55.36,
+        "cancelado": false
+      }
+    ],
+    "nome": "Gerson Palhares",
+    "apelido": "GERSONCRISTINA",
+    "documento": "03084586993",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "84285000",
+    "endereco": "Rua Crisântemo, 175, Centro, Jd. Primavera",
+    "cidade": "Figueira",
+    "uf": "PR",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn926951b6",
+    "mlId": "204525552",
+    "criado": "2026-10-24T14:01:08.726Z",
+    "pedidos": [
+      {
+        "id": "2000018935565764",
+        "data": "2026-10-12T08:22:03.000-04:00",
+        "total": 147,
+        "cancelado": false
+      }
+    ],
+    "nome": "Danilo Barreto De Lima",
+    "apelido": "DANILOBARRETODELIMA",
+    "documento": "03482279900",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "84300049",
+    "endereco": "Rua Ana Beje, 670, Centro, TibagiAventuras Referencia: Agência de Turismo TibagiAventuras",
+    "cidade": "Tibagi",
+    "uf": "PR",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn926c305d",
+    "mlId": "225991247",
+    "criado": "2026-10-24T14:01:08.726Z",
+    "pedidos": [
+      {
+        "id": "2000018935246370",
+        "data": "2026-10-12T07:43:46.000-04:00",
+        "total": 55.36,
+        "cancelado": false
+      }
+    ],
+    "nome": "Josiany Balbina da Costa",
+    "apelido": "JOSIANYBALBINA",
+    "documento": "06267209660",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "35330000",
+    "endereco": "Rua dos Amaros, 411, Centro",
+    "cidade": "Inhapim",
+    "uf": "MG",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn92533587",
+    "mlId": "2114858026",
+    "criado": "2026-10-24T14:01:08.726Z",
+    "pedidos": [
+      {
+        "id": "2000018934924282",
+        "data": "2026-10-12T06:54:24.000-04:00",
+        "total": 59.74,
+        "cancelado": false
+      }
+    ],
+    "nome": "Eduardo Gonçalves davila",
+    "apelido": "DE20241123014426",
+    "documento": "29900177800",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "88034496",
+    "endereco": "Rua Eduardo Gonçalves D'Ávila, 130, Itacorubi, academia pratique Referencia: entregar na recepção",
+    "cidade": "Florianópolis",
+    "uf": "SC",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn924513c8",
+    "mlId": "1298522802",
+    "criado": "2026-10-24T14:01:08.726Z",
+    "pedidos": [
+      {
+        "id": "2000018934611520",
+        "data": "2026-10-12T05:40:28.000-04:00",
+        "total": 94.21,
+        "cancelado": false
+      }
+    ],
+    "nome": "Marcio de Andrade Fraga",
+    "apelido": "FRAGAMARCIO20230130102024",
+    "documento": "00708271502",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "49480000",
+    "endereco": "Rua Padre Madeira, 87, Centro, Marcio lava jato Referencia: Segunda rua subindo a creche, casa vizinha a estética automotivo",
+    "cidade": "Simão Dias",
+    "uf": "SE",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn92b4f828",
+    "mlId": "805104540",
+    "criado": "2026-10-24T14:01:08.726Z",
+    "pedidos": [
+      {
+        "id": "2000018933732926",
+        "data": "2026-10-12T00:32:19.000-04:00",
+        "total": 55.36,
+        "cancelado": true
+      }
+    ],
+    "nome": "",
+    "apelido": "PEDRO_FREIREE",
+    "documento": "16585134796",
+    "telefone": "",
+    "telefone2": "",
+    "email": "",
+    "cep": "",
+    "endereco": "",
+    "cidade": "",
+    "uf": "",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn92b5c231",
+    "mlId": "533144205",
+    "criado": "2026-10-24T14:01:08.726Z",
+    "pedidos": [
+      {
+        "id": "2000018933227694",
+        "data": "2026-10-11T23:34:13.000-04:00",
+        "total": 159.9,
+        "cancelado": true
+      }
+    ],
+    "nome": "",
+    "apelido": "STEZKYLUCAS",
+    "documento": "05097733975",
+    "telefone": "",
+    "telefone2": "",
+    "email": "",
+    "cep": "",
+    "endereco": "",
+    "cidade": "",
+    "uf": "",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn9211a311",
+    "mlId": "478529635",
+    "criado": "2026-10-24T14:01:08.726Z",
+    "pedidos": [
+      {
+        "id": "2000018932969476",
+        "data": "2026-10-11T23:05:30.000-04:00",
+        "total": 61.46,
+        "cancelado": true
+      }
+    ],
+    "nome": "",
+    "apelido": "XAWI8321347",
+    "documento": "44622125846",
+    "telefone": "",
+    "telefone2": "",
+    "email": "",
+    "cep": "",
+    "endereco": "",
+    "cidade": "",
+    "uf": "",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn92e1a8bf",
+    "mlId": "41789616",
+    "criado": "2026-10-24T14:01:08.726Z",
+    "pedidos": [
+      {
+        "id": "2000018932146436",
+        "data": "2026-10-11T21:51:17.000-04:00",
+        "total": 94.21,
+        "cancelado": false
+      }
+    ],
+    "nome": "Jeruza Aparecida Rodrigues",
+    "apelido": "JERUZA_ROD",
+    "documento": "27813804821",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "17522210",
+    "endereco": "Rua Guararapes, 630, Jardim Monte Castelo, Referencia: bl 3 apto 304",
+    "cidade": "Marília",
+    "uf": "SP",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn92f3aeab",
+    "mlId": "490318884",
+    "criado": "2026-10-24T14:01:08.726Z",
+    "pedidos": [
+      {
+        "id": "2000018932031918",
+        "data": "2026-10-11T21:42:26.000-04:00",
+        "total": 59.74,
+        "cancelado": false
+      }
+    ],
+    "nome": "Joao Carlos Dos Santos",
+    "apelido": "JCJSANTOS1987",
+    "documento": "03678845509",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "15077020",
+    "endereco": "Rua Maria Ceron Volpe, 1070, Vila Toninho, Ap401 Bl04 Referencia: Condomínio Rio Salas",
+    "cidade": "São José do Rio Preto",
+    "uf": "SP",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn920c0283",
+    "mlId": "1081492289",
+    "criado": "2026-10-24T14:01:08.726Z",
+    "pedidos": [
+      {
+        "id": "2000018931655640",
+        "data": "2026-10-11T21:17:47.000-04:00",
+        "total": 99.17,
+        "cancelado": false
+      }
+    ],
+    "nome": "Felipe Soares Miranda",
+    "apelido": "SOARESFELIPE20220618203010",
+    "documento": "54570689272",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "68743020",
+    "endereco": "Travessa Cônego Luís Leitão, 2319, Centro, MS ótica e acessórios em frente Gstore importados",
+    "cidade": "Castanhal",
+    "uf": "PA",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn9264f616",
+    "mlId": "266797115",
+    "criado": "2026-10-24T14:01:08.726Z",
+    "pedidos": [
+      {
+        "id": "2000018930498290",
+        "data": "2026-10-11T19:55:56.000-04:00",
+        "total": 94.21,
+        "cancelado": false
+      }
+    ],
+    "nome": "JUSSANDRO LMA DE SOUZA",
+    "apelido": "LIMADESOUZAJUSSANDRO",
+    "documento": "02402624418",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "58580000",
+    "endereco": "ELETRICSTA JANUNCORODRGUES DE SOUZA, 599, Serra Branca, CASA Referencia: CASA",
+    "cidade": "Serra Branca",
+    "uf": "PB",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn921cd415",
+    "mlId": "454588164",
+    "criado": "2026-10-24T14:01:08.726Z",
+    "pedidos": [
+      {
+        "id": "2000018930101422",
+        "data": "2026-10-11T19:31:49.000-04:00",
+        "total": 26.9,
+        "cancelado": false
+      }
+    ],
+    "nome": "Marcela Mendes Sfair Fortes",
+    "apelido": "MARCELASFAIR",
+    "documento": "16279890805",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "12606330",
+    "endereco": "Rua Madame Curie, 470, Cruz",
+    "cidade": "Lorena",
+    "uf": "SP",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn9276c020",
+    "mlId": "2224530532",
+    "criado": "2026-10-24T14:01:08.726Z",
+    "pedidos": [
+      {
+        "id": "2000018928512750",
+        "data": "2026-10-11T17:42:36.000-04:00",
+        "total": 37.42,
+        "cancelado": false
+      }
+    ],
+    "nome": "Weverton Lima de Souza",
+    "apelido": "WS20250120141307",
+    "documento": "11038481430",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "14470100",
+    "endereco": "Rua Capitão Elias Moreira, 580, Jardim Paraíso",
+    "cidade": "Pedregulho",
+    "uf": "SP",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn92784ae2",
+    "mlId": "2190053579",
+    "criado": "2026-10-24T14:01:08.726Z",
+    "pedidos": [
+      {
+        "id": "2000018927948978",
+        "data": "2026-10-11T17:02:45.000-04:00",
+        "total": 94.21,
+        "cancelado": false
+      }
+    ],
+    "nome": "Joelson Coelho Silva",
+    "apelido": "CJ20250103095902",
+    "documento": "03992523390",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "65268000",
+    "endereco": "rua das flores, 4, vila Liege",
+    "cidade": "Cururupu",
+    "uf": "MA",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn9234ee0e",
+    "mlId": "230002439",
+    "criado": "2026-10-24T14:01:08.726Z",
+    "pedidos": [
+      {
+        "id": "2000018926807532",
+        "data": "2026-10-11T15:42:17.000-04:00",
+        "total": 61.46,
+        "cancelado": false
+      }
+    ],
+    "nome": "Carlos Cesar da Silva Queiroz",
+    "apelido": "SAVIORS03",
+    "documento": "44843939803",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "08372300",
+    "endereco": "Rua Alamanda Roxa, 36, Sítio da Barra, Casa 1 Referencia: Ponto referência igreja assembleia de Deus",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn92783f6d",
+    "mlId": "203124217",
+    "criado": "2026-10-24T14:01:08.726Z",
+    "pedidos": [
+      {
+        "id": "2000018925831996",
+        "data": "2026-10-11T14:36:20.000-04:00",
+        "total": 34,
+        "cancelado": true
+      },
+      {
+        "id": "2000018925836014",
+        "data": "2026-10-11T14:34:18.000-04:00",
+        "total": 34,
+        "cancelado": false
+      }
+    ],
+    "nome": "Andresa Marques Paes",
+    "apelido": "ANDRESAMARQUESPAES",
+    "documento": "02572006901",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "88702803",
+    "endereco": "Rodovia Norberto Brunato, 7575, São João (Margem Direita), Referencia: PRÓXIMA A IGREJA DO KM 63",
+    "cidade": "Tubarão",
+    "uf": "SC",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn923e75d5",
+    "mlId": "287523712",
+    "criado": "2026-10-24T14:01:08.726Z",
+    "pedidos": [
+      {
+        "id": "2000018925640760",
+        "data": "2026-10-11T14:21:22.000-04:00",
+        "total": 34,
+        "cancelado": false
+      }
+    ],
+    "nome": "Elizabeth Batista do Nascimento",
+    "apelido": "BETHBATISTA0605",
+    "documento": "84466421668",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "31270310",
+    "endereco": "Rua Boaventura, 2085, Liberdade, Torre 3, apto 902 Referencia: Grand Resort Jaraguá",
+    "cidade": "Belo Horizonte",
+    "uf": "MG",
+    "obs": ""
+  },
+  {
+    "id": "cmvmgvn9269f29b",
+    "mlId": "1460497610",
+    "criado": "2026-10-24T14:01:08.727Z",
+    "pedidos": [
+      {
+        "id": "2000018925435382",
+        "data": "2026-10-11T14:08:21.000-04:00",
+        "total": 94.21,
+        "cancelado": false
+      }
+    ],
+    "nome": "Cristina Soares carneiro",
+    "apelido": "SOARESCRISTINA20230824114021",
+    "documento": "87464594215",
+    "telefone": "XXXXXXX",
+    "telefone2": "",
+    "email": "",
+    "cep": "68795000",
+    "endereco": "Rua São José, 218, murinim, campo do maconhao Referencia: TV anjo Gabriel   vila dos anjos",
+    "cidade": "Benevides",
+    "uf": "PA",
+    "obs": ""
+  }
+]

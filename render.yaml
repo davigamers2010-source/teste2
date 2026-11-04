@@ -1,0 +1,27 @@
+services:
+  - type: web
+    name: automacao-ia-ms-importadora
+    runtime: node
+    plan: 0.5c-512mb
+    buildCommand: npm ci
+    startCommand: npm start
+    healthCheckPath: /healthz
+    disk:
+      name: central-dados
+      mountPath: /var/data
+      sizeGB: 1
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: HOST
+        value: 0.0.0.0
+      - key: ACCOUNT_DATA_DIR
+        value: /var/data/dados-contas
+      - key: ACCOUNT_FILE
+        value: /var/data/usuarios.json
+      - key: DIAGNOSTIC_FILE
+        value: /var/data/diagnostico-servidor.txt
+      - key: INITIAL_ADMIN_PASSWORD
+        sync: false
+      - key: CREDENTIALS_ENCRYPTION_KEY
+        sync: false

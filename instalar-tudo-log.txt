@@ -1,0 +1,5 @@
+Instalacao 2026-10-26T10:13:19.265Z · node v24.20.0 · pasta C:\Users\maico\OneDrive\Área de Trabalho\Sistema IA\v17
+servidor.js: 167622 bytes · versao abas-17-cerebro · index.html: 297431 bytes
+
+NAO INSTALEI: [Cérebro IA] foi instalado por uma versao antiga do instalador (sem marcadores). Copie de volta o servidor.js e o index.html de dentro da pasta backup-instalacao-* ou backup-cerebro-* mais antiga desta pasta e rode este instalador de novo.
+Nenhum arquivo foi alterado. Envie o arquivo instalar-tudo-log.txt desta pasta para quem esta te ajudando.
